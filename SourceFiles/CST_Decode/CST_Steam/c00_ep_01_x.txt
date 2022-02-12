@@ -1,0 +1,57 @@
+#c00_ep_01_x
+
+	#103 = 0 
+	#101 = 99 
+	#104 = 0 
+	frameoff
+	wait
+	view 0 yonagi
+	wait
+	se 0 loop se5483
+	se 1 loop se5000
+	se 2 loop se5474
+	se 3 loop se5460
+	se 0 fade 120 0 60
+	se 1 fade 120 0 60
+	se 2 fade 120 0 60
+	se 3 fade 120 0 30
+	bgm 0 bgm0_03
+	bg 0 blur 4 4
+	bg 0 bg31a
+	eg 1 eva35,a,0,0,a,a,a
+	rwipe w_bt 300
+	wait
+	wait 60
+	pcm A_c00_ep2_031
+世凪	「――で、２人はとっても幸せな家庭を築くの」
+
+海斗	「なるほど」
+
+	eg 1 eva35,a,0,0,b,d,b
+	rdraw
+	pcm A_c00_ep2_032
+世凪	「……やっぱ、どこかで海斗の子供、欲しかったんだろうな、わたし」
+
+	eg 1 eva35,a,0,0,b,e,b
+	rdraw
+	pcm A_c00_ep2_033
+世凪	「その願望が、凛の物語にはのっかってる気がする――」
+
+	fw
+海斗	「……」
+
+	eg 1 eva35,a,0,0,a,d,b
+	rdraw
+	pcm A_c00_ep2_034
+世凪	「でも、わたしの分まで、凛が幸せになってくれるから――」
+
+	世凪はそう言って、また私の肩に頭をあずけた。
+
+	fw
+海斗	「そうだね」
+
+	if (#216 + #226 + #236 == 3 ) next c00_ep_123_x
+	pcm A_c00_ep2_035
+世凪	「次は――？」
+
+	next c00_ep_123

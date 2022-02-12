@@ -1,0 +1,100 @@
+#c99_01_03_z
+
+	frameoff
+	wait
+	wait 30
+	bg
+	eg
+	bg 0 bg04a
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+海斗	「……なるほどね」
+
+	cg 2 cum,1,1,1,3,1
+	rdraw
+	pcm U_c00_C_01_080
+出雲	「？」
+
+海斗	「――この世界について、僕はある程度のことを知っている」
+
+海斗	「どうやら全健忘のような状態らしい」
+
+	dic_reg 1 4002
+	dic_check_update
+	dic_reset_apend
+	cg 2 cum,1,1,2,4,1
+	rdraw
+	pcm U_c00_C_01_081
+出雲	「その通りです。ただ、人工的にその状態になっているので、似て非なる
+	状況ではあります」\@
+	pl 2 arc 30 180 360 0 7
+	wait
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	\n
+
+海斗	「自然治癒はしないのかな」
+
+	cg 2 cum,1,1,1,2,1
+	rdraw
+	pcm U_c00_C_01_082
+出雲	「記憶がもどればわかります」
+
+海斗	「なるほどね」
+
+	frameoff
+	cg
+	bg 0 pos @+0 @+778
+	bg 0 bg90a
+	rwipe w_bt 60
+	wait
+	僕はもう一度、丸く切り取られた空を見上げた。
+
+海斗	「ありがとう。戻ろうか」
+
+	fw 0 cus,1,1,2,4,1
+	rdraw
+	pcm U_c00_C_01_083
+出雲	「はい」
+
+	fw
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	cg
+	pl
+	bg
+	eg
+	rwipe w_rl 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	bg 0 bg05a
+	rwipe w_rl 120
+	wait
+海斗	「世凪はどこにいるんだろう」
+
+	cg 2 cum,1,1,1,2,1
+	rdraw
+	pcm U_c00_C_01_084
+出雲	「レクリエーションルームにいます」
+
+海斗	「レクリエーションルーム」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_C_01_085
+出雲	「こっちです」
+
+	if(#211 == 1) next c99_01_a_02
+	if(#221 == 1) next c99_01_b_02
+	if(#231 == 1) next c99_01_c_02

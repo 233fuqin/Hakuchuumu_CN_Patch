@@ -1,0 +1,1188 @@
+﻿Kaito
+And this is?
+Yonagi
+The Globe theater! I read this was the theater where Shakespeare's troupe performed.
+Kaito
+I see.
+
+I see her research on Shakespeare for her next novel is going well.
+
+I approach her and bring my face closer to Olivia.
+
+The scent of roses tickles my nose as I breathe in.
+Olivia (Yonagi)
+Has a nice scent to it, does it not? That's the scent of roses.
+Kaito
+Mhm, it's captivating.
+Olivia (Yonagi)
+Now, don't sniff if you know what's good for you.
+
+I take a few steps back.
+Kaito
+...
+
+The scent of roses weakens accordingly.
+
+There's nothing strange about the way the scent disperses.
+
+This is a big breakthrough.
+
+We were able to reproduce the dispersion of scent particles according to the laws of physics.
+
+Everything's going as I theorized so far.
+
+I thought we might experience a delay due to the processing calculations, but there's been no lag I can detect.
+Yonagi
+Earth to Kaito! What do you think?
+
+Her voice sounds as it should at this distance.
+Kaito
+Mm, it seems fine. I believe it's going well.
+Yonagi
+Ooh!
+
+This dreamscape has both Yonagi's and my thoughts in it, so I've come to call it a compound dreamscape.
+
+It's no longer a world shaped after Yonagi's cognition and thoughts alone.
+
+While she is the one building this world, the data is sent to and managed by Wooleep.
+
+Yonagi and I are participants in the dream, and we communicate with each other and the world through Wooleep.
+
+Yonagi definitely created the world itself on her own, but now it's being shared in equal measure to all the participants connected to Wooleep.
+
+If I were to draw a conceptual diagram, the only difference now is that Wooleep is acting as a middleman between us, but it changes quite a lot.
+
+The biggest change of them all is the fact that Wooleep is accumulating the raw data of the world Yonagi is building up.
+
+If we develop the data from her dreamscape even further, maybe it could help to solve the problems that the professor's lab is facing right now.
+Kaito
+This is a big step forward. Maybe it could produce something that the professor was never able to.
+Yonagi
+Ooh!
+Kaito
+Izumo, project the data from that session onto the monitor.
+Izumo
+Displaying now.
+
+Izumo broadcasts her data to the terminal in my hand.
+
+It's a record of our sensory information while in the dreamscape.
+
+Wooleep is equipped with the sensory feedback manipulation app provided by the professor, and he's able to transfer data back to Izumo.
+
+The information displayed shows a staggering amount of detailed information compared to the bio monitoring function that Izumo's equipped with.
+Kaito
+It's amazing. We can see exactly which actions stimulate which parts of the brain. It's literally all here.
+Yonagi
+Think it could be useful?
+Kaito
+Yeah. At the very least it's a huge step in the right direction.
+
+I learn several things from analyzing the data.
+
+About both Yonagi's dreamscape and the professor's virtual space.
+
+There is only one difference between the experience of the participants: the stimulus of the sense of smell.
+
+And yet...
+
+The parts of the brain being stimulated are completely different in both.
+
+When I'm inside Yonagi's dreamscape, it's not only my thalamus being stimulated, but every single part of my limbic system.
+
+Moreover, which parts of it are reacting varies wildly depending on the situation.
+
+To put it simply, while the motor commands produced by the brain are not being transmitted to the muscles through the brain stem, the brain still behaves as if the body were actually moving in reality.
+
+But at the same time...
+
+Those neurological reactions change depending on the person's psychological state.
+
+For example, the parts of my brain reacting were different when I was in the theater, facing Yonagi, or making sure the scents worked as intended.
+
+The curiousness of exploring an unfamiliar place, talking, and reacting to what I see. All of these stimulate different areas of the brain.
+
+This means that the state of mind and cognition of each participant will become the parameters needed for the construction of the dreamscape.
+Kaito
+Which means...
+
+Does this mean we have to separately tune the stimulus signals that the dreamscape sends to each brain depending on the person?
+
+That can't be.
+
+It would take several lifetimes to do such a thing on a large scale.
+
+If more participants are added to the mix, communication between them will also occur.
+
+Not to mention states of semi-communication in which a person reaches towards another and waits for an answer.
+
+The depth of human interaction is not a mere binary concept. It's something that's always in flux.
+
+Each action makes the brain react a certain way, and not everyone reacts to the same stimuli the same way.
+Kaito
+It's a whole different beast...
+Yonagi
+Did something go wrong?
+Kaito
+Your dreamscape and the professor's virtual space are very similar, but... Now I understand that they're completely different on the inside.
+Yonagi
+Whoa...
+Kaito
+Your dreamscape is a hundred—no, thousands of times more complicated.
+Kaito
+At the very least, I can't even tell how many brain process patterns there are or how they all relate to each other just yet.
+Yonagi
+So I'm the best, then? Good to know!
+
+I shake my head.
+Kaito
+I don't think we should be happy about it.
+Kaito
+This means that it's impossible to build the lab's vision of a virtual space, at least for the time being.
+Yonagi
+What? It's that different?
+
+I nod, my eyes still scanning the information feed on the monitor.
+Yonagi
+What are you gonna do? Is there anything I can do to help?
+Kaito
+Of course. You can help a lot.
+Kaito
+Since we're dealing with this degree of complexity...
+Kaito
+We have no choice but to gather statistical data and emulate it.
+Kaito
+We'll accumulate the sensory data of our brains by experiencing a variety of places, experiences, and situations in the dreamscape.
+Kaito
+Once we have enough data, we can generate brain reaction signals based on statistical predictions.
+Kaito
+To put it simply, we'll need to collect enough data between the two of us to produce a Yonagi emulator, if you will.
+Yonagi
+An emulator?
+Kaito
+I'm just making a machine imitate the processes your brain performs when building this space.
+Yonagi
+Mm?
+Kaito
+So the goal will be to experience as many kinds of spaces, sounds, and emotions as possible in the dreamscape.
+Kaito
+We'll talk about different things, go to different places—the more variation we can produce, the better. Same goes for the emotions.
+Yonagi
+So that means I should put you in as many situations as possible and show you as many characters as I can to get different emotions out of you?
+Kaito
+That's one way to put it, yeah.
+
+Her eyes widen and start to glitter as an impish smile plays about her lips.
+Yonagi
+Good for you, because stories is what I'm best at! I got tons of them! Let's get started!
+Sumomo (Yonagi)
+Peaching peaches Sumomo Momonouchi!
+Kaito
+Whoa, long time no see, Sumomo.
+Sumomo (Yonagi)
+Been a while, eh, Kanna?
+
+I can't help but smile at the nostalgic sight.
+
+We're in Momonouchi Sumomo and Amei Kanna's summer love story.
+
+It's from the time when Yonagi and I started living together.
+
+It's the first story she ever completed, back when we were kids.
+Kaito
+Ah, right. This was the story where they went out to look for the place in his mom's photo, right?
+Yonagi
+Yep! I wanted to make a story like The Blue Bird back then, remember?
+Kaito
+Heh.
+
+I notice something new about Sumomo and chuckle to myself.
+Yonagi
+What is it?
+Kaito
+Isn't it a bit much?
+Yonagi
+What do you mean?
+
+I recognize the smell from the batch of printed samples I showed her the other day.
+Kaito
+That sweet scent is peaches, right?
+Yonagi
+Huh? I smell like peaches? Really?
+Kaito
+It's a little on the nose.
+Yonagi
+Hah! How rude! You're gonna have to look for another gal to help you if you keep that up!
+Kaito
+Sorry, my bad.
+Yonagi
+So what now? We take a walk or something?
+Kaito
+Yeah, we can walk around.
+Yonagi
+So we just hang around? That's it?
+Kaito
+It's enough. You're creating worlds indistinguishable from reality with nothing but your own mind.
+Kaito
+This is more than remarkable enough, I'm sure.
+Kaito
+If we can reproduce this with a machine, I'm not exaggerating when I say that it will save humankind.
+Yonagi
+Wew! You'll become super famous when you build that doohickey, right?
+Kaito
+You too.
+Yonagi
+Wait, what? Don't bring me into it!
+Yonagi
+It's fine. Just say you came up with everything.
+Kaito
+...
+Yonagi
+You know? I'm so happy we can finally talk to each other.
+Kaito
+Huh? Don't we talk all the time?
+Yonagi
+Yeah, but Sumomo's partner is Kanna, and Olivia's is Will... But they're all modeled after you.
+Kaito
+Oh, really?
+Yonagi
+They're not literally you, but I guess it's kind of hard for the characters you make to not come out looking like the people close to you.
+
+We keep walking along to the airport fence.
+
+Each step is punctuated by the sound of crunching gravel beneath our feet.
+
+I look up at the blue sky, feeling the occasional soft, warm caress of the wind against my face.
+Yonagi
+Hey, can we go to England next? I came up with something super cool!
+Yonagi
+You know Romeo and Juliet, right?
+Kaito
+You've been telling me that story ever since we were kids, so it'd be hard not to.
+
+The tragic story of two youths from families embroiled in a generational feud who fall in love, but ultimately die for it.
+
+Ever since she first told me about it, I always wondered if there could have been a better ending for them.
+Yonagi
+Since it's the most famous story in the whole world, I'm making a story about Shakespeare and how he got to the point where he wrote it!
+Kaito
+...
+Yonagi
+Sounds really good, right?
+Kaito
+It does sound interesting, but it also sounds like something that's been made a thousand times before.
+Yonagi
+That's because it's such a good trope! Now hear this! Did you know that the name Olivia is something that Shakespeare came up with?
+Kaito
+Oh, really?
+Yonagi
+Really!
+Olivia (Yonagi)
+A beauty that mesmerizes through the ages. The greatest poet of all time is the one who spun the name.
+Olivia (Yonagi)
+It's perfect, is it not? You could even say that there is no other name more befitting for the world's first actress.
+Kaito
+Right. Women couldn't act back then, yeah?
+Yonagi
+Bingo!
+Yonagi
+You mind if I switch characters on the fly like this?
+Kaito
+Not at all. It doesn't even have to be Chiba in 2060 or England in the sixteenth century. Show me anything you want.
+Kaito
+Keep going. Show me something that'll jolt my brain good.
+Yonagi
+Now, that's the fire I wanted to see.
+Kaito
+You have more characters than Sumomo and Olivia, right?
+Yonagi
+I got boatloads! You remember the female detective Rebecca? I also have a really fun story about a super female hacker named Haruka Motomiya! And that's not all—
+Kaito
+...
+
+Those don't sound very interesting.
+
+But she's really pumped up about them, so I guess I'll go along with it.
+Kaito
+*Sigh*
+
+I was writing code for a basic emulator all night yesterday.
+
+Using the data produced by me and Yonagi as a sample, I'm correcting any issues in the simulation with statistical processing.
+
+Thankfully, my memory comes in handy once more.
+
+I find and assess each difference between the virtual space and Yonagi's composite dreamscape, and attempt to close the gap with programming.
+
+It's only because of my perfect memory that I'm able to contrast what the feed shows me with the discrepancies in visual and auditory feedback that I experienced in the dreamscape.
+
+But no matter how good my memory is, I still only have as many hours in a day as anyone else. Needless to say, my sleep schedule is in shambles.
+????
+Hey there!
+
+I turn around at the sound of a familiar voice.
+
+Iruma is walking up to me, his expression as jovial as I remember it.
+Kaito
+Been a while.
+Iruma
+You been well?
+Kaito
+Well enough. Just a little sleep deprived.
+Iruma
+You say that as if it isn't business as usual for you.
+
+He has a laugh at my expense as he comes to stand next to me and leans on the railing to overlook the city.
+Iruma
+So, yeah...
+Kaito
+Mm?
+Iruma
+I'm a researcher now. Starting today.
+Kaito
+...
+
+For a moment, the news cast a dark shadow over me.
+
+I couldn't return the words.
+
+So Iruma's already a researcher while I haven't achieved anything in Professor Asuma's lab.
+Kaito
+That's amazing. Congrats.
+Iruma
+Nah, man. I haven't done a thing, really.
+Iruma
+I mean, I'm pretty much a glorified assistant, I guess? I don't know jack about the research, I just measure and divide medicine all day as I'm instructed.
+Iruma
+Hard to feel good about getting called a researcher like that, to be honest.
+Kaito
+They're doing important work over at Kanou's lab, and you're part of that.
+Iruma
+I still don't feel good about it. If I knew this is how things were gonna go down, I would've chosen a smaller lab where I'd actually get to do something.
+Kaito
+...
+
+The grass is always greener on the other side, huh?
+Iruma
+How is it going for you? You feeling more fulfilled over at Asuma's lab?
+Kaito
+I think so. Right now we're researching something that would overhaul the whole approach his lab has taken towards its research so far.
+Iruma
+Whoa.
+Kaito
+I suppose it is, but to be honest...
+
+I idly look out over the middle side cityscape.
+Kaito
+I'm still a lowsider. I'm happy to hear that you finally became a researcher.
+Kaito
+I mean, you were a midsider anyway, but you know what I mean.
+Iruma
+Aw, don't give me that. We both know you're the better man here. Heck, our whole class knows that.
+Kaito
+I don't think so. You get along with everyone, and I can't brighten up the mood like you can. Not in a thousand years.
+Kaito
+I think big laboratories need people like you.
+Kaito
+Kanou's lab is like a big family, right? I'm sure they appreciate someone who can talk to people.
+Iruma
+Well, if you think so highly of me, why not poach me away?
+
+I turn to face Iruma, and I'm met with his placid smile.
+
+I realize immediately that he's not trying to mess with me.
+Iruma
+No need to hurry, my man. I just know you'll be carrying that lab on your shoulders in no time flat.
+Kaito
+You really think so?
+Iruma
+You might have had a hard time noticing with your nose stuck in all those books, but you really stood out back in the engineering course.
+Iruma
+Everyone always had you pegged for the kind of guy that finds his own research topic and gets a laboratory named after them.
+Iruma
+You know, the day I met you I resolved to turn my life around and go through with all this.
+Kaito
+I never knew. Is that what you were thinking?
+Iruma
+There's no man more fit for the post than you. Work hard, my boy. I'll be looking forward to hearing the good news.
+Iruma
+Make sure I'm at the top of the list when the Kaito lab opens up. I'll scout out all the best assistants from the other labs, just for you.
+Iruma
+Like you said, I'm getting a good head start on that already, heh.
+Kaito
+It's good to know someone has my back.
+Kaito
+All right. If I ever get my own lab, I'll ask you to become my second in command.
+Iruma
+Wahoo! Don't go forgetting about me when you make it big, okay?
+Kaito
+My memory's the only thing I have going for me. I promise I won't forget.
+
+We look up at the lens above us. The sun is still high in the sky.
+Iruma
+Well, I guess it's time for me to go measure out medicine for the day.
+Kaito
+And time for me to bang my head against the wall a few times.
+Kaito
+I'll use this jealousy over seeing my peers climb up the ladder to see if I can get some work done.
+Iruma
+Hahah! If I could make you even slightly green with envy, I suppose becoming a researcher was worth something.
+Asuma
+You look a little tired, Kaito.
+
+Towards evening, Professor Asuma suddenly appears in the lab as I'm resting my elbow on the table and my head in my hand.
+
+Whoops. I was on the verge of falling asleep.
+Kaito
+Sorry, I was up late last night.
+
+He nods, his smile showing a tacit understanding.
+Kaito
+Were you giving a lecture today?
+
+He shakes his head.
+Asuma
+Just a regular meeting of laboratory directors. The quarterly one to keep track of all the labs of the institute and their progress.
+Kaito
+...
+
+There's nothing for our lab to report yet.
+
+I've no idea how big of a meeting it was, but just imagining how he must have felt makes my chest twinge painfully.
+
+We can't continue like this.
+
+If we don't get results soon, the lab will slowly die off.
+
+Just a little more...
+
+If I can improve the emulator, I'll be able to show it to him.
+Asuma
+You've been busy as of late, haven't you? I can always tell when a researcher is working on something.
+Kaito
+Yes, I'm making a prototype to test a hypothesis I have.
+Asuma
+Ohoh.
+Kaito
+I'm exploring a method that doesn't involve manipulating the thalamus.
+Kaito
+Basically, I'm trying to verify if we could create a virtual space in a different way to what we're doing now.
+Asuma
+Ooh!
+Kaito
+But it's still just a hypothesis, so I'll wait until I have something concrete to show.
+Asuma
+I'll be waiting with bated breath.
+
+The professor says, before pacing over to the brewing machine to serve us two cups of coffee.
+
+He doesn't seem exhausted or impatient.
+
+Guess it goes to show how different I still am from a seasoned career researcher.
+
+I...
+
+I'll show that I can produce greater results than any of the others who started working in other labs.
+
+Research is a long-term affair. There's no need to rush.
+
+Or so I tell myself, but I can't deny the growing frustration churning in my chest with every passing day.
+Kaito
+...
+Yonagi
+What's up?
+Kaito
+Ah, it's just...
+
+I raise my face from the terminal and give a limpless reply.
+Yonagi
+Are you having trouble with that, uh, emulator thing?
+Kaito
+No, it's going well enough... But I guess I am having trouble. Or rather, I've encountered a problem.
+Yonagi
+Mm?
+Kaito
+In physics, there's something called the n-body problem.
+Yonagi
+The what problem?
+
+I look up to see Yonagi cocking her head to the side in confusion.
+Kaito
+Basically, it's impossible to predict the motion of three or more bodies that influence each other.
+Yonagi
+Um, okay?
+Kaito
+Let me give you an example. If you and I were the only people in the world, it would be relatively easy to simulate our state of mind.
+Kaito
+As members of the opposite gender, we would grow to love one another if that were our inclination, which it is in this case. For example, we would feel calm holding hands or being together.
+Kaito
+To put it simply, it would be easy to predict how two entities interacting with each other would behave.
+Yonagi
+Y-Yeah, way to say that with a straight face...
+Kaito
+Huh?
+Yonagi
+Err, worry not. Do continue, good sir.
+Kaito
+But if we were to add an acquaintance of us both, like Professor Asuma, to the mix, our behavior would change again.
+Yonagi
+Mm, I suppose?
+Kaito
+The simulator I'm making processes the virtual space using data that comes from measuring the reactions of our brains under various stimuli.
+Yonagi
+But the way people interact becomes more complex when it comes to three or more people, so there's a limit to what we can accomplish with just the two of us?
+Kaito
+That's the gist of it, pretty much.
+Kaito
+I don't think 'complex' really covers just how complicated the process becomes with three people. Not that I can verify that with the data we can produce at the moment.
+Yonagi
+Then why don't we have Izumo join us?
+Kaito
+Izumo?
+Yonagi
+She can't?
+Kaito
+No, uh... I don't know. Can she?
+
+I didn't even consider a non-human participant.
+
+But if I'm taking data from Yonagi, and she recognizes Izumo as an individual, it shouldn't pose a problem... Right?
+
+In the future we'll need to prepare other human participants to collect data, though.
+Yonagi
+She can't enter my dreamscape or whatever?
+Kaito
+I can't say I ever thought of the possibility before.
+Izumo
+Currently, the master data of the dreamscape that Yonagi creates is uploaded to Wooleep.
+Izumo
+Your cognition is then turned into data and placed into the dreamscape as an avatar, which reacts with the dreamscape and sends sensory feedback in recognizable signals to your brains.
+Izumo
+As Wooleep is my assigned auxiliary terminal, I possess root administrator rights. It is possible to create new avatars in my image and send those signals to you in a way that you can perceive inside the dreamscape.
+Kaito
+Ooh!
+Yonagi
+Er, so?! Would anyone mind translating into English for me?!
+Kaito
+It means that Izumo can enter the dreamscape, in short.
+Kaito
+She also says that we can create as many participants into the dreamscape as her processing power allows.
+Yonagi
+She can be more than one person in there?!
+
+I nod, still mulling over the implications of this discovery.
+Kaito
+Well, we should try and see how it works out. Can you enter the dreamscape now?
+
+She gives one short nod for an answer.
+Yonagi
+Let's hang in Sumomo's world today!
+Yonagi
+Whoa, it's Izumo! She's here!
+Kaito
+It's amazing. It feels just like the real thing.
+Yonagi
+She does look a little out of place in the garage with all those glowing lights and stuff though.
+Izumo
+I can change my form.
+Yonagi
+Oh! Then I've got a great idea!
+Yonagi
+So, about this tall, and then make the boobies huge... Yes, that's good... And she's all touchy about her name and stuff. She goes... *whisper*
+Kaito
+What are you two doing over there?
+Yonagi
+I'm directing her on how to play her character.
+Kaito
+Hah.
+Izumo
+Understood. I will perform it now.
+Yonagi
+Break a leg!
+Azuki (Izumo)
+The name's Azuki, you squirt!
+Kaito
+Azuki?
+Sumomo (Yonagi)
+Geez, did you forget Azuki, the greatest scrap hunter that ever lived?
+Kaito
+Ah, right!
+
+She's from Sumomo's story.
+
+There was a female scrap hunter character in it.
+
+I still don't quite understand what a scrap hunter is supposed to be, though.
+Sumomo (Yonagi)
+I'm loving it! You got her just right! Well done!
+Azuki (Izumo)
+Of course I did! Your girl can do anything she sets her mind to!
+Kaito
+Is that really Izumo speaking?
+Azuki (Izumo)
+Who else could it be, eh?!
+Kaito
+S-Sorry...
+
+That's what the woman named Azuki called herself.
+
+There is no doubt that this is basically Izumo.
+Sumomo (Yonagi)
+Ahahah! Yes, just like that! So I'm Sumomo, and Kaito is Kanna.
+Kaito
+Huh? Whoa!
+
+I jump as I see myself shrink a few centimeters.
+Azuki (Izumo)
+Don't get spooked now, boy! That's what we're here for—gathering data on as many scenarios as possible!
+Azuki (Izumo)
+This is what statistics are all about, I say!
+Kaito
+Point taken.
+Azuki (Izumo)
+So, what do we do now? What kind of data do you want anyway, Candy?
+Kaito
+Excuse me?
+Azuki (Izumo)
+I mean, look at that little sweet face of yours. You're an eye candy if I've ever seen one.
+Kaito
+Really?!
+Sumomo (Yonagi)
+For real?!
+Kaito
+Isn't this one of your ideas, Yonagi?!
+Azuki (Izumo)
+I'm improvising!
+Sumomo (Yonagi)
+You're hitting it out of the park! Me next! Give me a nickname!
+Azuki (Izumo)
+Uhhh... You are... bitchy peaches!
+Yonagi
+Who're you calling a bitch?!
+Kaito
+H-Huh? We're out?
+Yonagi
+Izumo! Is that what you've been thinking of me all these years?!
+Yonagi
+I'm a virgin, I'll have you know! For now!
+Izumo
+There is no ulterior motive behind my words.
+Kaito
+Then how did you come up with that nickname?
+Izumo
+I simply predicted the most likely nickname by analyzing frequent vocabulary patterns from Azuki's personal data.
+Izumo
+Then I chose a nickname that would suit Sumomo's personal data.
+Yonagi
+Sumomo's a free soul who follows her own heart, but that doesn't make her a bitch!
+Yonagi
+I know she has experience with men and stuff, but that doesn't mean she's a bitch or a slut or whatever!
+
+Izumo nods back.
+Sumomo (Yonagi)
+Do you get it now?!
+Azuki (Izumo)
+You bitches always have the same story.
+Sumomo (Yonagi)
+Izumo?!
+Azuki (Izumo)
+The name's Azuki!
+Sumomo (Yonagi)
+At least just call me 'peach'!
+Azuki (Izumo)
+Sure thing, lady peach.
+Kaito
+This is impressive, Izumo.
+Sumomo (Yonagi)
+I don't know what the heck happened to her!
+Kaito
+This is exactly the data I needed.
+Kaito
+Now we have data of you two interacting while I observe.
+Azuki (Izumo)
+Yeah, all thanks to me.
+Kaito
+I see...
+
+If we combine Wooleep's physics creation and Izumo's avatar creation function, we can greatly expand the scope of the dreamscape.
+Kaito
+Let's try building the Yonagi emulator into Wooleep's OS. That way Izumo can participate as an avatar anytime she wants.
+Kaito
+If we can emulate you controlling three avatars, it should be easy to expand from there.
+Azuki (Izumo)
+Bet you're happy to have a genius like me on board, eh?
+Kaito
+You don't even know.
+Azuki (Izumo)
+For a woman who can't make anything but porridge, I sure have my uses, eh?
+Sumomo (Yonagi)
+So you're conscious of that, huh?
+Kaito
+It's okay, Azuki. Your porridge is the best ever. We love eating it every day, for real.
+Azuki (Izumo)
+I'm not Izumo! My damn name's Azuki!
+Sumomo (Yonagi)
+She's a consummate actress, huh? She really gets in the role.
+Yonagi
+...
+Kaito
+...
+
+We both glance at Izumo, who has her back to us as she industriously does the usual chores.
+
+She's sweeping the floor, her expression as neutral as it's ever been.
+
+Never before has her lack of expression seemed more enigmatic than now.
+
+But none of us can deny that she's just her usual self.
+Yonagi
+I'm floored.
+Kaito
+Same here.
+Izumo
+Mm?
+Kaito
+It's nothing.
+Yonagi
+Yeah.
+Izumo
+I see.
+Yonagi
+...
+Kaito
+...
+
+Izumo goes back to her tasks.
+
+Wooleep hovers behind her, chirping occasionally.
+Yonagi
+I still can't believe Izumo could be that assertive.
+Kaito
+Did it look like she was having fun, or was it just me?
+Yonagi
+I felt the same, mhm.
+Kaito
+Did she always have a function like that? Maybe the wipe out all those years ago created a bug in her programming?
+Yonagi
+Whatever it is...
+
+Yonagi looks at Izumo then turns back to me.
+Yonagi
+I think I love Izumo more than ever before.
+Kaito
+Yeah.
+
+I smile and nod back.
+Kaito
+Me too.
+Yonagi
+Right?
+Kaito
+We got one more.
+Yonagi
+Mm?
+Kaito
+A reader of your novels.
+Yonagi
+Ahahah, yeah.
+Kaito
+Don't you want lots of people to read what you write?
+Yonagi
+My novels, you mean?
+
+I nod at her.
+
+Her mouth turns into a hard line as she considers it for a moment.
+Yonagi
+Mmm, well, I'm happy you and Izumo read them.
+Yonagi
+But I guess I don't really care about having other people read them, really.
+Yonagi
+I'm not writing for other people to read my stuff.
+Kaito
+Mm?
+
+I urge her to go on with my silence.
+Yonagi
+You remember back when we were kids? Don't actually answer that. You know how that one time a topsider kid broke the toy you made?
+Kaito
+Yeah.
+
+She's talking about Shachi.
+
+The boy who climbed up the ivy in that small clearing we found and died on top of the ozone lens.
+
+That was the last time we saw him.
+Yonagi
+For a while after that, you cried every time you thought about what happened, remember?
+Kaito
+That wouldn't surprise me.
+Yonagi
+I know you remember.
+
+She's right, not that I would readily admit it.
+Kaito
+Being able to forget is something that helps people. That experience taught me that.
+Yonagi
+I know it's hard for you. But I think being able to remember the things you experienced and how you felt at the time so clearly is something impressive in its own way.
+Yonagi
+It's just something I've been thinking about.
+Kaito
+...
+Yonagi
+That's why I write my novels to represent my feelings about things I've experienced myself.
+Kaito
+You feel that way about Sumomo's story too?
+Yonagi
+Of course! Back when we met, you seemed so much younger than me.
+Yonagi
+And I was surprised to find out you liked dumpster diving.
+Yonagi
+That's where I got our foul-mouthed scrap hunter!
+Kaito
+It was a joke at my expense?!
+Yonagi
+Ahahah! That's right.
+Yonagi
+Almost all of the stories I write come from things I experienced with you.
+Yonagi
+I also wanted to speak more with Mom too, I guess. Just like Kanna.
+Kaito
+...
+
+I recall Sumomo's story again.
+
+A boy who has lost his mother meets a woman, and they spend a summer together searching for a special place that holds a deep connection to him and his mother.
+Kaito
+And the same goes for the story about Shakespeare?
+Yonagi
+Yep, that's right.
+Yonagi
+But I'm sure I'm the only one who gets the meaning behind it right now.
+Yonagi
+The excitement I feel, and the frustration. I keep writing to put all those feelings to paper.
+Yonagi
+For my future self.
+Kaito
+What do you mean?
+
+She looks up at me and smiles.
+Yonagi
+What I said! I'm writing so I can remember how I felt when I was young even when I become a wrinkly old lady.
+Kaito
+Ah, I see.
+Yonagi
+Memories usually fade over time, but if I can make stories that let me reconnect with the feelings I had back then, they won't ever really fade.
+Kaito
+Mhm, makes sense.
+Yonagi
+That's why it's enough for me if only you and Izumo read them.
+Yonagi
+You're the only people who I want to know me better.
+Kaito
+I promise to keep reading them together with you even when I become a wrinkly old man.
+Yonagi
+Yeah.
+Kaito
+I'm sure we'll be living in the middle side by then.
+Yonagi
+Middle side?
+
+I nod.
+Kaito
+If this emulator works as I intend, it'll become a huge success for Asuma's lab.
+Kaito
+Then he'll be able to put in a request for me to be a full-time researcher. I'll be a real researcher.
+Kaito
+Which means we'd move to the middle side.
+
+She listens attentively, her eyes wide open.
+Yonagi
+I see...
+
+Her voice lowers to a murmur as she slowly lets her gaze wander about the room.
+Yonagi
+But you know...
+Yonagi
+I like our house a lot.
+Kaito
+...
+Yonagi
+I'll keep helping so your research goes well, of course!
+Kaito
+Thanks.
+
+I know where she's coming from.
+
+This house is full of memories with Mom.
+
+But...
+
+We can't live off memories forever.
+
+Cherishing our memories together isn't the same as clinging on to the past.
+Kaito
+...
+
+I shake my head to chase the thoughts away.
+
+There's no point in worrying about it before I've even produced any results.
+
+Iruma's a researcher already.
+
+I turn my terminal on and start going through the data we got with Izumo today.
+
+The next day, Professor Asuma and I pour ourselves plenty of coffee and discuss theories all day. It's become kind of a routine for us.
+
+I use the time to give him a brief progress report on my work.
+
+I tell him about some of my findings.
+
+Like how the different parts of the brain are stimulated depending on the nature of the virtual space.
+
+He listens to me intently, sometimes interjecting with questions of his own.
+
+Before long, we've finished the first cup of coffee.
+Asuma
+May I ask something?
+Kaito
+Please.
+Asuma
+You were studying the human brain before coming here, is that right?
+Asuma
+Any reason in particular for it? It struck me as a little too specific to be a general subject of research.
+
+That question takes me back to the first time Yonagi ever took me to the library, and I ended up reading medical books.
+Kaito
+I suppose it had something to do with my mother's illness.
+Asuma
+Illness? Don't you live with your parents?
+Kaito
+No. Both of them passed away.
+
+He raises his eyebrows slightly.
+Kaito
+If we had been midsiders, maybe they could have gotten cellular improvements to help their conditions.
+Kaito
+But we didn't have that option, so I started studying the human body to find a solution.
+Asuma
+How old was your mother?
+Kaito
+She passed away when she was thirty.
+Asuma
+So young...
+
+I look up at him.
+Kaito
+Um, I don't know if it's okay to ask, but...
+Asuma
+How old am I? I'll be seventy-two this year.
+Kaito
+Midsiders really do stay young, huh?
+Asuma
+I take artificial genes, amino acids, and nanomachine pills daily.
+Asuma
+We can use the genetic information gathered by our chips to send artificial genes to specific cells and switch them. Nowadays, people believe aging to be a sign of laziness for the most part.
+Kaito
+All midsiders do that?
+
+He nods in response.
+Asuma
+Before the normalization of artificial genes, the average life expectancy of humans was about eighty years. Half of what it is now.
+Kaito
+Eighty? So it was shorter than the life expectancy of lowsiders today?
+Asuma
+We had more resources to draw from when we were on the surface. The scale of research and manufacturing should have been leagues above whatever we can muster up.
+Asuma
+In fact, the invention of artificial genes created a market. At first, only the wealthy had the money to spare on prolonging their lives, but it eventually became available in less developed countries.
+Kaito
+So even people like today's lowsiders had access to it?
+Asuma
+Most of those cheaper solutions did not contain nanomachines.Without them, there was no feedback from the body, and the gene rewriting came out incomplete more often than not.
+Asuma
+But it still led to prolonging life to some extent, so the artificial genes ended up spreading like wildfire all over the globe. Like a bad drug, you could say.
+Asuma
+Even if the people in the low side aren't taking artificial genes now, there is evidence that their genes have been rewritten.
+Kaito
+So our lifespan is longer in general as a result?
+
+He nods again.
+Asuma
+The inherited genes from past generations have been mutated, and people pass them down. It's evolution, really. We humans are the first species on the planet to evolve ourselves through our own inventions.
+Kaito
+It sounds like we're paying for our folly sometimes.
+Asuma
+And you wouldn't be far from the truth.
+
+After that, he gets up from his chair with his mug in hand.
+Asuma
+Let's take a break. I'll prepare the next batch of coffee, if that's okay.
+
+The professor moseys over to the sink, two mugs in hand.
+Kaito
+Thanks.
+Kaito
+Hello!
+Yonagi
+Welcome home, handsome!
+
+Yonagi rushes over to me as I open the door, her smile more radiant than usual.
+Kaito
+Did something good happen?
+Yonagi
+You gotta hear this! I got Izumo to memorize a bunch of characters!
+Kaito
+Oh?
+Yonagi
+It's the best! Izumo's the best actress ever! You wanna see it? Of course you do! Right?!
+Kaito
+S-Sure.
+Izumo
+Should I put dinner preparations on hold?
+Yonagi
+Yeah, forget about food! We're going to Tenbridge today!
+Yonagi
+Ta-dah!
+Kaito
+And this place is?
+Yonagi
+William Shakespeare's family business!
+Kaito
+Oh...
+Yonagi
+And this is—drumroll, please—the owner of this fine establishment! John Shakespeare!
+Father (Izumo)
+Ah, that'd be me. Good day to you, lad.
+Kaito
+Huh? Is that Izumo?
+Yonagi
+Exacto!
+Father (Izumo)
+I could go for some porridge, yes.
+Yonagi
+Ahahah!
+Father (Izumo)
+Where's the ale?!
+Kaito
+Is he supposed to be this... mercurial?
+Father (Izumo)
+A drop of ale for my kingdom.
+Kaito
+Not a very upstanding man, I suppose.
+Yonagi
+And there's even more!
+
+Yonagi excitedly turns to the old man.
+
+Well, it's still Izumo... allegedly.
+Yonagi
+Do Spencer now, would you kindly?
+Kaito
+Wh-Who?!
+Spencer (Izumo)
+The nombre is Spencer, and don't you forget it.
+Yonagi
+You're getting him confused with Azuki!
+Spencer (Izumo)
+Hola, my chico.
+Kaito
+Again, who?!
+Yonagi
+The bad guy who made Olivia his servant!
+Spencer (Izumo)
+I could go for some porridge, yes sir.
+Kaito
+They share lines?
+Yonagi
+Aw, you joker! Nobles don't eat porridge.
+Spencer (Izumo)
+I live by my own reglas. I am not bound by such petty notions of sentido comun.
+Spencer (Izumo)
+The only momento to bind and to be bound is on top of a bed, I reckon.
+Yonagi
+Izumo?!
+Kaito
+You came up with this?
+Yonagi
+Uh, no?!
+Spencer (Izumo)
+Many miembros of the aristocracy reveled in debauchery and excess. Especially so when it came to matters of sensualidad.
+Yonagi
+Really?!
+Kaito
+I suppose that's true in every era.
+Yonagi
+Why is he speaking in Spanish, though?
+Spencer (Izumo)
+Why, it is such a robusto and challenging language, and I do love myself stiff and towering challenges. Ah, how I love to grind myself against such endeavors, much how I love grinding up on a good chico's little amigo, yes.
+Yonagi
+Izumo?!
+Kaito
+...
+
+Is that Izumo speaking right now? Does she like... grinding things up?
+Yonagi
+Who's that?!
+Kiki (Izumo)
+I'm Kiki, remember? I'm a member of Olivia's troupe.
+Yonagi
+What? You made her, Izumo?!
+Kaito
+She's pretty cute.
+Kiki (Izumo)
+Eheheh!
+Yonagi
+No, wait! That won't work! There can't be any actress other than Olivia in this world!
+Kiki (Izumo)
+Oh, but I'm a boy? I have a dingle dangle and all.
+Yonagi
+Are you jesting?!
+Kiki (Izumo)
+Nah! Wanna cop a feel?
+Yonagi
+N-No, thank you!
+Father (Izumo)
+Why, I think I'll take you up on that offer, then.
+Yonagi
+Izumo! S-Stop improvising!
+Father (Izumo)
+Ah, you're right.
+Yonagi
+IZUMOOOOOO!
+Kaito
+And all hell broke loose.
+Spencer (Izumo)
+Ah, how I would simplemente love to peck at it. Like a small, delicate bird.
+Yonagi
+Where is this going?!
+Yonagi
+I-Izumo! Don't you think we might be going a little overboard with the dingle jokes?
+Izumo
+Data of the time period suggests that a moderate amount of off-color humor was indispensable in works designed for the entertainment of the masses.
+Yonagi
+That was moderate to you?! Are you sure?!
+Kaito
+Huh? But these are characters you made, right?
+Yonagi
+Izumo came up with all that on her own, okay?! I didn't write any of it!
+Kaito
+Hell's truly loose today.
+Yonagi
+What is that supposed to mean?! You're gonna tick me off!
+Izumo
+I will now prepare the porridge.
+Yonagi
+You want us to eat porridge after THAT?!
+Kaito
+Izumo, before you do that, please send the data from just now.
+Izumo
+Displaying now.
+Kaito
+Oh, Yonagi's heart rate skyrocketed back there. This is good data to have.
+Kaito
+Well done, Izumo. Feel free to deviate from the script if you must.
+Izumo
+As was my intention.
+Yonagi
+Does anyone listen to anything I say in this stupid house?! I must scream!

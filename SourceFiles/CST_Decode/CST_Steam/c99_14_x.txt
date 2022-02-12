@@ -1,0 +1,85 @@
+#c99_14_x
+
+	se 0 se2027
+	wait
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	cg
+	bg 0 bg01,a
+	rwipe w_time 60
+	食事を終えて寝付いた世凪を、僕は見つめていた。
+
+	世凪は変わらず、静かな寝息を立てている。
+
+	もう、この時間も長くは続かない。
+
+	首謀者の――
+
+	いや――
+
+	僕自身の企ては今、想定通りに進んでいるんだろうか――
+
+	bgm 0 fade 360 100 0
+	frameoff
+	wait
+	wait 60
+	bg 0 fade 360 255 0
+	cg [1-4] fade 360 255 0
+	eg [1-3] fade 360 255 0
+	eg 0 c_white
+	eg 4 f_eye_w
+	eg 5 noisew,a,a
+	rdraw 180
+	wait
+	wait 30
+	pl
+	bg
+	cg
+	rdraw
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	if (#211 == 1) next c01_05
+	if (#221 == 1) next c02_05
+	if (#231 == 1) next c03_05

@@ -1,0 +1,3 @@
+#start
+
+	next c00_00

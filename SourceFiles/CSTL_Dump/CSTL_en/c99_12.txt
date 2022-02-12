@@ -1,0 +1,30 @@
+﻿Izumo
+Good morning.
+Kaito
+Hm? Huh? Izumo?
+Izumo
+Yonagi is having her meal right now.
+Kaito
+Oh, okay.
+Izumo
+Your food is ready as well.
+Kaito
+Right.
+
+I get up.
+Kaito
+How's her recovery going?
+Izumo
+Apace. No problems detected thus far.
+Kaito
+Good.
+Izumo
+The regression isn't as severe as expected, though it is still within the margin of error.
+Kaito
+I see...
+Kaito
+She'll probably ask me to play with her again.
+Izumo
+I do not know.
+Kaito
+Well, better go and see.

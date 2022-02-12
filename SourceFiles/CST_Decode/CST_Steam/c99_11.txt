@@ -1,0 +1,133 @@
+#c99_11
+
+	#104 = 11 
+	undo
+	movie
+	frameoff
+	wait
+	view 0 default
+	eg
+	eg 4 f_eye
+	eg 5 noise,a,a
+	rdraw 0
+	wait
+	eg
+	bg 0 
+	eg 1 
+	rdraw 180
+	wait
+	wait 1
+	cg [1-3] tone asa
+	frameoff
+	wait
+	wait 30
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	bg 0 blur 4 4
+	bg 0 bg02a
+	rwipe w_exp 180
+	wait
+海斗	「……」
+
+	目が覚めてすぐに、僕は身を起こした。\@
+	bg 0 blur 0 0
+	bg 0 bg01,a
+	rwipe w_bt 60
+	bgm 0 bgm0_02
+	\n
+
+	pl 3 scale 210% 210%
+	pl 3 pos 90 585
+	cg 4 cal,1,2,5,b,3
+	bg 3 blur 1 1
+	bg 3 bg01,a @ @ @ 3
+	rdraw 30
+	pcm A_c99_11_001
+世凪	「かいと……、おはよ」
+
+海斗	「……おはよう」
+
+	cg 4 cal,1,2,5,a,2
+	rdraw
+	pcm A_c99_11_002
+世凪	「……よく、ねむれた？」
+
+海斗	「……」
+
+	cg 4 cal,1,2,6,b,3
+	rdraw
+	僕が黙ったままでいると、世凪は小さく首をかしげた。
+
+	se 0 se2027
+	weit
+	pl 3
+	cg 4
+	bg 3
+	pl 2 pos 525 540
+	pl 1 pos 1395 540
+	cg 2 cus,1,1,1,1,1
+	cg 1 cvs,1,1,1
+	rdraw 30
+	wait
+	pl 1 mcarc 360 0 360 0 15
+	出雲とリープくんが部屋に入ってきたのが見えて、
+	僕は出雲が喋ろうとしたのを手で制した。
+
+	出雲は、一度退行したように映る、と言っていたが、
+	僕には多少、感情が豊かになっているように思えた。
+
+	……気のせいだろうか。
+
+	僕は、前の行動に近いことを試してみようと思った。
+
+	もしも本当に退行しているならここは――
+
+海斗	「……世凪」\@
+	pl [3,4] blend 0
+	pl 3 scale 210% 210%
+	pl 3 pos 90 585
+	cg 4 cal,1,2,5,a,2
+	bg 3 blur 1 1
+	bg 3 bg01,a @ @ @ 3
+	wait
+	pl [3,4] fade 30 0 255
+	wait
+	pl 1 stop
+	wait
+	pl [1,2]
+	cg [1,2]
+	\n
+
+	cg 4 cal,1,2,6,b,3
+	rdraw
+	pcm A_c99_11_003
+世凪	「うん？」
+
+	fw
+海斗	「……遊びたいか？」
+
+	cg 4 cal,1,2,1,a,2
+	rdraw
+	pcm A_c99_11_004
+世凪	「……うんっ！」\@
+	pl 4 arc 30 180 360 0 7
+	\n
+
+	fw
+海斗	「……なにしたい？」
+
+	pl
+	cg
+	bg
+	pl 1 pos 300 540
+	pl 2 pos 960 540
+	pl 3 pos 1560 540
+	cg 1 cam,1,1,5,b,2
+	cg 2 cum,1,1,1,1,1
+	cg 3 cvm,1,1,1
+	bg 0 bg01,a
+	rdraw 30
+	wait
+	next c99_a

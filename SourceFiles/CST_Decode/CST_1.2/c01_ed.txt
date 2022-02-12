@@ -1,0 +1,6 @@
+#c01_ed
+
+	undo
+	movie ed_c01
+	end_of_kaisou 44
+	next c01_ed_x

@@ -1,0 +1,803 @@
+#reg_all
+
+	cgflag eva01
+	cgflag eva02
+	cgflag eva03
+	cgflag eva04
+	cgflag eva05
+	cgflag eva06
+	cgflag eva07
+	cgflag eva08
+	cgflag eva09
+	cgflag eva10
+	cgflag eva11
+	cgflag eva12
+	cgflag eva13
+	cgflag eva14
+	cgflag eva15
+	cgflag eva16
+	cgflag eva17
+	cgflag eva18
+	cgflag eva19
+	cgflag eva20
+	cgflag eva21
+	cgflag eva22
+	cgflag eva23
+	cgflag eva24
+	cgflag eva25
+	cgflag eva26
+	cgflag eva27
+	cgflag eva28
+	cgflag eva29
+	cgflag eva30
+	cgflag eva31
+	cgflag eva32
+	cgflag eva33
+	cgflag eva34
+	cgflag eva35
+	cgflag eva36
+	cgflag eva37
+	cgflag eva38
+	cgflag eva39
+	cgflag eva40
+	cgflag eva41
+	cgflag eva42
+	cgflag eva43
+	cgflag eva44
+	cgflag evb01
+	cgflag evb02
+	cgflag evb03
+	cgflag evb04
+	cgflag evb05
+	cgflag evb06
+	cgflag evb07
+	cgflag evb08
+	cgflag evb09
+	cgflag evb10
+	cgflag evb11
+	cgflag evb12
+	cgflag evb13
+	cgflag evb14
+	cgflag evb15
+	cgflag evb16
+	cgflag evb17
+	cgflag evb18
+	cgflag evb19
+	cgflag evb20
+	cgflag evb21
+	cgflag evb22
+	cgflag evb23
+	cgflag evb24
+	cgflag evb25
+	cgflag evb26
+	cgflag evb27
+	cgflag evc01
+	cgflag evc02
+	cgflag evc03
+	cgflag evc04
+	cgflag evc05
+	cgflag evc06
+	cgflag evc07
+	cgflag evc08
+	cgflag evc09
+	cgflag evc10
+	cgflag evc11
+	cgflag evc12
+	cgflag evc13
+	cgflag evc14
+	cgflag evc15
+	cgflag evc16
+	cgflag evc17
+	cgflag evc18
+	cgflag evc19
+	cgflag evc20
+	cgflag evd01
+	cgflag evd02
+	cgflag evd03
+	cgflag evd04
+	cgflag evd05
+	cgflag evd06
+	cgflag evd07
+	cgflag evd08
+	cgflag evd09
+	cgflag evd10
+	cgflag evd11
+	cgflag evd12
+	cgflag evd13
+	cgflag evd14
+	cgflag evd15
+	cgflag evd16
+	cgflag evd17
+	cgflag evd18
+	cgflag evd19
+	cgflag evd20
+	cgflag evx01
+	cgflag evx02
+	cgflag evx03
+	cgflag evx04
+	cgflag evx05
+	cgflag evx06
+	cgflag evx07
+	cgflag evx08
+	cgflag evx09
+	cgflag evx10
+	dic_reg 1 4005
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4012
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4007 
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4008 
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4010
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4011
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4009
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4006
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4015
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4013
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4016
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4017
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4018
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4049
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4019
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4020
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4021
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4022
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4023
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4031
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4026
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4038
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4024
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4025
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4027
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4104
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4032
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4033
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4080
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4034
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4037
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4039
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4035
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4105
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4106
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4028
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4036
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4040
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4041
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4083
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4042
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4043
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4107
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4046
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4047
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4108
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4048
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4057
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4050
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4051
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4045
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4052
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4053
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4054
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4060
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4055
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4056
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4059
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4030
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4058
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4061
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4062
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4063
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4064
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4065
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4066
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4067
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4068
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4069
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4070
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4071
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4072
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4029
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4073
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4075
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4074
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4044
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4076 
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4077 
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4078
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4079
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4097
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4081
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4111
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4110
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4109
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4082
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4084
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4085
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4086
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4087
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4089
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4088
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4091
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4092
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4095
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4099
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4093
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4094
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4096
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4098
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4100
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4103
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4102
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4101
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4102
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4101
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1025
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1002
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1004
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1005
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1009
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1003
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1019
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1006
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1037
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1010
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1017
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1011
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1012
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1013
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1014
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1015
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1016
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1018
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1028
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1035
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1036
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1007
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1008
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1020
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1021
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1022
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1023
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1024
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1026
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1027
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1029
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1031
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1030
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1032
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1033
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 1034
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2002
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2021
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2016
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2003
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2005
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2006
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2012
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2007
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2008
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2029
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2009
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2010
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2028
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2026
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2011
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2013
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2014
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2015
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2018
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2019
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2041
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2017
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2020
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2027
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2024
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2022
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2023
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2004
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2025
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2030
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2031
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2032
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2034
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2033
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2048
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2036
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2037
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2035
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2038
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2039
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2040
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2042
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2043
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2044
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2046
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2047
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2045
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3004
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3003
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3005
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3006
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3008
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3007
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3011
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3012
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3014
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3013
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3002
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3010
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3016
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3017
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3009
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3015
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3018
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3020
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3021
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 3019
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4014
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4002
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4003
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4001
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4090
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4004
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4004
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 4090
+	dic_check_update
+	dic_reset_apend
+	#760 = 1 
+	#1000 = 1 
+	#1001 = 1 
+	#1002 = 1 
+	#1003 = 1 
+	#1014 = 1 
+	#1012 = 1 
+	#1013 = 1 
+	#1005 = 1 
+	ALL OK
+	title

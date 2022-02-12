@@ -1,0 +1,5 @@
+#reset_achievement
+
+	fes reset_achievement
+	wait
+	title

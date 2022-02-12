@@ -1,0 +1,92 @@
+#c99_02
+
+	if (#399 == 0) #104 = 2 
+	if (#399 == 1) #104 = 4 
+	if (#399 == 2) #104 = 6 
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	undo
+	movie
+	eg
+	eg 4 f_eye
+	eg 5 noise,a,a
+	rdraw 0
+	wait
+	eg
+	bg 0 
+	eg 1 
+	rdraw 180
+	wait
+	wait 1
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	frameoff
+	wait
+	wait 30
+	eg 0 blur 10 10
+	eg 0 eva05,b
+	rdraw
+	wait
+	wait 1
+	pcm A_c00_A_02_001
+世凪	「……あ」
+
+海斗	「……ん」\@
+	eg 0 blur 0 0
+	eg 0 eva05,b
+	rdraw 180
+	wait 90
+	\n
+
+	真っ白な天井と、それに同化した長い[白髪/はくはつ]が視界をおおっていた。
+
+	pcm A_c00_A_02_002
+世凪	「……」
+
+	赤い[眸/ひとみ]が僕を見下ろしていた。
+
+海斗	「――世凪……？」
+
+	if(#399 == 0) next c99_02_01_a
+	if(#399 == 1) next c99_02_01_a
+	if(#399 == 2) next c99_02_01_c

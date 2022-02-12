@@ -1,0 +1,50 @@
+#c99_01
+
+	if (#399 == 0) #104 = 1 
+	if (#399 == 1) #104 = 3 
+	if (#399 == 2) #104 = 5 
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	undo
+	movie
+	if(#399 == 0) next c99_01_01_a
+	if(#399 == 1) next c99_01_01_b
+	if(#399 == 2) next c99_01_01_b

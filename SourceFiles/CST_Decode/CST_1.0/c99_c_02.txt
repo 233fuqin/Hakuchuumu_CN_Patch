@@ -1,0 +1,76 @@
+#c99_c_02
+
+	se 0
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave2 60
+	wait
+	wait 30
+	eg 5 f_heroine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	wait 1
+	eg 2 mode sepia
+	eg [1,2] scale 150% 150%
+	eg [1,2] pos -100 0
+	eg 2 blur 30 30
+	eg 1 blur 20 20
+	eg 2 eva19,a
+	eg 1 eva19,a
+	eg 4 f_dream
+	rwipe w_drm 120
+	wait
+	pcm A_c00_06_148a
+世凪	「……わたし、幸せだよ」
+
+	eg 2 m2fade 600 255 0
+	pcm A_c00_06_150a
+世凪	「……海斗に、わたしをもっと知ってほしい」
+
+	pcm A_c00_06_151a
+世凪	「わたしももっと、海斗を知りたい」
+
+	pcm A_c00_06_154a
+世凪	「……もう、待つの、やめることにしたよ」
+
+	frameoff off
+	wait
+	wait 30
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	wait
+	wait 1
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave1 60
+	wait
+	wait 1
+	eg 2 stop
+	eg 1 mode
+	pl
+	eg [0-4]
+	\n
+
+	next c99_c_x

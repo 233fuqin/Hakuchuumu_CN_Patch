@@ -1,0 +1,680 @@
+#c00_ex1
+
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	bgm 0 bgm0_18
+	se 1 loop se5483
+	se 2 loop se5000
+	se 3 loop se5474
+	se 1 fade 240 0 20
+	se 2 fade 240 0 40
+	se 3 fade 240 0 60
+	bg 0 bg30b
+	cg 1 cam,e,1,1,1,1
+	cg 2 cum,1,1,1,1,1
+	cg 2 blend 0
+	pl 2 pos 1365
+	pl 1 pos 600
+	rwipe w_bt 120
+	wait
+	wait 60
+	pcm U_c00_ex1_001
+出雲	「戻りました」\@
+	wait 1 
+	se 0 se2001
+	wait 15
+	cg 2 move 60 @-45 @
+	cg 2 fade 60 0 255
+	\n
+
+	cg 1 cam,f,1,1,2,2
+	rdraw
+	pcm A_c00_ex1_001
+世凪	「おかえり、出雲。買い出ししてきてくれたんだよね。
+	今日もイタリアン？」
+
+	pl 2 arc 30 180 360 0 7
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_002
+出雲	「はい。あと、今日はこれが手に入りました」
+
+	出雲はそう言って、手提げ袋の中から二本の瓶を取り出し、テーブルにおいた。
+
+海斗	「おお、ワインだ」
+
+	cg 1 cam,f,1,3,1,2
+	rdraw
+	pcm A_c00_ex1_002
+世凪	「ワイン？　お酒だっけ」
+
+海斗	「そう。糖度の高い植物からじゃないと作れないから、
+	下層で見ることはまずなかったな」
+
+	cg 1 cam,e,1,5,1,1
+	rdraw
+	pcm A_c00_ex1_003
+世凪	「コーンのお酒とは違うんだ」
+
+海斗	「あれは蒸留酒。これは醸造酒。作り方がちがう。味わいも違うらしい。
+	私も実際に飲んだことはないけど。百科事典で読んだだけだ」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_003
+出雲	「市場にできた新しい酒屋さんの店主がワインの収集家だそうです」
+
+	cg 1 cam,f,1,1,8,3
+	rdraw
+	pcm A_c00_ex1_004
+世凪	「へぇ！」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_004
+出雲	「このコテージで波多野凛の話を聞いて、ワインに興味をもったそうです」
+
+	pl 1 arc 20 0 180 0 38
+	cg 1 cam,e,1,2,8,3
+	rdraw
+	pcm A_c00_ex1_005
+世凪	「へぇぇぇ！！」
+
+海斗	「有島に怒られるところか……。凛は結局飲めなかったみたいだけど」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_005
+出雲	「土地柄、魚介の料理が多いから色々な白ワインを飲んでみるのがいいと
+	おすすめされました」
+
+	pl 1 arc 20 0 180 0 38
+	cg 1 cam,e,1,2,4,3
+	rdraw
+	pcm A_c00_ex1_006
+世凪	「いいねっ！　飲んでみよっ！」
+
+	出雲がうなずき、テーブルの上に三つのグラスを並べた。
+
+	cg 1 cam,f,1,2,1,3
+	rdraw
+	pcm A_c00_ex1_007
+世凪	「お酒飲むのって初めてかもっ！」
+
+	出雲は淡々とした手つきで白ワインのコルクを開けている。
+
+	私はその姿をじっと見つめた。
+
+海斗	「……」
+
+	cg 1 cam,f,1,3,1,3
+	rdraw
+	pcm A_c00_ex1_008
+世凪	「どうしたの、海斗？」
+
+海斗	「いや……。出雲はお酒を飲むとどうなるのかなと思って」
+
+	出雲が顔をあげて、私を見つめ返した。
+
+	……少し気を悪くしているように見えなくもない。
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_006
+出雲	「酔っ払う機能はもともとついています」
+
+	cg 1 cam,f,1,3,8,3
+	rdraw
+	pcm A_c00_ex1_009
+世凪	「酔っ払う機能！？」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_007
+出雲	「独り身の上層民が、晩酌の相手をアンドロイドにさせることもあったようです」
+
+海斗	「なるほど……。素面の人を相手に一人で酔っ払っていくのはそんなに
+	楽しくないしな」
+
+	cg 1 cam,e,1,2,4,3
+	rdraw
+	pcm A_c00_ex1_010
+世凪	「すごいすごい！　じゃあ今日は三人で酔っ払おう！」
+
+	pl 2 arc 30 180 360 0 7
+	se 0 se3020
+	出雲がうなずき、白ワインのコルクを抜いた。
+
+	se 0 se3019
+	三つのワイングラスに白ワインが注がれる。
+
+	薄いガラスが冷えて、黄金色のワインの周囲が白く曇った。
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_008
+出雲	「どうぞ」
+
+	cg 1 cam,e,1,2,2,3
+	rdraw
+	pcm A_c00_ex1_011
+世凪	「ありがとう！」
+
+海斗	「ありがとう」
+
+	cg 2 cum,1,1,1,1,1
+	rdraw
+	pcm U_c00_ex1_009
+出雲	「乾杯」
+
+	cg 1 cam,e,1,1,4,3
+	rdraw
+	pcm A_c00_ex1_012
+世凪	「かんぱいー！」
+
+	se 0 end 120
+	se 1 end 120
+	se 2 end 120
+	se 3 end 120
+	bgm 0 end 120
+	frameoff
+	wait
+	wait 30
+	cg 
+	eg 5 c_black
+	rwipe w_time 120
+	wait
+	wait 60
+	se 1 loop se5483
+	se 2 loop se5000
+	se 3 loop se5474
+	se 1 fade 60 0 20
+	se 2 fade 60 0 40
+	se 3 fade 60 0 60
+	eg 5
+	bg 0 bg30c
+	pl 0 pos 540 550
+	pl 0 scale 150% 150%
+	cg 1 cam,e,0,1,1,1
+	cg 2 cum,1,2,1,1,1
+	pl 2 pos 1320
+	pl 1 pos 600
+	rwipe w_time 120
+	wait
+	wait 60
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,4,2,2
+	rdraw
+	pcm U_c00_ex1_010
+出雲	「二人は！　まだわたしのことアンドロイドだと思ってるんでしょうが！
+	知ってるんだから！」
+
+	bgm 0 bgm0_12
+	pl 1 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	cg 1 cam,e,3,1,4,3
+	rdraw
+	pcm A_c00_ex1_013
+世凪	「あっはははは！　絡み酒かよ出雲！　めんどくせーな！」
+
+	cg 2 cum,1,2,4,3,3
+	rdraw
+	pcm U_c00_ex1_011
+出雲	「めんどくさいとか言うんじゃないよっ！　この世界では３人とも同じ
+	身体なんだからね！　わたしのこの身体だって、機械じゃないんだからねっ！」
+
+	cg 1 cam,e,3,2,1,3
+	rdraw
+	pcm A_c00_ex1_014
+世凪	「最初から出雲のこと機械だなんて思ってないってー。ね、海斗」
+
+海斗	「え？　う、うん」
+
+	cg 2 cum,1,2,3,2,3
+	rdraw
+	pcm U_c00_ex1_012
+出雲	「えっ？　て言いましたー。この人今一瞬、えっ？　て戸惑いの表情を
+	浮かべましたー。出雲そういうの見逃しませんー」\@
+	wait tag 01
+	cg 2 cum,1,2,4,2,2
+	rdraw
+	\n
+
+海斗	「そんなことないって……」
+
+	酔っ払う機能って、ちょっと頬が赤くなったりする位で良かったんじゃないだろうか。
+
+	この状態になる相手とすすんで飲む物好きがいたのか？
+
+	上層民の考えることはわからないな。
+
+	pl 2 shake 40 4 3
+	cg 2 cum,1,2,4,1,3
+	rdraw
+	pcm U_c00_ex1_013
+出雲	「はいー、この人またなにか失礼なこと考えてますー。
+	もしくはムッツリしながらスケベなこと考えてますー」
+
+	cg 2 cum,1,2,3,4,3
+	rdraw
+	pcm U_c00_ex1_014
+出雲	「出雲サンには全部お見通しですー」
+
+	cg 1 cam,e,3,1,1,3
+	rdraw
+	pcm A_c00_ex1_015
+世凪	「海斗も酔ってスケベになったのん？」
+
+	cg 2 cum,1,2,3,2,3
+	rdraw
+	pcm U_c00_ex1_015
+出雲	「ちゃうちゃう。元からスケベなんですよこの男は。
+	よく知ってるでしょうが」
+
+	cg 1 cam,e,3,3,1,3
+	rdraw
+	pcm A_c00_ex1_016
+世凪	「確かに」
+
+海斗	「出雲、飲みすぎなんじゃないか」
+
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,4,2,2
+	rdraw
+	pcm U_c00_ex1_016
+出雲	「飲みすぎとか、ナイカラッ！　そういう概念わたしに、ナイカラッ！
+	百科事典には書いてなかったかよっ、百科事典にはっ！」\@
+	wait tag 01
+	cg 2 cum,1,2,4,3,2
+	rdraw
+	\n
+
+海斗	「そんなの書いてないよ……」
+
+	pl 2 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	cg 2 cum,1,2,5,5,2
+	rdraw
+	pcm U_c00_ex1_017
+出雲	「アーーーハッハッハッハッ！！！」
+
+	cg 1 cam,e,3,2,4,5
+	rdraw
+	pcm A_c00_ex1_017
+世凪	「なんの笑いだよッ」
+
+	cg 2 cum,1,2,1,1,1
+	rdraw
+	pcm U_c00_ex1_018
+出雲	「滑稽ナリ」
+
+海斗	「こっけい」
+
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,1,1,1
+	rdraw
+	pcm U_c00_ex1_019
+出雲	「滑稽ナリ滑稽ナリ。仮想空間での生活、実に滑稽ナリ。
+	アーーーハッハッハッハッ！！！」\@
+	wait tag 01
+	cg 2 cum,1,2,5,5,2
+	rdraw
+	\n
+
+	出雲は自分のグラスに残ったワインを飲み干し、そこにまたドボドボと
+	注ぎ足した。
+
+	cg 1 cam,e,3,1,2,3
+	rdraw
+	pcm A_c00_ex1_018
+世凪	「出雲、面白いね。たまに飲みたいね、こうやって」
+
+海斗	「う、うん……。本当に、たまにでいいかな」
+
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,2,3,2
+	rdraw
+	pcm U_c00_ex1_020
+出雲	「おまえらぁ！　コソコソするなぁ！　イチャイチャするなぁ！
+	わたしもこの家に住んでいるのだぞ！」
+
+	cg 1 cam,e,3,1,4,5
+	rdraw
+	pcm A_c00_ex1_019
+世凪	「してないしてない」
+
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,2,2,2
+	rdraw
+	pcm U_c00_ex1_021
+出雲	「してるっ！　してるもん！」\@
+	wait tag 01
+	cg 2 cum,1,2,2,2,4
+	rdraw
+	\n
+
+海斗	「また三人で飲みたいねって話してただけだよ出雲」
+
+	cg 2 cum,1,2,3,2,4
+	rdraw
+	pcm U_c00_ex1_022
+出雲	「……本当？　それ本当なの？　よなぎっ」
+
+	pl 1 arc 30 180 360 0 7
+	cg 1 cam,e,3,1,4,5
+	rdraw
+	pcm A_c00_ex1_020
+世凪	「うん、本当だよ。海斗はたまにでいいとか言ってたけど」
+
+海斗	「おいっ！？」
+
+	pl 2 arc 20 0 180 0 38
+	cg 2 cum,1,2,5,5,2
+	rdraw
+	pcm U_c00_ex1_023
+出雲	「アーーーハッハッハッハッ！！！」
+
+	se 0 se4023_e
+	cg 2 amove1 30 @ @+630
+	bgm 0 fade 30 100 0
+	天井を仰ぎ、大口を開けて奇声をあげたあと、
+	出雲は額で釘でも打ちつけるように勢いよく机に突っ伏した。
+
+	cg 1 cam,e,3,3,8,3
+	rdraw
+	pcm A_c00_ex1_021
+世凪	「い、出雲……？」
+
+	fw 0 cus,1,2,4,4,1
+	rdraw
+	pcm U_c00_ex1_024
+出雲	「滑稽、ナリ……。ふ、ふふ……。お酒、おいしい、たのしい」
+
+	fw 0 cus,1,2,4,4,1
+	rdraw
+	pcm U_c00_ex1_025
+出雲	「世凪、海斗、リープくん、好き。……スキスキ」
+
+	bgm 0 fade 90 0 100
+	fw 
+	cg 1 cam,h,3,3,1,4
+	rdraw
+	pcm A_c00_ex1_022
+世凪	「……出雲？」
+
+海斗	「……寝たんじゃないか？」
+
+	cg 1 cam,e,3,1,2,3
+	rdraw
+	pcm A_c00_ex1_023
+世凪	「……出雲が寝てるところ、初めて見たかも」
+
+海斗	「下層にいたときは寝てなかったからな」
+
+	私は棚からひざかけをとって、出雲の肩にかけた。
+
+	cg 1 cam,e,3,1,2,3
+	rdraw
+	pcm A_c00_ex1_024
+世凪	「楽しそうだったね、出雲。……ふふっ」
+
+	苦笑いを浮かべながらうなずきを返した。
+
+海斗	「技術者の立場から言うと、この酔っ払う機能には制作者の執念を感じるよ」
+
+	pl 1 shake 14 3 0 3
+	cg 1 cam,e,3,1,4,3
+	rdraw
+	pcm A_c00_ex1_025
+世凪	「あっはは！　かもね。楽しかった。いい子だね、出雲」
+
+海斗	「そうだな」
+
+	cg 1 cam,e,3,1,2,3
+	rdraw
+	pcm A_c00_ex1_026
+世凪	「この白ワインもおいしい。もうちょっと飲もうよ。はい」
+
+	世凪は私にボトルの口を向けた。
+
+	私は自分のグラスに残っていた一口分のワインを飲み干し、グラスを差し出した。
+
+	世凪がそこに白ワインを注ぐ。
+
+	私も同じように、世凪のグラスにワインを注いだ。
+
+	cg 1 cam,e,3,2,2,2
+	rdraw
+	pcm A_c00_ex1_027
+世凪	「私たちの大切な家族の、酔っ払い記念に」
+
+	私たちは出雲を起こさないように、静かにグラスを掲げ合った。
+
+	se 0 end 120
+	se 1 end 120
+	se 2 end 120
+	se 3 end 120
+	bgm 0 end 120
+	frameoff
+	wait
+	wait 30
+	cg 
+	eg 5 c_black
+	rwipe w_day 120
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	se 1 loop se5483
+	se 2 loop se5000
+	se 3 loop se5474
+	se 4 loop se5446
+	se 1 fade 120 0 20
+	se 2 fade 120 0 40
+	se 3 fade 120 0 60
+	se 4 fade 120 0 60
+	eg 5
+	pl 0 scale 150% 150%
+	bg 0 bg30a
+	rwipe w_day 120
+	wait
+	wait 60
+海斗	「……ふあぁ……」
+
+	朝だ。
+
+	昨夜はずいぶん飲んだ。
+
+	結局、世凪と二人で明け方まで飲んでいた。
+
+	私と世凪は結局ソファーで寝てしまったようだ。
+
+	se 4 fade 60 80 0
+	隣に目を向ける。
+
+	世凪はまだ気持ち良さそうな寝息を立てている。
+
+	その頭を撫で、むきだしになっている肩まで毛布をかけた。
+
+	水をのもう。
+
+	そう思って身を起こした。
+
+	bg 0 
+	rwipe w_bt 
+	wait 60
+	pl 0 scale 100% 100%
+	bg 0 bg30a
+	rwipe w_bt 
+	wait 60
+	出雲はまだ食卓に突っ伏して寝ていた。
+
+	体勢がまったく変わっていなかった。
+
+海斗	「出雲っ……！？」
+
+	ぴくりと、出雲の身体が動いた。
+
+	ゆっくり頭をあげ、生気のない目を私に向けた。
+
+	cg 3 cul,1,3,2,2,1 @ 495
+	cg 3 blend 0
+海斗	「……おはよう」
+
+	bgm 0 bgm0_12
+	pl 0 scale 125% 125%
+	cg 3 amove1 60 @ @-30
+	cg 3 fade 60 0 255
+	rwipe 
+	pcm U_c00_ex1_026
+出雲	「……おはようございます」
+
+	いつも以上に静かな声で出雲が言った。
+
+海斗	「……大丈夫か？」
+
+	pl 3 shake 40 4 3
+	cg 3 cul,1,3,4,2,4
+	rdraw
+	出雲が小さく首を振った。
+
+	cg 3 cul,1,3,1,2,1
+	rdraw
+	pcm U_c00_ex1_027
+出雲	「頭が、痛いです……」
+
+	潮騒と、世凪の寝息だけが耳に届いてくる。そんな時間がしばらく続いた。
+
+	出雲は据わった目を私に向けている。
+
+海斗	「二日酔いの機能まであるのか……！」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	bgm 0 end 60
+	frameoff fade
+	wait
+	fw
+	pl
+	bg
+	eg
+	cg
+	fg
+	rwipe w_tb 120
+	wait 240
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait

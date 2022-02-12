@@ -1,0 +1,254 @@
+#prologue
+
+	#103 = 0 
+	#101 = 98 
+	frameoff
+	eg 5 f_cine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	se 0 loop se5000
+	bgm 0 
+	eg 0 pos 0 165
+	eg 0 eva04s,z
+	eg 0 m2move 2000 0 -167
+	rdraw 300
+	wait
+	wait 60
+海斗	「――人を決めるのは、人だ」
+
+海斗	「“個性”と呼ばれているものの正体は、
+	わたしたち一人一人の、今日までの記憶の集積でしかない」
+
+海斗	「なにかの判断をくだすとき、人は過去の経験を手がかりにする」
+
+海斗	「そして、いくつもの判断の連なりが行動を生む。だから――」
+
+海斗	「過去の経験――記憶が、わたしたちの行動を支配している」
+
+	風が吹いた。
+
+	海辺の小さな、木づくりの小屋。
+
+	そこに集った人たちを、暖かい潮風が包んだ。
+
+海斗	「――わたしたちは、相手の行動を見ることで、その人の個性を判断する」
+
+海斗	「つまりわたしたちは間接的に、相手の記憶の集積を
+	“個性”と認識している」
+
+海斗	「その認識の連鎖が、この世界を形成している」
+
+	eg 0 stop
+	eg 0
+	eg 0 eva04m,a,a,b,a,a
+	rwipe w_bt 120
+	wait
+	wait 60
+	わたしは顔をあげた。
+
+	集った人たちの眼差しが、わたしに向けられている。
+
+	eg 0 eva04m,a,a,b,b,a
+	rdraw
+	wait
+	わたしは目を閉じた。
+
+	わたしはいつも、この話を始める前に目を閉じる。
+
+	pl
+	eg 0
+	pl 0 scale 130% 130%
+	eg 0 pos -232 100
+	eg 0 eva04s,a,a,b,b,a
+	eg 0 m2move 2000 @+450 @+0
+	rwipe w_rl 120
+	wait
+	wait 60
+	波の音が聞こえていた。
+
+	息を深く吸い込むと、潮の香りが感じられる。
+
+	閉じた瞳の奥――、そこに一人の少女の姿が浮かびあがった。
+
+	今日も、世凪はここにいる。
+
+	わたしの中に、彼女はたしかに存在している。
+
+	eg 0 stop
+	pl 0
+	eg 0
+	pl 0 scale 90% 90%
+	eg 0 eva04s,a,a,b,b,a
+	rdraw 60
+	それを確認してから、わたしはゆっくり目を開く。\@
+	wait 120
+	eg 0 eva04s,a,a,b,a,a
+	rdraw 60
+	wait
+	\n
+
+	eg 0 stop
+	pl 0
+	eg 0
+	pl 0 scale 90% 90%
+	eg 0 eva04s,a,a,a,a,a
+	rdraw 60
+	wait
+	wait 60
+海斗	「――人の認識の連鎖が、この世界を形成している」
+
+	eg 0 eva04s,a,a,a,b,a
+	rdraw
+海斗	「わたしから見えている世界、あなたたちから見えている世界。
+	個々を繋ぐ共通認識の集積が、この世界を形作っている」
+
+	eg 0 eva04s,a,a,a,a,a
+	rdraw
+	わたしは、前列に座っている少年に顔を向けた。
+
+海斗	「――わたしのうしろに、海が見えるだろう」
+
+	少年の視線を見つめ返しながら、わたしはたずねた。
+
+	少年が小さくうなずく。
+
+	eg 0 eva04s,a,a,a,a,b
+	rdraw
+海斗	「きれいだと思う？」
+
+	もう一度、少年はうなずく。
+
+	pl 0
+	eg 0
+	pl 0 scale 150% 150%
+	eg 0 pos 215 20
+	eg 0 eva04s,a,a,b,b,a
+	pl 0 m2move 2000 @+0 @+150
+	rdarw
+	rdraw 60
+	wait
+	wait 60
+海斗	「青く透き通る、空との境界もわからないような海。
+	世界の誰もが求めた理想の集積が、あの波を生み出している」
+
+	eg 0 eva04s,a,a,b,a,a
+	rdraw
+海斗	「世界中の人々が夢にまで見た海――
+	それが、きみの見ている海だ。だからとても綺麗なんだ」
+
+	少年がわたしを見つめたまま、ゆっくりとうなずく。
+
+	eg 0 eva04s,a,a,a,a,a
+	rdraw
+海斗	「――これから語るのは、一人の少女の物語だ」
+
+	eg 0 eva04s,a,a,a,b,a
+	rdraw
+海斗	「わたしはこの物語を、ここで語り続けている」
+
+	eg 0 stop
+	pl 0
+	eg 0
+	eg 0 pos 0 -167
+	eg 0 eva04s,z
+	rdraw 60
+	wait
+	wait 60
+海斗	「わたしはそういう存在になると、自分で自分を決めたからだ」
+
+	rdraw
+海斗	「他者の認識の連鎖の中にいながら、
+	自分で自分を決めることもできる――」
+
+	rdraw
+海斗	「それをわたしに教えてくれたのが――」
+
+海斗	「その少女だった」
+
+	se 0 fade 600 100 0
+	pl 0 stop
+	pl 
+	eg 0
+	eg 0 eva04l,a,a,b,b,a
+	rdraw 60
+	wait
+	wait 60
+	eg 0 eva04l,a,a,a,b,a
+	rdraw
+海斗	「少女の名は世凪」
+
+	eg 0 eva04l,a,a,b,a,a
+	rdraw
+	wait
+海斗	「これは――」
+
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	eg 0
+	rdraw
+	eg 0 eva04l,a,a,a,a,a
+	rdraw
+	wait
+海斗	「――世界と呼ばれた一人の少女の物語だ」\@
+	wait 120
+	eg 0 eva04l,z,a,a,a,a
+	rdraw 300
+	wait
+	\n
+
+	frameoff
+	wait
+	eg 5
+	rdraw 60
+	wait
+	eg 5 c_white
+	rdraw 120
+	wait
+	wait 120
+	eg
+	rdraw 120
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait

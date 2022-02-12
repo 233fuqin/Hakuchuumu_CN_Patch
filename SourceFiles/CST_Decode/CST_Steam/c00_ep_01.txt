@@ -1,0 +1,66 @@
+#c00_ep_01
+
+	eg 1 eva35,a,0,0,a,a,a
+	rdraw
+ŠC“l	u”g‘½–ì™z‚Ì•¨Œê‚©‚Èv
+
+	eg 1 eva35,a,0,0,b,b,a
+	rdraw
+	pcm A_c00_ep2_030
+¢“â	u™z‚Í‚ËA‚ ‚Ì‚ ‚Æ\\v
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	bgm 0 end 60
+	frameoff fade
+	wait
+	wait 30
+	pl
+	bg
+	eg
+	rwipe w_ctr 300
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c01_ep

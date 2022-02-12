@@ -1,0 +1,163 @@
+#c00_ep
+
+	#103 = 0 
+	#101 = 99 
+	#104 = 0 
+	undo
+	movie
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	frameoff
+	eg 5 f_cine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	se 1 loop se5483
+	se 2 loop se5000
+	se 3 loop se5474
+	se 1 fade 240 0 60
+	se 2 fade 240 0 60
+	se 3 fade 240 0 60
+	bg 0 scale 125% 125%
+	bg 0 pos -550 21
+	bg 0 bg91a
+	bg 0 m2move 2000 @+550 @+0
+	rdraw 300
+	wait
+	wait 60
+	世凪と重ねた手を離さずに、私たちは小屋の中に入った。
+
+	手から頬、首、胸――
+
+	私たちは体温を確かめ合うように、互いの体に触れた。
+
+	pl 31 disp 1
+	pl 31 $000000
+	pl 31 fade 0 0 0
+	pl 31 fade 60 0 255
+	wait
+	bg 0 stop
+	wait
+	pl
+	bg
+	rdraw
+	wait
+	bg 0 pos 0 -240
+	bg 0 bg91b
+	bg 0 m2move 2000 @+0 @+405
+	rwipe w_bt 300
+	wait
+	wait 60
+	pcm A_c00_ep_001
+世凪	「海斗……海斗だ……、海斗の肌だ――」
+
+	pcm A_c00_ep_002
+世凪	「……脱いで、海斗――」
+
+	pcm A_c00_ep_003
+世凪	「全部……全部ちゃんと、確かめたいよ」
+
+海斗	「あぁ」
+
+	pcm A_c00_ep_004
+世凪	「わたしのことも全部、確かめてね――」
+
+	そう言って世凪は、自分の衣服を一枚ずつ――
+
+	木造の小屋の床に脱ぎ捨てていった。\@
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	pl 31 disp 1
+	pl 31 $000000
+	pl 31 fade 0 0 0
+	pl 31 fade 60 0 255
+	wait
+	bg 0 stop
+	wait
+	pl
+	bg
+	rdraw
+	wait
+	\n
+
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c00_ep_steam

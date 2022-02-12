@@ -1,0 +1,470 @@
+#c99_02_03_b
+
+	frameoff
+	wait
+	wait 1
+	pl [0-5] amove3 60 @+0 @+75
+	wait
+	wait 60
+	cg 3 cam,1,2,6,a,2
+	draw 20 3
+	wait
+	僕が立ち上がると、世凪も席を立った。\@
+	cg 3 amove3 60 @+0 @-75
+	wait
+	wait 60
+	\n
+
+	pl [0-5] amove3 60 @+100
+	wait
+」海斗	「……一緒にくる？」
+
+	pcm A_c00_B_02_004
+世凪	「……」\@
+	cg 3 cam,1,2,6,b,2
+	pl 3 arc 30 180 360 0 7
+	wait
+	\n
+
+	世凪が小さくうなずいた。
+
+	pcm V_leap_B_01
+リープくん	「――――」
+
+	bgm 0 end 60
+	frameoff fade
+	wait
+	wait 30
+	pl 5
+	eg 5 c_black
+	wipe w_rl 60 5
+	wait
+	pl 1 stop
+	wait
+	cg
+	pl
+	bg
+	eg
+	wait
+	bgm 0 bgm0_02
+	bg 0 bg05a
+	rwipe w_rl 120
+	wait
+	pl [1-3] blend 0
+	pl 1 pos 1500 540
+	pl 3 pos 960 540
+	pl 2 pos 510 540
+	cg 3 cum,1,1,1,1,1
+	cg 1 cvm,1,1,1
+	cg 2 cas,1,2,6,a,2
+	wait
+	pl [3,5] mcarc 70 0 360 0 4
+	pl [2,4] mcarc 90 0 360 0 3
+	pl 1 mcarc 360 0 360 0 15
+	pl [1-3] fade 20 0 255
+	wait
+海斗	「……」
+
+	世凪はなにも言わずに、僕の少し後ろをついてくる。
+
+	素足が床をあるく、ひたひたという音が聞こえてくる。\@
+	pl 20 blend 0
+	pl 20 clone pl 0
+	wait
+	pl 20 pri 8500
+	pl 20 scale 160% 160%
+	pl 20 pos 1200 600
+	wait
+	pl [4,5] blend 0
+	cg 5 cul,1,1,1,1,1 1470 420
+	cg 4 cam,1,2,6,a,2 750 399
+	wait
+	\n
+
+海斗	「……なぁ、世凪……？」\@
+	pl [4,5,20] fade 20 0 255
+	wait
+	pl [1-3] stop
+	wait
+	pl [1-3]
+	cg [1-3]
+	wait
+	\n
+
+	振り返って声をかけてみるが、世凪はなんの反応も返さない。
+
+海斗	「……呼び方は世凪でいいのかな……」
+
+海斗	「……どれくらいここにいるのか、世凪は覚えているかな」
+
+海斗	「……」
+
+	世凪からの返答はない。
+
+海斗	「……ダメ、か……」
+
+	僕は前を向き、屋上につづくエレベーターに向かった。
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	pl 1 pri 10500
+	eg 1 c_black
+	wipe w_rl 60 1
+	wait
+	pl [4,5] stop
+	wait
+	cg
+	pl
+	bg
+	eg
+	wait
+	se 1 loop se5474
+	se 2 loop se5455
+	se 1 fade 60 0 80
+	se 2 fade 60 0 60
+	pl 0 scale 100% 100%
+	pl 0 pos 960 540
+	pl 2 pos 960 540
+	pl 3 pos 960 540
+	se 0 se2027
+	bg 0 bg04a
+	rwipe w_crl 60
+	wait
+	エレベーターの扉が開く。
+
+	ひんやりとした空気がエレベーターに入り込んでくる。
+
+	一歩外に出ようとしたとき――
+
+	cg 1 cal,1,2,6,2,4
+	rdraw
+	wait
+	pl 1 shake 40 4 3
+	pcm A_c00_B_02_005
+世凪	「……」
+
+	世凪が僕の袖を引っ張っていた。
+
+海斗	「嫌なのか……？」
+
+	cg 1 cal,1,2,3,3,4
+	rdraw
+	世凪がうなずく。\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	cg 1 cal,1,2,6,3,4
+	rdraw
+	pcm A_c00_B_02_006
+世凪	「……けほっ」\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	世凪がむせた。
+
+	たしかに、外の空気はほこりっぽい。
+
+	東京は地下都市だ。
+
+	屋外よりも屋内の方が空気はきれいだ。
+
+海斗	「じゃあ、戻ろうか」
+
+	cg 1 cal,1,2,6,6,2
+	rdraw
+	pcm A_c00_B_02_007
+世凪	「……」\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	世凪が小さくうなずいた。
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg
+	pl
+	bg
+	eg
+	rwipe w_rl 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	bg 0 bg01,a
+	rwipe w_rl 60
+	wait
+	寝室までの廊下も、世凪が数歩後ろを歩いてついてきた。
+
+	寝室に着くと、世凪はまっすぐ自分のベッドに向かった。
+
+海斗	「そこが、落ちつくのか？」
+
+	fw 0 cas,1,2,6,a,2
+	pcm A_c00_B_02_008
+世凪	「……」
+
+	fw
+	――無反応。
+
+	いまは気が乗らないのだろうか。
+
+海斗	「……世凪も夢をみているのか？」
+
+海斗	「……」
+
+海斗	「どんな夢なのかな」
+
+海斗	「……」
+
+海斗	「……」
+
+	fw 0 cas,1,2,7,4,2
+	rdraw
+	pcm A_c00_B_02_009
+世凪	「……」
+
+	fw 0 cas,1,1,8,2,1
+	rdraw
+	世凪が静かにあくびをした。
+
+	fw
+海斗	「……眠い？」
+
+	世凪は僕の問いにこたえる代わりに、そのままベッドに横になった。
+
+	真っ赤な[眸/ひとみ]が僕に向けられている。
+
+海斗	「……」
+
+	se 0 se2027
+	wait
+	pl [3-5] blend 0
+	pl 5 pos 525 540
+	pl 4 pos 1395 540
+	pl 3 scale 125% 125%
+	cg 5 cum,1,1,1,2,1
+	cg 4 cvm,1,1,1
+	bg 3 bg01,a @ @ @ 3
+	pl 2 pos 525 540
+	pl 1 pos 1395 540
+	cg 2 cus,1,1,1,1,1
+	cg 1 cvs,1,1,1
+	rdraw
+	扉が開く音がして顔を向けると、出雲とリープくんが部屋に入ってきた。\@
+	wait
+	pl 1 mcarc 360 0 360 0 15
+	\n
+
+	pcm U_c00_B_02_009
+出雲	「海斗、シャワーをあびますか」\@
+	pl [3-5] fade 20 0 255
+	wait
+	pl 1 stop
+	wait
+	pl [1,3]
+	bg 3
+	cg [1,2,5]
+	pl 0 scale 125% 125%
+	cg 2 cum,1,1,1,2,1
+	wait
+	pl 4 mcarc 360 0 360 0 15
+	\n
+
+海斗	「シャワー？」
+
+	cg 2 cum,1,1,1,4,1
+	draw 20 2
+	出雲がうなずく。\@
+	pl 2 arc 30 180 360 0 7
+	wait
+	\n
+
+	cg 2 cum,1,1,1,1,1
+	draw 20 2
+海斗	「……」
+
+	自分の服の匂いをかいでみる。
+
+	幸い、まだ臭くはない。
+
+	だが、次の夢を見る前にシャワーを浴びた方が良さそうだ。
+
+海斗	「あぁ、そうだね。できれば」
+
+	cg 2 cum,1,1,2,1,1
+	draw 20 2
+	pcm U_c00_B_02_010
+出雲	「どうぞ」
+
+	出雲はきれいに畳まれた衣服を差し出した。\@
+	pl 2 arc 30 180 360 0 7
+	wait
+	\n
+
+	僕が今着ているものと全く同じものだった。
+
+海斗	「世凪はいいのかな」
+
+	cg 2 cum,1,1,2,4,1
+	draw 20 2
+	pcm U_c00_B_02_011
+出雲	「シャワーブースは一人用です。一緒には浴びられません」
+
+海斗	「もちろん、一緒に浴びようとしたわけではないんだけどね」
+
+	cg 2 cum,1,1,1,2,1
+	draw 20 2
+	pcm U_c00_B_02_012
+出雲	「……」
+
+	fw 0 cas,1,2,3,2,2
+	pcm A_c00_B_02_010
+世凪	「……」
+
+	fw
+	出雲も世凪も、無言のまま僕を見つめている。
+
+	――謎に居心地が悪い。
+
+海斗	「まぁいいや、先に浴びてくるよ」
+
+	cg 2 cum,1,1,2,1,1
+	draw 20 2
+	pcm U_c00_B_02_013
+出雲	「どうぞ」
+
+海斗	「……」
+
+	僕は立ち上がって、寝室の出口に向かった。
+
+	pcm V_leap_D_02
+リープくん	「――――」
+
+海斗	「うん、ありがとう」
+
+	すれ違い様にリープくんが声（？）をかけてくれてので、
+	とりあえずお礼を言った。
+
+	frameoff
+	wait
+	wait 30
+	pl 5
+	eg 5 c_black
+	wipe w_rl 60 5
+	wait
+	pl 4 stop
+	wait
+	cg
+	pl
+	bg
+	eg
+	wait
+	se 0 se2027
+	bg 0 bg01,a
+	rwipe w_rl 60
+	wait
+	wait 1
+	fw 0 cas,1,2,6,4,2
+	rdraw
+	pcm A_c00_B_02_011
+世凪	「……。……。……」
+
+	fw
+	シャワーを浴びて帰ってくると世凪が寝息を立てていた。
+
+	僕は静かにベッドに向かい、腰掛けてしばらく世凪を見つめた。
+
+	世凪が寝返りを打って、僕の方に背を向けた。
+
+海斗	「……」
+
+	僕もそのまま仰向けになり、背をベッドに預けた。
+
+	bg 0 bg02a
+	rdraw w_bt 60
+	不思議な場所だ。
+
+	不思議な場所だし、不思議な女の子たちだ。
+
+	ゆっくりと瞬きを続ける。
+
+	bgm 0 end 360
+	bg 0 blur 8 8
+	bg 0 bg02a
+	rdraw
+	だんだんと目蓋が重くなり、目を開くのが億劫になってくる。
+
+	こう暖かいと、どうも眠くなる。
+
+	ここでの夢は物語のように進んでいくと出雲が言っていた。
+
+	またあの夢の続きを見るのだろうか。 
+
+	ぼんやりと夢の世界に思いを馳せながら、僕はそのまま眠りについた。
+
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	eg 1 f_eye
+	eg 2 noise,a,a
+	rdraw 180
+	wait
+	wait 60
+	eg 1 fade 180 255 0
+	eg 2 fade 180 255 0
+	bg
+	rdraw w_ctr 180
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	if (#211 == 1) next c01_03
+	if (#221 == 1) next c02_03
+	if (#231 == 1) next c03_03

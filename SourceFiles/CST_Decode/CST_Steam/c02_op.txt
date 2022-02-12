@@ -1,0 +1,7 @@
+#c02_op
+
+	undo
+	movie op_c02
+	steam achievement ACH_004
+	end_of_kaisou 02
+	next c02_01_03b

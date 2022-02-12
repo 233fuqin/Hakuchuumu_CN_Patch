@@ -1,0 +1,624 @@
+#c03_03_03
+
+	frameoff
+	wait
+	view 0 case03
+	se 1 loop se5443
+	se 2 loop se5463
+	se 3 loop se5448
+	se 4 loop se5460
+	se 1 fade 60 0 60
+	se 2 fade 60 0 50
+	se 3 fade 60 0 50
+	se 4 fade 60 0 30
+	bg 0 bgc05a
+	rwipe w_lr 60
+	wait
+	bgm 0 bgm3_02
+	やっと終わった。
+
+	足取りが今までになく軽い。
+
+	夏休みがこんなに嬉しいなんて、小学生のとき以来じゃないだろうか。
+
+	fw 0 cds,1,1,1,1,1
+	rdraw
+	pcm D_c03_03_066
+すもも	「カンナくーん！！」
+
+	fw 0
+	cg 1 blend 0
+	cg 1 cds,1,1,1,1,1
+	rdraw
+	cg 1 fade 10 0 255
+	wait 60
+	振り返ると、すももがあの大っきな鞄をもって追いかけてきていた。
+
+	cg 1 cdm,2,1,1,4,1
+	rdraw
+	cg 1 shake 30 1 0 30
+	pcm D_c03_03_067
+すもも	「一緒に帰ろっ」
+
+カンナ	「は？」
+
+	cg 1 cdm,2,1,1,2,3
+	rdraw
+	cg 1 shake 60 4 20
+	pcm D_c03_03_068
+すもも	「もうセンセーじゃないしー。一緒に帰ったっていいじゃん」
+
+カンナ	「いやそういうことじゃなくて」
+
+カンナ	「どこに帰るの」
+
+	cg 1 cdm,3,1,1,1,1
+	rdraw
+	pcm D_c03_03_069
+すもも	「ガレージ。夏の間になにかするんでしょ、カンナくん」
+
+カンナ	「そうだけど」
+
+	cg 1 cdm,3,1,1,2,1
+	rdraw
+	pcm D_c03_03_070
+すもも	「手伝わせてよ、それ」
+
+カンナ	「……なんでよ」
+
+	cg 1 cdm,1,1,1,1,1
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_03_071
+すもも	「カンナくんのこと、手伝いたいから」
+
+	cg 1 cdm,2,1,1,4,1
+	rdraw
+	pcm D_c03_03_072
+すもも	「あと、かわいい写真一杯撮って欲しいし」
+
+	cg 1 cdm,4,1,1,4,3
+	rdraw
+	cg 1 shake 60 2 0 30
+	pcm D_c03_03_073
+すもも	「かわいいって、いっぱい言われたいし」
+
+カンナ	「なにそれ。言わないよそんなの」
+
+	cg 1 cdm,3,1,1,6,5
+	rdraw
+	cg 1 shake 60 4 20
+	pcm D_c03_03_074
+すもも	「えー！　写真撮ってるときチョー言ってるよー？」
+
+カンナ	「……そうだっけ」
+
+	cg 1 cdm,1,1,a,6,5
+	rdraw
+	cg 1 shake 30 1 0 -30
+	pcm D_c03_03_075
+すもも	「無意識かよー！　くそやろー！」
+
+カンナ	「いや、多少は覚えてるけどさ……」
+
+	cg 1 cdm,2,1,1,2,3
+	rdraw
+	pcm D_c03_03_076
+すもも	「手伝わせて？」
+
+カンナ	「……」
+
+	cg 1 cdm,2,1,5,2,3
+	rdraw
+	pcm D_c03_03_077
+すもも	「ダメ？」
+
+カンナ	「……別に、ダメではないけど」
+
+	cg 1 cdl,2,2,1,4,5
+	rdraw
+	cg 1 shake 30 1 0 -30
+	pcm D_c03_03_078
+すもも	「やった！　じゃ、ほらほら、いこっ！」
+
+カンナ	「なんでそんなに急いでるんだよ」
+
+	cg 1 cdl,1,2,1,1,5
+	rdraw
+	pcm D_c03_03_079
+すもも	「あたしこの場所大っ嫌いだから！」
+
+カンナ	「……よく２週間ももったね……」
+
+	cg 1 cdl,1,2,1,4,3
+	rdraw
+	pcm D_c03_03_080
+すもも	「あはは！　ホントだよねー！」
+
+	cg 1 cdl,1,2,1,4,1
+	rdraw
+	pcm D_c03_03_081
+すもも	「でも、カンナくんのガレージはちょー好き。だから、いこっ」
+
+カンナ	「……うん」
+
+	frameoff fade
+	wait
+	wait 30
+	bgm 0 end 60
+	cg 1
+	bg 0 
+	rwipe w_tb 60
+	wait
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	frameoff
+	wait
+	view 0 case03
+	se 1 loop se5448
+	se 2 loop se5460
+	se 1 fade 60 0 90
+	se 2 fade 60 0 60
+	bg 0 bgc17,a,a
+	rwipe w_tb 60
+	wait
+	cg [1-3] tone asa
+	cg 2 cpm,1,1,8,5,6
+	cg 2 pos @+250
+	cg 1 cdm,1,1,1,1,1,1
+	cg 1 pos @-250
+	rdraw
+	bgm 0 bgm3_11
+	pcm P_c03_03_011
+梓姫	「……は」
+
+	cg 1 cdm,3,1,1,4,1
+	rdraw
+	pcm D_c03_03_082
+すもも	「やほ、スクラップハンター」
+
+	cg 2 cpm,1,1,9,1,7,1
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_03_012
+梓姫	「……誰……」
+
+カンナ	「そうなるよね」
+
+	cg 1 cdm,2,1,1,6,1
+	rdraw
+	pcm D_c03_03_083
+すもも	「すももだよー」
+
+	cg 2 cpm,1,1,6,5,7,1
+	rdraw
+	cg 2 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm P_c03_03_013
+梓姫	「ピーチ！？」
+
+	cg 1 cdm,3,1,1,4,3
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_03_084
+すもも	「そうだよー。教職おわったー。色んな意味でー」
+
+	cg 2 cpm,1,1,2,5,7,1
+	rdraw
+	pcm P_c03_03_014
+梓姫	「……なにその格好」
+
+	cg 1 cdm,3,1,1,1,1
+	rdraw
+	pcm D_c03_03_085
+すもも	「普段はずっとこんな感じ。今までのは、あたしの中の、真面目な教師像」
+
+	cg 2 cpm,1,1,2,5,6,1
+	rdraw
+	pcm P_c03_03_015
+梓姫	「……ははっ……」
+
+	cg 2 cpm,2,1,2,4,5
+	rdraw
+	pcm P_c03_03_016
+梓姫	「やっぱわたしの目に狂いはなかったな。
+	今のお前は、どこからどう見てもピーチ・ザ・ビッチだよ」
+
+	cg 1 cdm,3,1,1,4,5
+	rdraw
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_03_086
+すもも	「あっはは！！　だせー」
+
+	cg 2 cpm,2,1,6,5,5
+	rdraw
+	cg 2 shake 30 1 0 -30
+	pcm P_c03_03_017
+梓姫	「ダサくないでしょうが！」
+
+	frameoff
+	wait
+	wait 30
+	bgm 0 end 60
+	cg 1
+	cg 2
+	bg 0 
+	rwipe w_rl 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5460
+	se 1 fade 60 0 90
+	se 2 fade 60 0 60
+	bg 0
+	rwipe w_rl 60
+	rdraw
+	wait
+	eg 0 evd03,a,0,d,a
+	rdraw
+	bgm 0 bgm3_02
+	pcm D_c03_03_087
+すもも	「それでそれで？　カンナくんのやってることって、なんなの？」
+
+カンナ	「……」
+
+	僕は車の中から、母さんのスケッチをとりだした。
+
+	eg 1 evd93,b
+	eg 0 evd03,a,a,d,b
+	rwipe w_tb 60
+カンナ	「この場所を探してるんだ」
+
+	fw 0 cps,1,1,5,5,1
+	pcm P_c03_03_018
+梓姫	「ナニコレ」
+
+	fw
+カンナ	「母さんのスケッチ」
+
+	fw 0 cps,1,1,5,5,2
+	pcm P_c03_03_019
+梓姫	「飴井アンナの……？」
+
+	fw 0 cds,2,1,1,1,1
+	eg 0 evd03,a,a,b,b
+	rdraw
+	pcm D_c03_03_088
+すもも	「へー！　絵も描けるんだー」
+
+	fw 0 cps,1,1,5,6,2
+	pcm P_c03_03_020
+梓姫	「これって……いま見えてる彗星？」
+
+	fw
+カンナ	「そう」
+
+	fw 0 cds,1,1,3,4,1
+	eg 0 evd03,a,a,c,b
+	rdraw
+	pcm D_c03_03_089
+すもも	「ハレー彗星！」
+
+	fw
+	eg 1 
+	rwipe w_bt 60
+	顔をあげると、すももがにんまりと僕を見ていた。
+
+	cg 1 shake 30 1 0 30
+	pcm D_c03_03_090
+すもも	「覚えた！」
+
+	eg 0 evd03,a,f,c,b
+	rdraw
+	僕もつられて、微笑みを浮かべた。
+
+	pcm P_c03_03_021
+梓姫	「どこなの、これ」
+
+	eg 0 evd03,a,g,d,b
+	rdraw
+カンナ	「……わからないんだ」
+
+	pcm D_c03_03_091
+すもも	「そうなの？」
+
+カンナ	「教えてもらう前に母さんは死んじゃった」
+
+	eg 0 evd03,a,g,d,a
+	rdraw
+	少しの沈黙が流れる。
+
+カンナ	「母さんは、僕がこどもの頃からハレー彗星の写真を撮るのを楽しみにしていた」
+
+カンナ	「７６年に一度、地球に近づくこの周期彗星を撮影できる最高の場所を探して、
+	僕たちは毎週のようにキャンプにいってたんだ」
+
+	eg 0 evd03,a,g,e,a
+	rdraw
+	pcm D_c03_03_092
+すもも	「へー」
+
+	eg 0 evd03,a,g,e,b
+	rdraw
+	pcm P_c03_03_022
+梓姫	「あのハチマルで？」
+
+	僕はうなずく。
+
+	eg 0 evd03,a,g,e,g
+	rdraw
+	pcm P_c03_03_023
+梓姫	「なるほどね……」
+
+	eg 0 evd03,a,g,d,g
+	rdraw
+	pcm D_c03_03_093
+すもも	「それは、お母さんが生きているうちに見つかったの？」
+
+	eg 0 evd03,a,a,d,a
+	rdraw
+カンナ	「……いつかのキャンプで、母さんはもう、その場所は見つかってるって
+	言ってた」
+
+	eg 0 evd03,a,a,e,a
+	rdraw
+	pcm D_c03_03_094
+すもも	「えっ！」
+
+	eg 0 evd03,a,g,e,a
+	rdraw
+カンナ	「でも、その場所は教えてくれなかったんだ」
+
+カンナ	「このスケッチは、母さんが死んじゃったあとに、ハチマルの中で見つけた」
+
+	eg 0 evd03,a,c,e,a
+	rdraw
+	僕は顔をあげる。
+
+カンナ	「僕はこの場所を探し出して、ハレー彗星が一番近づく日――」
+
+	eg 0 evd03,a,b,e,a
+	rdraw
+カンナ	「今年の、７月２８日の、この写真を撮りたいんだ」
+
+	eg 0 evd03,a,b,e,b
+	rdraw
+	pcm P_c03_03_024
+梓姫	「飴井アンナの、かわりに？」
+
+	eg 0 evd03,a,c,e,b
+	rdraw
+	僕はうなずく。
+
+	eg 0 evd03,a,c,b,h
+	rdraw
+	pcm D_c03_03_095
+すもも	「……いーじゃん。ちょー素敵！　ちょーイケてる！
+	やりたいやりたい！　宝探しみたいで楽しそう」\@
+	wait tag 01
+	eg 0 evd03,a,c,c,h
+	rdraw
+	\n
+
+	eg 0 evd03,a,c,c,f
+	rdraw
+	pcm P_c03_03_025
+梓姫	「お前……そんなに大事な車なんだったら先に言えよ」
+
+	eg 0 evd03,a,e,c,f
+	rdraw
+カンナ	「だから売らないって言ったじゃないか！」
+
+	eg 0 evd03,a,d,a,g
+	rdraw
+	pcm P_c03_03_026
+梓姫	「……車の方は任せろよ」
+
+	pcm P_c03_03_027
+梓姫	「直してやるよ。スクラップハンター梓姫が」\@
+	wait tag 01
+	eg 0 evd03,a,d,a,d
+	rdraw
+	\n
+
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	eg 0 evd03,a,e,c,d
+	rdraw
+	pcm D_c03_03_096
+すもも	「あっはは！　きまらねー」
+
+	eg 0 evd03,a,g,c,i
+	rdraw
+	pcm P_c03_03_028
+梓姫	「決まってたでしょうが！」
+
+	eg 0 evd03,a,f,c,i
+	rdraw
+カンナ	「……ありがとう」
+
+	eg 0 evd03,a,f,a,h
+	rdraw
+	pcm P_c03_03_029
+梓姫	「……」
+
+	eg 0 evd03,a,f,c,g
+	rdraw
+	pcm D_c03_03_097
+すもも	「あたしはあたしは！？」
+
+	eg 0 evd03,a,c,a,c
+	rdraw
+カンナ	「母さんといったキャンプ場をぜんぶリストアップしたんだ。
+	これを一箇所ずつ、一緒に調べて欲しい」
+
+	eg 0 evd03,a,c,c,c
+	rdraw
+	pcm D_c03_03_098
+すもも	「おっけー！」
+
+	eg 0 evd03,a,b,b,a
+	rdraw
+	pcm D_c03_03_099
+すもも	「いいじゃんいいじゃん！　すっごい楽しい夏になりそう！
+	あたしが頑張ったから、神様がご褒美くれたのかも」\@
+	wait tag 01
+	eg 0 evd03,a,b,c,b
+	rdraw
+	\n
+
+	eg 0 evd03,a,g,c,f
+	rdraw
+	pcm P_c03_03_030
+梓姫	「凄まじいまでの自己中心的考えだな」
+
+	eg 0 evd03,a,f,a,a
+	rdraw
+カンナ	「楽しいよ、きっと」
+
+	eg 0 evd03,a,f,c,g
+	rdraw
+	pcm D_c03_03_100
+すもも	「うんうん！」
+
+	eg 0 evd03,a,f,b,c
+	rdraw
+	pcm D_c03_03_101
+すもも	「はじめよはじめよ！　あたしたちの夏は、ここから始まるんだよ！
+	あたしたち３人の、秘密プロジェクト！」\@
+	wait tag 01
+	eg 0 evd03,a,f,c,d
+	rdraw
+	\n
+
+	eg 0 evd03,a,f,b,b
+	rdraw
+	pcm D_c03_03_102
+すもも	「ファインディング・アンナ作戦だね！」\@
+	wait tag 01
+	eg 0 evd03,a,f,c,h
+	rdrw
+	\n
+
+	eg 0 evd03,a,f,c,i
+	rdraw
+	pcm P_c03_03_031
+梓姫	「お前のネーミングセンスだって壊滅的じゃねーか！」
+
+	eg 0 evd03,a,f,c,i
+	rdraw
+カンナ	「……」
+
+	frameoff
+	bg 0 pos 0 -100
+	bg 0 bgc13e
+	bg 0 m2move 500 @+0 @+100
+	eg
+	rwipe w_bt 120
+	wait
+	すももの言うとおりだ。
+
+	僕たち３人の夏は、これから始まる――
+
+	se 1 end 60
+	se 2 end 60
+	bgm 0 fade 360 100 0
+	frameoff
+	wait
+	wait 60
+	bg 0 fade 360 255 0
+	cg [1-4] fade 360 255 0
+	eg [0-3] fade 360 255 0
+	eg 4 f_eye
+	eg 5 noise,a,a
+	rdraw 180
+	wait
+	wait 30
+	pl
+	bg
+	cg
+	eg
+	rdraw
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	#234 = 1
+	if (#233 == 1) next c03_04 
+	next c99_try 
+	if (#399 == 0) next c00_A_03
+	if (#399 == 1) next c00_B_03
+	if (#399 == 2) next c00_C_03

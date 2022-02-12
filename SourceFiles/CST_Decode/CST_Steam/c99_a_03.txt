@@ -1,0 +1,363 @@
+#c99_a_03
+
+	pl 3 mcarc 360 0 360 0 15
+	pcm A_c99_a_032
+世凪	「――しゃしん、とりたいな」
+
+海斗	「……しゃしん？」
+
+	cg 1 cam,1,1,6,3,4
+	draw 20 1
+	世凪がうなずく。\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	cg 1 cam,1,1,5,b,2
+	draw 20 1
+	\n
+
+	cg 1 cam,1,1,6,a,2
+	draw 20 1
+	pcm A_c99_a_033
+世凪	「……だめ？」
+
+海斗	「……写真ていっても……まずはカメラが――」
+
+	cg 2 cum,1,1,1,1,1
+	draw 20 2
+	pcm U_c99_a_008
+出雲	「用意はできます。レクリエーションルームにあるもので、
+	写真を撮ることはできる」
+
+海斗	「あ、そうなんだ」
+
+	僕は出雲から世凪に視線を戻した。
+
+海斗	「どこか、撮りにいく？」
+
+	cg 1 cam,1,1,6,3,4
+	draw 20 1
+	世凪がうなずく。\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	cg 1 cam,1,1,5,b,2
+	draw 20 1
+	\n
+
+	pcm A_c99_a_034
+世凪	「やった」
+
+海斗	「どこがいい？」
+
+	cg 1 cam,1,1,5,a,2
+	draw 20 1
+	pcm A_c99_a_035
+世凪	「……そと。そとがいいな」
+
+海斗	「外か。……外ってことは――」
+
+海斗	「屋上、かな」
+
+	cg 2 cum,1,1,1,4,1
+	draw 20 2
+	出雲がうなずく。\@
+	pl 2 arc 30 180 360 0 7
+	wait
+	cg 2 cum,1,1,1,1,1
+	draw 20 2
+	\n
+
+海斗	「じゃあ、いってみよう」
+
+	cg 1 cam,1,1,5,4,2
+	draw 20 1
+	pcm A_c99_a_036
+世凪	「うんっ」\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	frameoff
+	wait
+	wait 1
+	eg 5 bg04a
+	wipe w_crl 60 5
+	wait
+	pl 3 stop
+	wait
+	pl
+	cg
+	eg
+	bg 0 bg04a
+	wait
+	wait 60
+	cg 1 cal,1,1,5,b,2
+	rdraw
+	pcm A_c99_a_037
+世凪	「わー」
+
+	小さなデジタルカメラを持った世凪は、屋上をとてとてと駆けていった。\@
+	cg 1
+	rdraw
+	\n
+
+	fw 0 cas,1,1,5,b,2
+	rdraw 
+	pcm A_c99_a_038
+世凪	「かーいとー。きれいだねー」
+
+	fw
+	se 0 se3304
+	世凪は、丸く切り取られた空にカメラを向けて、写真を撮った。
+
+	ディスプレイに表示された自分の写真を見て、満足そうに微笑む。
+
+	fw 0 cas,1,1,5,7,2
+	rdraw 
+	pcm A_c99_a_039
+世凪	「まるいそら」
+
+	fw
+海斗	「うん」
+
+	cg 1 cas,2,1,5,b,2
+	rdraw 
+	pcm A_c99_a_040
+世凪	「あー」
+
+	se 0 se3304
+	eg 3 c_white
+	rwipe w_fin 4
+	wait
+	eg 3
+	rdraw 120
+	世凪は僕にカメラをむけて、シャッターを押した。
+
+	cg 1
+	rdraw
+	そして、撮れた写真を表示して、僕に見せた。
+
+	cg 1 cal,2,1,5,b,2
+	rdraw 
+	pcm A_c99_a_041
+世凪	「かいとっ」
+
+海斗	「うん」
+
+	cg 1 cal,2,1,5,b,1
+	rdraw
+	pl 1 mcquake 2,0,3 2,0,-3 2,3,0 2,-3,0 2,0,1 2,0,-1 2,1,0 2,-1,0 60,0,0
+	pcm A_c99_a_042
+世凪	「あーっ！」\@
+	wait 120
+	cg 1 amove1 60 @+300 420
+	cg 1 fade 30 255 0
+	wait
+	cg 1
+	\n
+
+	pl 2 pos 525 540
+	pl 1 pos 1395 540
+	bg 0 bg04x
+	cg 1 cus,1,1,1,1,1
+	cg 2 cvs,1,1,1
+	rwipe w_rl 60
+	世凪が楽しげに出雲にかけより、出雲の写真を撮る。\@
+	wait
+	pl 2 mcarc 360 0 360 0 15
+	\n
+
+	se 0 se3304
+	eg 3 c_white
+	cg 1 cus,1,1,1,4,1
+	wipe w_fin 5 3
+	wipe w_fin 5 1
+	wait
+	eg 3
+	draw 60 3
+	そのままリープくんにもカメラをむけて、シャッターを切った。\@
+	wait
+	cg 1 cus,1,1,1,1,1
+	draw 20 1
+	wait
+	\n
+
+	fw 0 cas,2,1,1,b,1
+	pcm A_c99_a_043
+世凪	「いずもっ。リープくん」
+
+	fw
+海斗	「おお」
+
+	pcm V_leap_A_02
+リープくん	「――――」
+
+	cg 5 cam,1,1,1,a,1
+	bg 5 bg04a @ @ @ 5
+	wipe w_lr 60 5
+	wait
+	pl 2 stop
+	wait
+	pl
+	cg
+	bg
+	cg 1 cam,1,1,1,a,1
+	bg 0 bg04a
+	wait
+	pcm A_c99_a_044
+世凪	「とって、とって」
+
+	cg 1 cal,2,1,1,b,1
+	rdraw
+	そう言って、世凪は僕にカメラを差し出した。
+
+海斗	「僕でいいの？」
+
+	pl
+	cg 1 cal,2,1,1,4,2
+	rdraw
+	世凪が楽しげにうなずく。\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	cg 1 cas,1,1,1,a,1
+	rdraw
+	世凪は屋上の端のほうにかけていき、
+	片手を腰にあててポーズをとった。\@
+	wait
+	wait 50
+	cg 1 cas,3,1,2,4,2
+	rdraw
+	\n
+
+	pl 2 pos 937 540
+	pl 1 pos 472 540
+	pl 3 pos 1389 540
+	bg 0 bg04x
+	cg 2 cum,1,1,1,1,1
+	cg 1 cvm,1,1,1
+	cg 3 cam,3,1,5,4,2
+	rdraw
+	wait
+	pl 1 mcarc 360 0 360 0 15
+	wait 60
+海斗	「とるよー」
+
+	cg 3 cam,3,1,1,6,2
+	draw 20 3
+	pcm A_c99_a_045
+世凪	「かわいいですかー」
+
+海斗	「かわいいですー」
+
+	cg 3 cam,3,1,2,4,1
+	draw 20 3
+	pcm A_c99_a_046
+世凪	「やったー」\@
+	pl 3 arc 30 180 360 0 7
+	\n
+
+	frameoff fade
+	wait
+	se 0 se3304
+	eg 4 c_white
+	wipe w_fin 5 4
+	wait
+	eg 4
+	draw 120 4
+	wait
+	wait 60
+	cg 3 cal,1,1,1,1,1
+	draw 20 3
+	pcm A_c99_a_047
+世凪	「みせてっ、みせてっ」
+
+	世凪が僕に駆け寄ってくる。
+
+	cg 3 cax,1,1,1,4,1
+	draw 20 3
+	僕は世凪にカメラを差し出した。
+
+	cg 3 cax,1,1,1,2,3
+	draw 20 3
+	pcm A_c99_a_048
+世凪	「なかなかじょうずですねー」
+
+海斗	「ありがとう」
+
+	cg 3 cax,1,1,1,3,3
+	draw 20 3
+	pcm A_c99_a_049
+世凪	「でも、まだまだですねー」
+
+海斗	「……ごめん？」
+
+	cg 3 cax,1,1,1,4,2
+	draw 20 3
+	pcm A_c99_a_050
+世凪	「いいのいいの。もっととって？」
+
+海斗	「うん」
+
+	frameoff
+	wait
+	wait 30
+	eg 5 c_black
+	wipe w_time 60 5
+	wait
+	wait 60
+	pl 1 stop
+	wait
+	pl
+	cg
+	bg
+	eg 5
+	bg 0 bg04a
+	rwipe w_time 60
+	wait
+	その後、写真を撮り合ったり、表情を変えない出雲の写真を
+	とりつづけたりしながら時間が過ぎた。
+
+	pl
+	cg 1 cal,1,1,6,a,4
+	rdraw
+	pcm A_c99_a_051
+世凪	「……」
+
+海斗	「？　世凪、どうした？」
+
+	cg 1 cal,1,1,6,a,4
+	rdraw
+	pcm A_c99_a_052
+世凪	「おなかすいた」
+
+	fw 0 cus,1,1,1,1,1
+	rdraw
+	pcm U_c99_a_009
+出雲	「食事にしますか」
+
+	fw
+	cg 1 cal,2,1,1,4,2
+	rdraw
+	世凪がうなずく。\@
+	pl 1 arc 30 180 360 0 7
+	wait
+	\n
+
+	cg
+	rdraw
+	wait
+	wait 60
+海斗	「戻ろうか」
+
+	cg 0 cum,1,1,1,1,1
+	rdraw
+	pcm U_c99_a_010
+出雲	「はい」
+
+	cg
+	bg
+	rwipe w_rl 60
+	wait
+	wait 30
+	next c99_a_x

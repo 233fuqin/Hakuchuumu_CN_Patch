@@ -1,0 +1,287 @@
+#c01_02_00
+
+	#103 = 1 
+	if (#213 == 1) #102 = 1 
+	#104 = 0 
+	undo
+	movie
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	frameoff
+	wait
+	view 0 case01
+	bgm 0 bgm1_02
+	se 6 loop se9014
+	se 6 fade 60 0 100
+	bg 0 mode sepia
+	bg 0 bga03b
+	bg 0 blur 4 4
+	pl 0 scale 180% 180%
+	pl 0 pos @+600 @+0
+	rwipe w_drm 200
+	wait
+	rdraw 200
+	pcm B_c01_02_001
+凛	「ねぇ」
+
+有島	「……」
+
+	後ろの席から声をかけられ、振り返る。
+
+	pl
+	eg 0 mode sepia
+	eg 0 evb04,2,1,2
+	eg 0 blur 3 3
+	rdraw 100
+	pcm B_c01_02_002
+凛	「有島くんは本が好きなのね」
+
+有島	「嫌いじゃないよ」
+
+	eg 0 evb04,2,3,2
+	rdraw
+	pcm B_c01_02_003
+凛	「私もすき。それ、なに読んでるの」
+
+有島	「小説」
+
+	pcm B_c01_02_004
+凛	「面白い？」
+
+有島	「うーん、この人の文章が好きなんだ」
+
+有島	「面白いというのとはちょっと違う」
+
+	eg 0 evb04,2,1,2
+	rdraw
+	pcm B_c01_02_005
+凛	「ふーん」
+
+	波多野は俺の手元の小説を眺めながら言った。
+
+	eg 0 evb04,2,2,2
+	rdraw
+	pcm B_c01_02_006
+凛	「読み終わったら貸してくれる？」
+
+有島	「えっ」
+
+	波多野は俺をじっと見つめている。
+
+有島	「いいよ、貸してあげるよ」
+
+	俺は読んでいた本を波多野の机においた。
+
+	波多野は目を丸くした。
+
+	eg 0 evb04,2,1,2
+	rdraw
+	pcm B_c01_02_007
+凛	「いいの？」
+
+有島	「何度も読んでいるんだ。いいよ」
+
+	波多野は本を手にとった。
+
+	eg 0 evb04,b,b,b
+	eg 0 blur 2 2
+	rdraw 50
+	pcm B_c01_02_008
+凛	「ありがとう」
+
+	俺はうなずく。
+
+	eg 0 evb04,b,c,b
+	rdraw
+	pcm B_c01_02_009
+凛	「有島くんも、書きたいんでしょ？」
+
+有島	「は？」
+
+	eg 0 evb04,b,b,b
+	rdraw
+	pcm B_c01_02_010
+凛	「書けるよ」
+
+有島	「……」
+
+	俺は波多野を見つめてから首を振った。
+
+	波多野はにやりと微笑んだ。
+
+	eg 0 evb04,b,c,b
+	eg 0 blur 1 1 100
+	rdraw 100
+	pcm B_c01_02_011
+凛	「書きたいくせに」
+
+	eg 0 blur 0 0 100
+	pcm B_c01_02_012
+凛	「書けると思ってるくせに」
+
+有島	「ダメだったんだ。ダメだったんだよ」
+
+有島	「クソみたいなものばかり書いたんだ。
+	いい文章を読んでいるだけじゃ、書けるようにはならないんだよ」
+
+有島	「……書けなかったんだよ」
+
+	pcm E_c01_02_001
+祥子	「書けなかったんじゃない、書かなかったんでしょ」
+
+	波多野が声のした方を見上げる。
+
+	eg 0 
+	bg 0 mode sepia
+	bg 0 bga03b
+	bg 0 blur 4 4
+	pl 0 scale 180% 180%
+	pl 0 pos @+600 @+0
+	cg 2 mode sepia
+	cg 2 cex,1,1,2,2,3
+	rdraw
+	妻が立っていた。
+
+	cg 2 cex,1,1,2,2,3
+	rdraw
+	pcm E_c01_02_002
+祥子	「書かないうちに、本当に書けなくなったんでしょ」\@
+	wait tag 01
+	cg 2 cex,1,1,2,2,3
+	rdraw
+	\n
+
+	cg 2 cex,1,1,2,2,3
+	rdraw
+	pcm E_c01_02_003
+祥子	「よかったわね、書けなくなれて」\@
+	wait tag 01
+	cg 2 cex,1,1,2,2,4
+	rdraw
+	\n
+
+	cg 2 cex,1,1,2,3,3
+	rdraw
+	pcm E_c01_02_004
+祥子	「あなたのせいじゃないんもんね。時間のせいよね」\@
+	wait tag 01
+	cg 2 cex,1,1,2,2,4
+	rdraw
+	\n
+
+	凛が妻を見つめる。
+
+有島	「生徒の前で、そんなこと言わないでくれ」
+
+	cg 2 cex,1,1,5,2,4
+	rdraw
+	妻が侮蔑のこもった笑い声をあげる。
+
+	凛は表情を変えずに妻を見上げていた。
+
+	cg 2 
+	rdraw 50
+	wait 100
+	妻はどこかに消えた。
+
+	視界からいなくなった。
+
+	凛はしばらく、妻がいた場所を眺めていた。
+
+	pl
+	eg 0 mode sepia
+	eg 0 evb04,2,1,2
+	eg 0 blur 0 0
+	rdraw 100
+	私は凛のほうに視線を戻した。
+
+	凛は黙ったまま私を見つめていた。
+
+	bgm 0 end 150
+	frameoff fade
+	wait 30
+	cg
+	pl
+	eg
+	bg
+	rwipe w_drm 200
+	wait
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c01_02_06

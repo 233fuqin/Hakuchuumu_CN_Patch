@@ -1,0 +1,4 @@
+#start
+
+	if (#1005 == 1) next prologue
+	next c00_00

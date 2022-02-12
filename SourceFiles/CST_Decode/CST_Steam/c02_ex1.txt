@@ -1,0 +1,430 @@
+#c02_ex1
+
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	frameoff
+	wait
+	view 0 case02
+	se 1 loop se5473
+	se 2 loop se5457
+	se 3 loop se5445
+	se 1 fade 60 0 100
+	se 2 fade 60 0 20
+	se 3 fade 60 0 30
+	bgm 0 bgm2_12
+	bg 0 bgb01x
+	eg 2 evc01b,b,c,a,b
+	rwipe w_bt 60
+	wait
+ウィル	「うーん……」
+
+	eg 5 evc01e,a,a,c,a
+	rdraw
+	pcm C_c02_ex1_001
+オリヴィア	「なにしてるのウィル。また新作？」
+
+	eg 2 evc01b,b,b,b,a
+	rdraw
+ウィル	「あぁ、新作っちゃ新作なんだが……」
+
+	eg 5 evc01e,a,a,b,a
+	rdraw
+	pcm C_c02_ex1_002
+オリヴィア	「詰まってるの？　読んであげる。どんな話なの？」
+
+	eg 2 evc01b,b,c,a,b
+	rdraw
+ウィル	「いや、実は――」
+
+	eg 2 evc01b,b,c,a,a
+	eg 5 evc01e,a,a,b,a,a
+	rdraw
+	おれは悩みの種である新作を、カウンターの上に置いた。
+
+	オリヴィアは怪訝な目をその新作に向けている。
+
+	eg 5 evc01e,a,a,c,a,a
+	rdraw
+	pcm C_c02_ex1_003
+オリヴィア	「は？　なにこれ。臭いんだけど」
+
+	eg 2 evc01b,c,c,a,a
+	rdraw
+ウィル	「一応、ポタージュスープだ」
+
+	eg 5 evc01e,a,a,c,a,a
+	rdraw
+	pcm C_c02_ex1_004
+オリヴィア	「ポタージュ？……あぁ、スープなの。てっきり飲み過ぎて吐いたのかと
+	思った」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「いま暗におれの料理をゲロ扱いしなかったか？」
+
+	eg 5 evc01e,a,a,e,a,a
+	rdraw
+	pcm C_c02_ex1_005
+オリヴィア	「だってそれくらい臭いけど……。すんすん……、
+	なに、なにのポタージュなの、これ……」
+
+	eg 2 evc01b,c,e,a,a
+	rdraw
+ウィル	「ジャガイモ」
+
+	eg 5 evc01e,a,a,c,b,a
+	rdraw
+	pcm C_c02_ex1_006
+オリヴィア	「ジャガイモのポタージュ……。まぁ、メニューとしてはスタンダードだけど、
+	どうしてこんなに酸っぱい匂いがするのよ」
+
+	eg 2 evc01b,c,e,a,a
+	rdraw
+ウィル	「飲んでみてくれ。飲めばわかるよ」
+
+	eg 5 evc01e,a,a,c,a,a
+	rdraw
+	pcm C_c02_ex1_007
+オリヴィア	「え、この吐瀉物みたいな酸っぱい匂いのするスープを？
+	のむの？　わたしが？」
+
+	おれはオリヴィアの目を見つめたままうなずいた。
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「おれを信じてくれ、オリヴィア」
+
+	eg 5 evc01e,a,a,e,a,a
+	rdraw
+	pcm C_c02_ex1_008
+オリヴィア	「……変なもの、入ってないでしょうね」
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「店のメニューの試作品だ。入れる訳ないだろ、ヘンなモノなんて」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+	オリヴィアは汚物でもみるような目をスープに向けたまま、
+	おそるおそるスプーンを手にした。
+
+	eg 5 evc01e,a,a,b,b,a
+	rdraw
+	pcm C_c02_ex1_009
+オリヴィア	「……」
+
+	オリヴィアがスープに口をつける。
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「どうだ？」
+
+	eg 5 evc01e,a,a,c,a,a
+	rdraw
+	pcm C_c02_ex1_010
+オリヴィア	「……想像通りに酸っぱいんだけど」
+
+	eg 2 evc01b,b,c,a,b
+	rdraw
+ウィル	「口の中がスッキリする感じ、ないか？」
+
+	eg 5 evc01e,a,a,b,b,a
+	rdraw
+	pcm C_c02_ex1_011
+オリヴィア	「全然」
+
+	eg 2 evc01b,c,c,a,b
+	rdraw
+ウィル	「うーん……」
+
+	eg 5 evc01e,a,a,e,a,a
+	rdraw
+	pcm C_c02_ex1_012
+オリヴィア	「そもそも、ジャガイモのポタージュって知らなかったらなんのスープかも
+	わからないわよ。なにが入ってるの、これ」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「ジャガイモとミルクだろ。それに塩と胡椒――」
+
+	eg 5 evc01e,a,a,e,d,a
+	rdraw
+	pcm C_c02_ex1_013
+オリヴィア	「えっ……、もしかしてミルクが腐ってたんじゃないの。
+	だってこの酸味――」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「いや、実は隠し味に酢を入れてみたんだ」
+
+	eg 5 evc01e,a,a,c,d,a
+	rdraw
+	pcm C_c02_ex1_014
+オリヴィア	「……なんですって？」
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「ほら、ここにくる客はみんな酒を飲むだろ？　体調不良は内臓からくる。
+	このまえ、酢が内臓にいいって聞いたから――」
+
+	eg 5 evc01e,a,a,d,c,a
+	eg 2 evc01b,b,d,a,a
+	rdraw
+	pcm C_c02_ex1_015
+オリヴィア	「お酢の豆知識なんてどうでもいいのよ！」
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「お酢の知識なんだから豆知識じゃないだろう。
+	お酢は豆からできてるわけじゃないぞ」
+
+	eg 5 evc01e,a,a,c,e,a
+	rdraw
+	pcm C_c02_ex1_016
+オリヴィア	「黙りなさい。お願いだから、一回黙って」
+
+	eg 2 evc01b,b,c,a,a
+	rdraw
+ウィル	「……」
+
+	オリヴィアは眉間に皺を寄せ、額を抑えていた。
+
+	eg 5 evc01e,a,a,e,a,a
+	rdraw
+	pcm C_c02_ex1_017
+オリヴィア	「隠し味にどんだけ主張させてるのよ。主役のジャガイモが
+	跡形もなく消えてるじゃないの」
+
+	eg 5 evc01e,a,a,c,a,a
+	rdraw
+	pcm C_c02_ex1_018
+オリヴィア	「お酢を丸呑みしてるような気分になったわよ」
+
+	eg 2 evc01b,b,e,a,a
+	rdraw
+ウィル	「おっ、よかった」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 5 evc01e,a,a,d,d,a
+	rdraw
+	pcm C_c02_ex1_019
+オリヴィア	「よ　か　っ　た　！？」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「お酢をそのまま飲む健康法も、東洋にあるらしいぞ」
+
+	pcm C_c02_ex1_020
+	eg 5 evc01e,a,a,d,c,a
+	rdraw
+オリヴィア	「だからなに！？」
+
+	eg 2 evc01b,b,e,a,a
+	eg 5 evc01e,a,a,d,d,a
+	rdraw
+ウィル	「オリヴィアがちょっと健康になったぞ」
+
+	eg 5 evc01e,a,a,d,c,a
+	rdraw
+	pcm C_c02_ex1_021
+オリヴィア	「酒屋の新メニューの話してたのよね！？
+	なんなのよさっきからあんたの豆知識は！」
+
+	eg 2 evc01b,b,d,a,a
+	eg 5 evc01e,a,a,d,d,a
+	eg 4 evc01e,0,0,0,0,a
+	rdraw
+ウィル	「だからお酢知識であって豆知識じゃないって」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 4 evc01e,0,0,0,0,a
+	eg 5 evc01e,a,a,d,c
+	rdraw
+	pcm C_c02_ex1_022
+オリヴィア	「うっさい！　そもそもこの店にお酢なんてなかったじゃない。
+	どうしたのよ、お酢」
+
+	eg 2 evc01b,b,e,a,a
+	eg 5 evc01e,a,a,d,d,a
+	rdraw
+ウィル	「買ってきたんだ、ほら」
+
+	se 0 se4023_e
+	eg 4 evc01e,0,0,0,0,c
+	eg 5 evc01e,a,a,d,d
+	rdraw
+	おれはまだ開けていない酢の瓶をカウンターに置いた。
+
+	葡萄酒と同じ材料から作っているお酢らしい。
+
+	eg 5 evc01e,a,a,e,b
+	rdraw
+	pcm C_c02_ex1_023
+オリヴィア	「……ワインビネガーね。確かに、身体にいい調味料ではあるし、
+	ポタージュのアクセントにはなるかもしれない」
+
+	eg 5 evc01e,a,a,c,b
+	rdraw
+	pcm C_c02_ex1_024
+オリヴィア	「まさかあなた、スプーン２、３杯いれたんじゃないでしょうね。
+	隠し味だったら数滴でいいのよ。ただでさえ主張の強い調味料なんだから」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「今回は１本入れてみた」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 5 evc01e,a,a,d,a
+	rdraw
+	pcm C_c02_ex1_025
+オリヴィア	「１本！！！！　これ１本！！？？」
+
+	eg 2 evc01b,b,c,a,a
+	rdraw
+ウィル	「うん」
+
+	eg 5 evc01e,a,a,d,c
+	rdraw
+	pcm C_c02_ex1_026
+オリヴィア	「隠し味どころか酢漬けじゃない！
+	あんた、誰に料理教わったのよ！」
+
+	eg 2 evc01b,a,d,a,a
+	eg 5 evc01e,a,a,c,e
+	rdraw
+ウィル	「基本的に我流だな。料理も作劇も人に教わったことはない」
+
+	eg 2 evc01b,a,e,a,a
+	rdraw
+ウィル	「演劇の方はうまくいってるし、もしかしたら料理の方も我流で
+	うまくいくんじゃないかと思って」
+
+	eg 5 evc01e,a,a,c,a
+	eg 2 evc01b,a,d,a,a
+	rdraw
+	pcm C_c02_ex1_027
+オリヴィア	「残念だったわね、どうやらあなたの才能は作劇に全振りされているようよ」
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「いやでも――」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 5 evc01e,a,a,d,c
+	rdraw
+	pcm C_c02_ex1_028
+オリヴィア	「でもとか言うな！　料理のセンスが１ミリでもあったらスープにお酢１本
+	ドボドボ入れたりしないのよ！　途中で気付くのよ、センスがあれば！」
+
+	eg 2 evc01b,b,d,a,a
+	eg 5 evc01e,a,a,c,a
+	rdraw
+ウィル	「いや、普通と違うだけでマズくはなかっただろ？」
+
+	eg 5 evc01e,a,a,d,e,c
+	rdraw
+	pcm C_c02_ex1_029
+オリヴィア	「マズいに決まってるでしょう！？　お酢１本入ってるのよ！？」
+
+ウィル	「でも――」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 5 evc01e,a,a,d,c
+	eg 2 evc01b,b,c,a,a
+	rdraw
+	pcm C_c02_ex1_030
+オリヴィア	「でもとか言うな！！」
+
+	eg 5 evc01e,a,a,e,a
+	rdraw
+	オリヴィアは深くため息をついた。
+
+	eg 5 evc01e,a,a,e,d
+	rdraw
+	pcm C_c02_ex1_031
+オリヴィア	「どきなさい。新メニューが必要ならわたしが作るから。
+	あなたは大人しく新作の劇でも書いてなさい、料理はもういいから」
+
+	eg 2 evc01b,b,c,a,b
+	rdraw
+ウィル	「う、うん……」
+
+	eg 5 evc01e,a,a,c,b
+	rdraw
+	pcm C_c02_ex1_032
+オリヴィア	「大体、なんでこんなお酢買ってきたのよ。他にも買う物あるでしょう。
+	よりによってなんでお酢を買ってきたのよ」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「なんか、よその店が酢漬けビーンズを出してるらしくて、
+	それがうまくて身体にもよくて好評なんだそうだ」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「代謝がよくなって、便秘も治るらしい、酢漬けビーンズ」
+
+	eg 5 evc01e,a,a,e,b
+	rdraw
+	pcm C_c02_ex1_033
+オリヴィア	「……最後に本当の豆知識じゃない」
+
+	eg 2 evc01b,c,e,a,c
+	rdraw
+ウィル	「……ははっ！　確かに！」
+
+	pl 5 quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	eg 5 evc01e,a,a,c,a
+	eg 2 evc01b,b,c,a,a
+	rdraw
+	pcm C_c02_ex1_034
+オリヴィア	「笑うな！　腹立つ！」
+
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	bgm 0 end 240
+	frameoff fade
+	cg
+	bg
+	eg
+	rwipe w_tb 120
+	wait 240

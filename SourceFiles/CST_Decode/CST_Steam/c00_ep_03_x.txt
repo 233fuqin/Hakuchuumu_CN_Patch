@@ -1,0 +1,45 @@
+#c00_ep_03_x
+
+	#103 = 0 
+	#101 = 99 
+	#104 = 0 
+	frameoff
+	wait
+	view 0 yonagi
+	wait
+	se 0 loop se5483
+	se 1 loop se5000
+	se 2 loop se5474
+	se 3 loop se5460
+	se 0 fade 120 0 60
+	se 1 fade 120 0 60
+	se 2 fade 120 0 60
+	se 3 fade 120 0 30
+	bgm 0 bgm0_03
+	eg 1 eva35,a,0,0,a,a,a
+	rwipe w_bt 300
+	wait
+海斗	「……カンナくん、変な方向に成長したね」
+
+	eg 1 eva35,a,0,0,b,a,b
+	rdraw
+	pcm A_c00_ep2_042
+世凪	「素直ないい子だから、周りの大人の影響を受けるのよ、カンナくんは」
+
+海斗	「そう考えると、大人の責任は重大だ。正しい日本語を使うように
+	心がけなくちゃ……」
+
+	eg 1 eva35,a,0,0,b,e,b
+	rdraw
+	pcm A_c00_ep2_043
+世凪	「考えたのは出雲だけどね」
+
+	fw
+海斗	「そう言えばそうだったな」
+
+	if (#216 + #226 + #236 == 3 ) next c00_ep_123_x
+	if (#216 == #226) next c00_ep_03_y
+	pcm A_c00_ep2_044
+世凪	「次は――？」
+
+	next c00_ep_123

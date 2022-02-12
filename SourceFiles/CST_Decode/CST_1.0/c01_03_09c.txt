@@ -1,0 +1,155 @@
+#c01_03_09c
+
+	#103 = 1 
+	#101 = 21 
+	if (#213 == 1) #102 = 1 
+	#104 = 0 
+	frameoff
+	wait
+	view 0 case01
+	frameoff
+	eg 5 f_cine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	bgm 0 bgm1_10
+	se 1 loop se5441
+	se 2 loop se5442
+	se 1 fade 60 0 100
+	se 2 fade 60 0 80
+	bg 0 bga07_c
+	rdraw
+	se 0 se2009_o
+	リビングの扉が勢いよく閉められる。
+
+	私は食卓におかれたままの自分の原稿を見つめた。
+
+有島	「……きみにも読んで欲しかった」
+
+	無意識のうちに、そうつぶやいていた。
+
+	その言葉は誰にも届かず、リビングの空気に溶けていった。
+
+	eg 0 mode sepia
+	eg 0 evb05,a
+	eg 0 blur 2 2
+	pl 0 scale 140% 140%
+	pl 0 pos @-100 @+100
+	rdraw 100
+	pl 0 m2move 3000 @+80
+	若かった私。
+
+	若かった妻。
+
+	あの頃の私たちが毎日当たり前にしていたこと。
+
+	いつからそれが、こんなにも困難で、苦痛を伴うようになった。
+
+	ただ本音を伝えること。
+
+	互いの弱さを見せて認め合うこと。
+
+	前はできていた。
+
+	eg 0
+	pl 0
+	bg 0 bga07_c
+	pl 0 scale 150% 150%
+	pl 0 pos @+0 @+150
+	bg 0 blur 1 1
+	rdraw 100
+	私はソファに身を沈め、深いため息をついた。
+
+	顔を天井に向け、右手で両目をおおった。
+
+	bg 0 bga07_c
+	bg 0 blur 4 4
+	rdraw 50
+	その隙間にじんわりと涙がふくらみ、
+	私の頬をゆっくり流れた。
+
+	堕ちるところまで堕ちた。
+
+	むきだしのペニスは体液に塗れたまま、
+	力なく垂れていた。
+
+	あまりにも情けなくて、口元に笑みが浮かんだ。
+
+	格好よく生きたかった。
+
+	波多野秋房のように。
+
+	それを周りに認められたかった。
+
+	こんな人間に、なりたくてなった訳じゃない。
+
+	いつの間にか、嗚咽がもれていた。
+
+	私は子供のように咽び泣きはじめた。
+
+	それでも、凛の姿は脳裏にこびりついている。
+
+	もう一生消えないのかもしれない。
+
+	――小説なんて、書くんじゃなかった。
+
+	心の底から、私はそう思った。
+
+	bgm 0 end 100
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait 30
+	frameoff
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	cg
+	pl
+	eg
+	bg
+	rwipe w_tb 100
+	wait
+	wait 100
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c01_09_10

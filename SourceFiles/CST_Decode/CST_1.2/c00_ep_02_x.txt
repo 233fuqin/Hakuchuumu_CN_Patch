@@ -1,0 +1,61 @@
+#c00_ep_02_x
+
+	#103 = 0 
+	#101 = 99 
+	#104 = 0 
+	se 1 loop se5483
+	se 2 loop se5000
+	se 3 loop se5474
+	se 1 fade 240 0 60
+	se 2 fade 240 0 60
+	se 3 fade 240 0 60
+	bgm 0 bgm0_03
+	frameoff
+	wait
+	view 0 yonagi
+	wait
+	bg 0 blur 4 4
+	bg 0 scale 125% 125%
+	bg 0 bg91b
+	rwipe w_bt 300
+	wait
+	wait 60
+	fw
+海斗	「……キキたちがしていた街の噂話は――」
+
+	fw
+海斗	「本当の話なのか？」
+
+	fw 0 cas,n,2,1,2,2
+	rdraw
+	pcm A_c00_ep_024
+世凪	「さぁ？　どうでしょー」
+
+	fw
+海斗	「……」
+
+	fw 0 cas,n,2,1,3,4
+	rdraw
+	pcm A_c00_ep_025
+世凪	「人の恋路を邪魔するやつには仲良く退場してもらう。
+	これわたしの物語の鉄則なのです、うんうん」
+
+	fw
+海斗	「まぁ、あの２人もそれなりに幸せになりそうではある」
+
+	fw 0 cas,n,2,1,2,4
+	rdraw
+	pcm A_c00_ep_026
+世凪	「ね。ウィルたちとはまた違った世界観の舞台を作り上げるかも」
+
+	fw
+海斗	「それもそれで見てみたいな」
+
+	if (#216 + #226 + #236 == 3 ) next c00_ep_123_x
+	fw 0 cas,n,2,1,3,2
+	rdraw
+	pcm A_c00_ep_027
+世凪	「次は――？」
+
+	fw
+	next c00_ep_123

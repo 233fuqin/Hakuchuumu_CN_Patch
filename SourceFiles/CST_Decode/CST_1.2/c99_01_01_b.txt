@@ -1,0 +1,47 @@
+#c99_01_01_b
+
+	eg
+	eg 4 f_eye
+	eg 5 noise,a,a
+	rdraw 0
+	wait
+	eg
+	bg 0 
+	eg 1 
+	rdraw 180
+	wait
+	wait 1
+	frameoff
+	wait
+	wait 30
+	eg 0 blur 10 10
+	eg 0 eva05,a
+	rdraw
+	wait
+	wait 60
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+海斗	「……ぅ」
+
+	pcm A_c00_A_01_001
+世凪	「……」\@
+	eg 0 blur 6 6
+	eg 0 eva05,a
+	rdraw 180
+	wait 90
+	\n
+
+	目覚めてすぐ、なにかが目の前にあることに気がついた。
+
+	eg 0 blur
+	rdraw 180
+	視界が徐々に鮮明になっていく。\@
+	eg 0 blur 0 0
+	eg 0 eva05,a
+	rdraw 180
+	\n
+
+	if(#399 == 1) next c99_01_06_b
+	if(#399 == 2) next c99_01_06_c

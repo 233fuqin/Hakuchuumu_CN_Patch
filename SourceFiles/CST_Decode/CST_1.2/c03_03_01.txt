@@ -1,0 +1,800 @@
+#c03_03_01
+
+	#103 = 3 
+	#101 = 7 
+	if (#233 == 1) #102 = 1 
+	#104 = 0 
+	undo
+	movie
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	se 1 loop se5444
+	se 2 loop se5453
+	se 1 fade 60 0 100
+	se 2 fade 60 0 30
+	frameoff
+	wait
+	view 0 case03
+	bg 0 bgc23_b
+	eg 2 evd92,a
+	cg 1 cd2s,a,1,1,2,4,a
+	rwipe w_day 60
+	wait
+	bgm 0 bgm3_07
+	se 0 se2050
+	全ての授業が終わり、最後にまたすももが教壇に立って、
+	申し送り事項をいくつか言った。
+
+	また一日が終わった。
+
+	あと一日……とうとう終業式を残すだけになった。
+
+	久し振りに通った学校。
+
+	こんなに長いのか。
+
+	よくもまぁみんな、じっと椅子に座っていられるものだ。
+
+	たった三ヶ月、世の中と違うペースで生きていただけで、
+	みんなが当たり前にもっているなにかを失ってしまった気がした。
+
+	cg 1 cd2s,a,1,1,1,1,a
+	pcm D_c03_03_001
+すもも	「では、明日は終業式です。夏休みまで、もう少しですね」
+
+	cg 1 cd2s,a,1,1,4,1,a
+	rdraw
+	pcm D_c03_03_002
+すもも	「じゃあ、また明日――」
+
+	se 1 loop se5453
+	se 2 loop se5444
+	se 1 fade 60 0 100
+	se 2 fade 60 0 70
+	frameoff
+	wait
+	wait 30
+	fw 0
+	eg
+	cg
+	bg 0 bgc02a
+	rwipe w_bt
+	wait
+	wait 30
+	クラスメイト達がぞくぞくと教室から出ていく。
+
+	僕は鞄を手に持った。
+
+	昨日印刷した写真を、すももに渡したい。
+
+	もしかしたら、この教職が終わったらすももとは会えないかもしれないし。
+
+	教室をあとにするクラスメートの流れに乗って、僕も教室をあとにした。
+
+	se 1 end 60
+	se 2 end 60
+	se 1 loop se5444
+	se 2 loop se5453
+	se 1 fade 60 0 100
+	se 2 fade 60 0 30
+	frameoff
+	wait
+	wait 30
+	pl 0 scale 270% 270%
+	pl 0 pos 787 381
+	bg 0 bgc03a
+	bg 0 blur 2 2
+	rwipe w_rl
+	wait
+	wait 30
+	小走りですももを追いかける。
+
+	すると、階段の踊り場からすももの声が聞こえてきた。
+
+カンナ	「ん……？」
+
+	cg 4 pos 0 0
+	rdraw
+	cg 1 cd2s,a,1,5,2,3,a
+	rdraw
+	pcm D_c03_03_003
+すもも	「すみません……」
+
+	pcm XX_c03_03_001
+男性教師	「あのね、おれ毎年見てるのね、キミみたいな教職の子」
+
+	pcm XX_c03_03_002
+男性教師	「ここまでなにもできない子、逆にいないよ。まだ生徒と一緒に授業が必要でしょ」
+
+	cg 1 cd2s,c,1,6,3,3,a
+	rdraw
+	pcm D_c03_03_004
+すもも	「すみません……勉強は、昔からニガテで……」
+
+	cg 1 cd2s,c,1,5,2,3,a
+	rdraw
+	pcm D_c03_03_005
+すもも	「でも、あと一日だし、なんとか教職はもらいたいなーって」
+
+	cg 1 cd2s,c,1,2,2,3,a
+	rdraw
+	pcm D_c03_03_006
+すもも	「……言われたことも、ちゃんとあたしなりに、やったし」
+
+	pcm XX_c03_03_003
+男性教師	「なんだよ」
+
+	cg 1 cd2s,c,1,6,3,3,a
+	rdraw
+	pcm D_c03_03_007
+すもも	「……」
+
+	……僕のことだろうか。
+
+	僕が学校にいくと言ったとき、これで評価逆転と喜んでいた。
+
+	cg 1 cd2s,a,1,5,5,3,a
+	rdraw
+	pcm D_c03_03_008
+すもも	「いえ……なんでも、ないです……」
+
+	pcm XX_c03_03_004
+男性教師	「お前みたいなさー、やることやらないやつに限って、
+	努力を評価されたがるのな」
+
+	pcm XX_c03_03_005
+男性教師	「プロセスはどうでもいいよ。結果だよ」
+
+	cg 1 cd2s,c,1,5,6,3,a
+	rdraw
+	pcm D_c03_03_009
+すもも	「だから、それは……」
+
+	pcm XX_c03_03_006
+男性教師	「？？」
+
+	cg 1 cd2s,a,1,5,3,3,a
+	rdraw
+	pcm D_c03_03_010
+すもも	「いえ……なんでもないです……」
+
+	男性教師の足音が遠のいていく。
+
+	cg 1 cd2s,a,1,5,2,3,a
+	rdraw
+	pcm D_c03_03_011
+すもも	「……はぁ……」
+
+	cg 1 fade 30 255 0
+	wait 30
+	すもものため息が、僕のところにまで聞こえた。
+
+	cg 1
+	rdraw
+	階段のほうを覗きこむ。
+
+	とぼとぼと階段を昇っていくすももの背中が見えた。
+
+	se 1 end 50
+	se 2 end 50
+	se 3 end 50
+	frameoff
+	wait
+	wait 30
+	bgm 0 end 60
+	cg 4
+	bg 0 
+	rwipe w_wave2 120
+	wait
+	se 0 se2005
+	se 5 loop se1001_2
+	se 4 loop se5458
+	se 2 loop se5443
+	se 3 loop se5452
+	se 4 fade 60 0 100
+	se 2 fade 60 0 50
+	se 3 fade 60 0 70
+	pl 0 scale 100% 100%
+	pl 0 pos 640 360
+	bg 0 bgc04a
+	bg 0 blur 0 0
+	rwipe w_wave2 120
+	wait
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	cg 
+	eg 
+	fg 
+	rwipe w_wave2 60
+	wait
+	wait 30
+	eg 5 f_heroine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	wait 1
+	cg 4 pos 0 0
+	wait
+	……。
+
+	あーあ。
+
+	これホント、ダメかも。
+
+	こんなにダッサい格好して、センセーッぽくして頑張ったのに。
+
+	……あたしなりにだけど。
+
+	でも、プロセスじゃなくて、結果だって言うなら、
+	カンナくんを連れて来たことは？
+
+	言わなきゃわかんないのかな……。
+
+	rdraw
+	pcm D_c03_03_012
+すもも	「……」
+
+	fw 0
+	rdraw
+	言えないなー。
+
+	正直それで交渉するつもりで、カンナくんに学校きてもらったけど。
+
+	なんか道具にしてるみたいで、嫌だなー。
+
+	仲良くなりすぎちゃったかなー。
+
+	あー、こんなことなら、ヘンに張り切ってカンナくんの家なんて
+	いくんじゃなかった……。
+
+	se 5 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff off
+	wait
+	wait 30
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	wait
+	wait 1
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave1 60
+	wait
+	wait 1
+	frameoff
+	wait
+	view 0 case03
+	se 1 loop se5448
+	se 2 loop se5443
+	se 3 loop se5452
+	se 1 fade 60 0 100
+	se 2 fade 60 0 50
+	se 3 fade 60 0 50
+	bg 0 bgc04a
+	rwipe w_bt 60
+	wait
+	bgm 0 bgm3_06
+	すももを追いかけて、屋上に出る。
+
+	手すりに身を預けているすももの背中が見えた。
+
+カンナ	「……」
+
+	僕は鞄から、プリントした写真をとりだして、すもものほうに歩き出した。
+
+	pl 0 scale 120% 120%
+	bg 0 bgc04a
+	rdraw
+カンナ	「すもも」
+
+	cg 1 cd2l,a,1,5,7,2,a
+	rdraw
+	pcm D_c03_03_013
+すもも	「へ？」
+
+カンナ	「……はい」
+
+	cg 1 cd2l,a,1,5,1,1,a
+	rdraw
+	pcm D_c03_03_014
+すもも	「カンナくん？……なにこれ」
+
+カンナ	「見てみてよ」
+
+	すももは呆けたように僕の顔を眺め、それから僕の手から写真を受け取った。
+
+	frameoff
+	wait
+	wait 30
+	eg 2 evd91,a
+	rwipe w_bt 120
+	wait
+	rdraw
+	pcm D_c03_03_015
+すもも	「……わー」
+
+カンナ	「……いい写真でしょ」
+
+	eg 2
+	cg 1 cd2l,b,1,1,2,1,a
+	rdraw
+	pcm D_c03_03_016
+すもも	「……あっはは！　あたし、こんな思いっきり笑ってる？」
+
+カンナ	「ガレージと、一タミではね」
+
+カンナ	「この場所では見たことないけど」
+
+	cg 1 cd2l,a,1,1,2,3,a
+	rdraw
+	pcm D_c03_03_017
+すもも	「……」
+
+カンナ	「今のところ、僕のベストショットだよ」
+
+	cg 1 cd2l,a,1,1,4,1,a
+	rdraw
+	pcm D_c03_03_018
+すもも	「そうなんだ！　うれしー」
+
+カンナ	「……感謝してる」
+
+	cg 1 cd2l,a,1,2,7,1,a
+	rdraw
+	pcm D_c03_03_019
+すもも	「へ？　あ、あたしに？」
+
+カンナ	「今の僕にとってはさ、手応えのある写真をとれることが一番嬉しいんだよ」
+
+	cg 1 cd2l,a,1,2,1,1,a
+	rdraw
+	pcm D_c03_03_020
+すもも	「……」
+
+カンナ	「それに……学校にきたから父さんとも少し話せた」
+
+	cg 1 cd2l,b,1,1,1,1,a
+	rdraw
+	pl 1 spline 6,@,@-20 10,@,@ 
+	pcm D_c03_03_021
+すもも	「ほんと！？　パピーと！？」
+
+カンナ	「うん」
+
+	cg 1 cd2l,a,1,1,1,1,a
+	rdraw
+	pcm D_c03_03_022
+すもも	「よかったー。仲直りできたの？」
+
+カンナ	「……仲直りはできてないけど」
+
+	cg 1 cd2l,a,1,1,2,1,a
+	rdraw
+	pcm D_c03_03_023
+すもも	「そっかー。でも話せたなら、よかった」
+
+カンナ	「いいこともあったから」
+
+	cg 1 cd2l,a,1,1,1,1,a
+	rdraw
+	pcm D_c03_03_024
+すもも	「うん？」
+
+カンナ	「……すももが、学校に連れてきてくれて、いいこともあったから」
+
+	cg 1 cd2l,a,1,2,1,1,a
+	rdraw
+	pl 1 arc 30 180 360 0 5
+	pcm D_c03_03_025
+すもも	「……」
+
+カンナ	「……それだけ。もう明日で会えなくなるかもしれないし」
+
+カンナ	「伝えとこうと思って」
+
+カンナ	「あと、その顔、いいでしょ」
+
+	pl 1 arc 30 180 360 0 5
+	cg 1 cd2l,a,1,1,2,1,a
+	rdraw
+	pcm D_c03_03_026
+すもも	「……うん」
+
+カンナ	「ずっとその写真みたいにいたほうが、いいよ」
+
+	cg 1 cd2l,b,1,1,2,1,a
+	rdraw
+	pcm D_c03_03_027
+すもも	「……カンナくんも、この写真のあたしが、すき？」
+
+カンナ	「……今よりはね」
+
+	cg 1 cd2l,a,1,1,4,1,a
+	rdraw
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_03_028
+すもも	「あっはは！」
+
+カンナ	「じゃ……」
+
+	cg 1 cd2l,a,1,1,3,1,a
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_03_029
+すもも	「ありがとね、カンナくん」
+
+	cg 1 cd2l,a,1,1,1,3,a
+	rdraw
+	pcm D_c03_03_030
+すもも	「今日は片付けもあるし、なんかゴタゴタしててたぶん
+	ガレージにはいけないから……」
+
+	cg 1 cd2l,a,1,1,4,1,a
+	rdraw
+	pcm D_c03_03_031
+すもも	「また、明日ね」
+
+	僕は黙ったままうなずきだけを返した。
+
+	se 0 se2004
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave2 60
+	wait
+	wait 30
+	eg 5 f_heroine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	wait 1
+	pl scale 96% 96%
+	cg 1
+	eg 0 evd91,a
+	rdraw
+	wait 120
+	pcm D_c03_03_032
+すもも	「……」
+
+	rdraw
+	pcm D_c03_03_033
+すもも	「たんのしそーだなー、あたし」
+
+	rdraw
+	pcm D_c03_03_034
+すもも	「隙だらけ……だからビッチとか言われる？　ふふっ……」
+
+	rdraw
+	pcm D_c03_03_035
+すもも	「でも――」
+
+	rdraw
+	pcm D_c03_03_036
+すもも	「やっぱ、これがあたしだよねー……」
+
+	se 1 end 60
+	se 2 end 60
+	frameoff off
+	wait
+	wait 30
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	wait
+	wait 1
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave1 60
+	wait
+	wait 1
+	bgm 0 end 60
+	fw 0
+	pl
+	eg 0
+	eg 3
+	bg 0
+	rwipe w_tb 60
+	wait
+	frameoff
+	wait
+	view 0 case03
+	se 1 loop se5448
+	se 2 loop se5460
+	se 1 fade 60 0 90
+	se 2 fade 60 0 20
+	bg 0 bgc20a
+	rwipe w_time 60
+	wait
+	bgm 0 bgm3_02
+カンナ	「……できた……」
+
+	午前中に学校が終わり、僕はハチマルの中に直行した。
+
+	アルバムの整理は昨日の時点で終わりが見えていた。
+
+	これで、母さんと一緒にいったキャンプ場のほとんどがリストアップできた。
+
+	まだ机に積んである数冊――
+
+	それには付箋が貼ってある。
+
+	どうしても思い出せなかったものや、場所の手がかりがまったくないものには
+	付箋を貼っておいた。
+
+	手書きのリストを眺める。
+
+	候補地は４０弱あった。
+
+カンナ	「……」
+
+	eg 0 evd93,c
+	rwipe w_tb
+	ハチマルの中で見つけたスケッチ。
+
+	たぶん、鉛筆でかかれたものだ。
+
+	濡れて乾いたあとの紙はところどころ波打っている。
+
+	山か……。
+
+	針葉樹のような場所なのか……。
+
+	洞窟のように見えなくもないし、どこか穴の中にも見える。
+
+	これは一体どこなんだろう――
+
+	eg 0 
+	rwipe w_bt
+	もう一度、机に積みあげたアルバムに焦点を合わせた。
+
+	この全ての場所を覚えている人がすぐそばにいる。
+
+	父さんだ。
+
+カンナ	「……」
+
+	母屋に、聞きにいこうか。
+
+	いや、そんな回りくどいことをしなくても、このスケッチを見せれば
+	父さんはすぐにその場所がわかるかもしれない。
+
+	……。
+
+	frameoff
+	wait
+	wait 30
+	bg 0 evd04,a,a,g
+	cg  
+	eg 
+	fg 
+	eg 5 f_kaisou
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	pcm R_c03_01_008
+アンナ	「２０６１年になってからのお楽しみっ」
+
+	母さんの、あのイタズラっぽい笑顔が浮かんだ。
+
+	そして僕は苦笑いを浮かべた。
+
+	父さんにこたえを求めるのは、最後の手段にとっておこう。
+
+	まだ時間はある。
+
+	これは、もういない母さんと僕の、最後のゲームなんだ。
+
+	frameoff
+	wait
+	frameoff
+	wait
+	wait 30
+	bg 0 bgc20a
+	cg  
+	eg 
+	fg 
+	eg 5
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	僕はため息をついた。
+
+	大丈夫だ。
+
+	今のところ、色々なことがいい方向に進んでいる。
+
+	このハチマルだってもうすぐ動く。
+
+	いや、すでに一回動いたんだ。
+
+	場所がわかれば、梓姫に運転だけしてもらうことだってできる。
+
+	計画は、どんどん現実味を帯びてきている。
+
+	父さんに頼るのは、万策尽きてからでいい。
+
+	そしてこの夏――
+
+	もう子供じゃないということを、父さんに示すんだ。
+
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg 0 
+	rwipe w_rl 30
+	wait
+	se 1 loop se5448
+	se 2 loop se5460
+	se 1 fade 60 0 90
+	se 2 fade 60 0 60
+	bg 0 bgc17,a,a
+	rwipe w_rl 30
+	wait
+	cg [1-3] tone asa
+	cg 2 blend 0
+	cg 2 cpm,1,1,2,1,1
+	rdraw
+	cg 2 fade 10 0 255
+	wait 60
+	bgm 0 bgm3_23
+	pcm P_c03_03_001
+梓姫	「お、いっぱい出た？」
+
+カンナ	「だからぁ！」
+
+	cg 2 cpm,2,1,2,7,1
+	rdraw
+	cg 2 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm P_c03_03_002
+梓姫	「ははっ」
+
+	cg 2 cpm,2,1,2,1,1
+	rdraw
+	pcm P_c03_03_003
+梓姫	「今日、ピーチこないの？」
+
+カンナ	「うん、明日で最後だから、今日はいろいろあるんだって」
+
+	cg 2 cpm,1,1,1,4,1
+	rdraw
+	pcm P_c03_03_004
+梓姫	「そ」
+
+カンナ	「車体の方はどう」
+
+	cg 2 cpm,1,1,1,1,1
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_03_005
+梓姫	「シャーシは無事だよ。これ曲がってたら致命的だからな」
+
+カンナ	「よかった」
+
+	cg 2 cpm,2,1,2,2,1
+	rdraw
+	pcm P_c03_03_006
+梓姫	「キャンディーの夏休みが始まる前に、また盗んじゃおっかなー」
+
+カンナ	「怒るよ！！」
+
+	cg 2 cpm,2,1,2,3,3
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_03_007
+梓姫	「もう怒ってるでしょうが」
+
+カンナ	「絶対盗むなよ！」
+
+	cg 2 cpm,3,1,2,4,4
+	rdraw
+	pcm P_c03_03_008
+梓姫	「盗む気あったら最初から言わねーよ」
+
+	cg 2 cpm,3,1,9,3,7
+	rdraw
+	cg 2 shake 60 2 0 30
+	pcm P_c03_03_009
+梓姫	「それにまた家燃やされるのは嫌だし」
+
+カンナ	「……」
+
+	cg 2 cpm,3,1,6,5,8
+	rdraw
+	cg 2 shake 30 1 0 -30
+	pcm P_c03_03_010
+梓姫	「盗まねーよ！」
+
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	bgm 0 end 100
+	cg
+	pl
+	eg
+	bg
+	rwipe w_tb 100
+	wait
+	wait 100
+	next c03_03_02

@@ -1,0 +1,547 @@
+#c00_end
+
+	se 0 loop se5483
+	se 1 loop se5000
+	se 2 loop se5474
+	se 0 fade 240 0 60
+	se 1 fade 240 0 60
+	se 2 fade 240 0 60
+	pl
+	eg
+	bg
+	bg
+	eg 1 eva04m,a,a,b,b,a
+	rdraw 240
+	wait
+	wait 30
+	――風が吹いた。
+
+	海辺の小さな、木づくりの小屋。
+
+	そこに集った人たちを、暖かい潮風が包んだ。
+
+	世凪と私の長い物語を語り終え、私はゆっくり目を開いた。
+
+	eg 1
+	eg 1 eva04s,a,a,b,a,a
+	rdraw 90
+海斗	「――この空と海を、私たちはそうやって手に入れたんだ」
+
+	人々は静かに私の話を聞いていた。
+
+	――この仮想空間に入ってから、何年経っただろう。
+
+	私は毎日、この場所で世凪の物語を語り続けた。
+
+	それが私の決めた、私の役割だ。
+
+	eg 1 eva04s,a,a,a,a,a
+	rdraw
+海斗	「私たちは、人類の大きな転換期に生まれた」
+
+	eg 1 eva04s,a,a,b,a,a
+	rdraw
+海斗	「進化の袋小路に追い込まれた我々は自分自身の体を放棄し、
+	認識だけが織りなす世界にいる」
+
+	eg 1 eva04s,a,a,b,b,a
+	rdraw
+海斗	「ここにはなにも不自由がない。そう設計された[仮初/かりそ]めの世界だからだ」
+
+	eg 1 eva04s,a,a,a,b,a
+	rdraw
+海斗	「私たちは、この世界を生きる権利を得た」
+
+	eg 1 eva04s,a,a,b,b,a
+	rdraw
+海斗	「――だが、どうか覚えていて欲しい」
+
+	eg 1 eva04s,a,a,b,a,a
+	rdraw
+海斗	「そこに、一人の少女の存在があったことを――」
+
+	eg 1 eva04s,a,a,a,a,a
+	rdraw
+海斗	「今もこの世界の外で、過酷な環境に身を置いて必死で解決策を探している
+	人たちがいることを――」
+
+	eg 1 eva04s,a,a,b,a,a
+	rdraw
+海斗	「そして、どうか語り継いで欲しい。この美しい世界に生きる、
+	あなたたち自身の口で――」
+
+	eg 1 eva04s,a,a,b,b,a
+	rdraw
+海斗	「かつて――」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+海斗	「世界と呼ばれた一人の少女が、確かに在ったことを――」\@
+	eg 1
+	pl 3 blend 0
+	pl 3 scale 150% 150%
+	pl 3 pos 1095 795
+	eg 3 bg90a 0 780
+	wait
+	pl 3 fade 60 0 255
+	pl 3 mscale 150 160% 160%
+	wait
+	pl 31 disp 1
+	pl 31 $00ffffff
+	pl 31 bmode 1
+	wait
+	\n
+
+	dic_reg 1 4103
+	dic_check_update
+	dic_reset_apend
+	frameoff fade
+	pl 31 fade 150 0 255
+	wait
+	wait 150
+	bg
+	eg
+	wait
+	pl 31 fade 150 255 0
+	wait
+	wait 150
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	#1000 = 1
+	#202 = 0
+	next
+	undo
+	movie ed_c00
+	next c00_end
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave2 60
+	wait
+	wait 30
+	eg 5 f_heroine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	wait 1
+	se 0 loop se5483
+	se 1 loop se5000
+	se 2 loop se5474
+	se 0 fade 240 0 60
+	se 1 fade 240 0 60
+	se 2 fade 240 0 60
+	pl
+	bg
+	cg
+	fg
+	pl 0 scale 125% 125%
+	pl 0 pos 960 390
+	bg 0 bgc12e
+	rwipe w_cbt 60
+	wait
+	目を開いたとき――
+
+	海辺の小さな小屋が見えた。
+
+	海と空の間に建っているような、小さな木製の小屋。
+
+	dic_reg 1 4102
+	dic_check_update
+	dic_reset_apend
+	そこから、何人かの人たちが帰っていくのが見えた。
+
+	一歩あるくごとに――
+
+	わたしは、思い出していった。
+
+	ここがどこなのか――
+
+	あの小屋に、誰がいるのか――
+
+	あの人たちが、あそこでなにをしていたのか――
+
+	わたしが、誰なのか――
+
+	わたしの足取りは、どんどん軽くなった。
+
+	その小屋に近づいていくと、出てくる人たちがわたしに気付いた。
+
+	彼らはちょっと目を丸くして、でもすぐに優しい微笑みを浮かべて、
+	わたしに会釈してくれた。
+
+	『めがみさまだ――！！』
+
+	小さな男の子がそう言ったのが背中から聞こえて、わたしは吹き出した。
+
+	――女神さまじゃ、ないよ。
+
+	わたしは、どこにでもいる普通の女の子だよ。
+
+	わたしは――
+
+	ただ、大好きな人に会いにきただけなんだよ。
+
+	dic_reg 1 4101
+	dic_check_update
+	dic_reset_apend
+	frameoff fade
+	pl
+	bg
+	rwipe w_rl 60
+	wait
+	wait 30
+	bg 0 bg91a
+	rwipe w_rl 60
+	wait
+	帰っていく人の流れに逆らって、わたしはその人に歩み寄っていった。
+
+	彼は、手元の本を眺めている。
+
+	きっと、その本の内容はもう全部覚えているはずだ。
+
+	彼は、ものを忘れない人だった。
+
+	潮風に晒されてすこし朽ちているテラスに並べられた椅子には、
+	まだ何人か座っていた。
+
+	ひとり、またひとりと、立ち上がって帰っていく。
+
+	わたしに気付いた人はみんな目を丸くする。
+
+	海斗の人物描写が、うまかったのかな。
+
+	最後の一人が席を立って、テラスから去っていった。
+
+	波の音と風の音。それに、白い鳥の鳴き声。
+
+	それがわたしたちを包んでいた。
+
+	わたしは、ゆっくりと彼に――
+
+	海斗に、近づいていった。
+
+	frameoff off
+	wait
+	wait 30
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	wait
+	wait 1
+	frameoff
+	wait
+	wait 30
+	bg 
+	pl
+	eg
+	eg 1 eva04s,a,a,b,b,a
+	rwipe w_wave1 60
+	wait
+	wait 1
+	frameoff
+	wait
+	view 0 yonagi
+	手元の本をぼんやりと眺めながら、テラスから人が去っていくのを待っていた。
+
+	語り終わったあと、私はいつも世凪の余韻に浸る。
+
+	eg 1
+	eg 1 eva04l,a,a,b,b,a
+	rdraw
+	世凪を思い出し、声に出して人に伝えると、私の中の世凪の思い出はいきいきと
+	動き出す。
+
+	その世凪のイメージが消えてしまうまでは、わたしはいつも
+	手元の本を眺めている。
+
+	eg
+	bgm 0 end 30
+	pl 31 disp 1
+	pl 31 $ffffffff
+	rdraw 30
+	pcm A_c00_12_141a
+世凪	「――海斗」\@
+	wait 1
+	se 1 end 49
+	se 2 end 49
+	se 0 end 49
+	wait tag 01
+	pl 1 scale 110% 110%
+	eg 1 scale 67% 67%
+	eg 1 eva63,a
+	wait
+	pl 31 fade 30 255 0
+	pl 1 mscale 90 100% 100%
+	\n
+
+	cgflag eva41
+海斗	「……」
+
+	pl [2-5] scale 150% 150%
+	pl 2 pos @-270 @
+	pl 3 pos @+120
+	pl 5 pos 225
+	eg 2 eva66,b
+	eg 3 blur 12 12
+	eg 3 eva66,0,a
+	eg 4 eva66,0,0,a
+	eg 5 eva66,0,0,0,a
+	rdraw 30
+	私の視線の先に――\@
+	wait
+	se 0 loop se5483
+	se 1 loop se5000
+	se 2 loop se5474
+	se 0 fade 240 0 60
+	se 1 fade 240 0 60
+	se 2 fade 240 0 60
+	pl [2-5] mscale 360 100% 100%
+	pl 2 amove1 180 @+270 @
+	pl 3 amove1 180 960
+	pl 5 amove1 180 960
+	wait
+	\n
+
+	eg 3
+	eg 2 eva66,a
+	eg 3 eva66,0,a
+	rdraw 30
+	世凪が立っていた。
+
+	私の知っているあの微笑みをたたえて――
+
+	私を見つめていた。
+
+海斗	「世凪、なのか」
+
+	世凪がうなずく。
+
+	eg 3 eva66,0,b
+	rdraw
+	pcm A_c00_12_142
+世凪	「そうみたい」
+
+海斗	「……」
+
+	eg 3 eva66,0,a
+	rdraw
+	私は世凪に歩み寄った。
+
+	世凪も同じように、私に歩み寄ってきた。
+
+	pl
+	eg
+	bg
+	cg
+	eg 1 eva29,a,a,a,b,a,c,a,a
+	rdraw 30
+	私たちは、互いの手を握った。
+
+	それは確かに、温かい世凪の手だった。
+
+	pcm A_c00_12_143
+世凪	「海斗だ……。海斗の手だ」
+
+海斗	「あぁ」
+
+	eg 1 eva29,a,d,a,b,a,c,b,a
+	rdraw
+	pcm A_c00_12_144
+世凪	「ずっとわたしのこと、みんなに伝えてくれてたんだね」
+
+	eg 1 eva29,a,c,a,b,a,c,b,a
+	rdraw
+海斗	「そうだ」
+
+	eg 1 eva29,a,c,a,b,a,b,b,a
+	rdraw
+	pcm A_c00_12_145
+世凪	「さっき男の子に、めがみさまって言われた」
+
+	私はうなずく。
+
+	eg 1 eva29,a,d,b,b,a,b,b,a
+	rdraw
+海斗	「だから、言ったじゃないか」
+
+海斗	「――世凪はこの世界の、女神さまになるって」
+
+	eg 1 eva29,a,a,b,b,a,b,b,a
+	rdraw
+海斗	「そうなるまで私は、語り続けるって――」
+
+	世凪は首を振った。
+
+	eg 1 eva29,a,a,b,b,a,a,b,b
+	rdraw
+	pcm A_c00_12_146
+世凪	「わたしは、女神さまじゃないよ」
+
+海斗	「……」
+
+	eg 1 eva29,a,b,b,b,a,b,b,a
+	rdraw
+	pcm A_c00_12_147
+世凪	「ただ――あなたのことを愛している一人の女の子だよ」
+
+	eg 1 eva29,a,b,b,b,a,b,a,a
+	rdraw
+	pcm A_c00_12_148
+世凪	「海斗の中では、いつまでも女の子なんでしょ？」
+
+	eg 1 eva29,a,c,b,b,a,b,a,a
+	rdraw
+海斗	「あぁ」
+
+	eg 1 eva29,a,d,b,c,a,a,b,a
+	rdraw
+	世凪は微笑んだ。
+
+	eg 1 eva29,a,d,c,c,b,a,b,a
+	rdraw
+	私も世凪に微笑んだ。
+
+	あのとき――
+
+	私たちが別れたときと同じように、私たちは微笑みを向けあっていた。
+
+	pl
+	bg
+	eg
+	cg
+	eg 1 scale 67% 67%
+	eg 1 eva64,b,0,e,a
+	rdraw 30
+海斗	「――おかえり、世凪」
+
+	pl 2 blend 0
+	eg [1-3] scale 67% 67%
+	eg 1 eva65,c
+	eg 2 eva65,b,0,f,a
+	eg 3 eva65,0,0,e,a
+	rdraw 30
+	pcm A_c00_12_149
+世凪	「ただいま、海斗――」
+
+	eg 3 eva65,0,0,f,a
+	rdraw
+	bgm 0 end 240
+	pcm A_c00_12_150
+世凪	「――ただいま」\@
+	wait
+	pl 2 m2fade 120 0 255
+	\n
+
+	se 0 end 240
+	se 1 end 240
+	se 2 end 240
+	frameoff fade
+	wait
+	pl 31 disp 1
+	pl 31 $00ffffff
+	pl 31 bmode 1
+	wait
+	pl 31 fade 240 0 255
+	wait
+	view 0 default
+	pl [0-5] stop
+	pl
+	bg
+	eg
+	cg
+	fg
+	rdraw 120
+	wait
+	wait 120
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	#1000 = 1
+	#202 = 0
+	next

@@ -1,0 +1,163 @@
+#c01_03_00
+
+	#103 = 1 
+	#101 = 90 
+	if (#213 == 1) #102 = 1 
+	#104 = 0 
+	frameoff
+	wait
+	view 0 case01
+	bgm 0 bgm1_10
+	se 6 loop se9014
+	se 6 fade 60 0 100
+	frameoff fade
+	wait
+	wait 30
+	bg 
+	cg 
+	eg 1 evhb02,2
+	eg 1 blur 2 2
+	fg 
+	eg 5 f_dream
+	rwipe w_drm 120
+	wait
+	wait 30
+	頬に凛の熱を感じる。
+
+	凛が私の頬を撫でていた。
+
+	私は凛の手に自分の手を重ねた。
+
+	懐かしい温もりだ。
+
+	心地よい。
+
+	eg 1 evhb02,1
+	rdraw
+	pcm B_c01_03_057
+凛	「――先生となら、いいですよ」
+
+有島	「……それは、ダメだ」
+
+	pcm B_c01_03_058
+凛	「……どうして？」
+
+	凛は美しい裸体を露わにしながら首をかしげた。
+
+有島	「私はこの学園の職員で、きみは――」
+
+	eg 1 evhb02,2
+	rdraw
+	pcm B_c01_03_059
+凛	「そんなの関係ないよ」
+
+	pcm B_c01_03_060
+凛	「私は一人の女で、あなたは一人の男、それだけでしょう？」
+
+	eg 1 evhb02,1
+	rdraw
+	pcm B_c01_03_061
+凛	「教師でも生徒でも、作家でも。
+	なんでもいいよ、ただの呼び方でしょ」
+
+有島	「わたしは……」
+
+	凛が妖艶に微笑み、私の胸をなぞった。
+
+	その指がゆっくりと下腹部に向かう。
+
+	eg 1 evhb02,2
+	pl 1 m2scale 2000 120% 120%
+	rdraw
+	pcm B_c01_03_062
+凛	「もっと、先生のことを教えて」
+
+	pcm B_c01_03_063
+凛	「もっと、私のことを知って」
+
+有島	「凛……」
+
+	凛の口元が近づく。
+
+	息づかいを感じた。
+
+	凛の吐息が、私の唇にかかる。
+
+有島	「本当に、いいのか――」
+
+	凛はゆっくりとうなずいた。
+
+	形のいい凛の鼻があたる。
+
+	うっとりとたれた赤い[眸/ひとみ]が私を見つめている。
+
+	bgm 0 end 60
+	その二つの[眸/ひとみ]が、瞬時に凶暴な目つきに豹変した。
+
+	pl
+	eg 1 evhb02,3
+	eg 1 blur 0 0
+	rdraw 30
+	pcm B_c01_03_064
+凛	「先生に――」
+
+	pcm B_c01_03_065
+凛	「人間を描く覚悟があるなら」
+
+	bgm 0 end 60
+	se 0 end 120
+	se 1 end 120
+	se 2 end 120
+	bgm 0 end 120
+	frameoff
+	wait
+	wait 30
+	bg 0 black
+	cg  
+	eg 
+	fg 
+	eg 5
+	rwipe w_drm 120
+	wait
+	wait 30
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c01_03_09b

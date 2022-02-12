@@ -1,0 +1,158 @@
+#c02_01_03b
+
+	#103 = 2 
+	#101 = 3 
+	if (#213 == 1) #102 = 1 
+	#104 = 0 
+	bgm 0 bgm2_04
+	se 1 loop se5474
+	se 2 loop se5445-2
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	frameoff
+	wait
+	view 0 case02
+	se 0 
+	bg 0 bgb05y
+	rwipe w_bt 60
+	wait
+	酒場に向かって夜の街を歩いた。
+
+	さっき、オリヴィアのあとを追いかけて小走りで通った道だ。
+
+	縛られていた痛みが、まだ腕に残っている。
+
+	歩きながらふと空を見上げた。
+
+	満月だった。
+
+ウィル	「……」
+
+	オリヴィアの横顔が浮かんだ。
+
+	はっきりと鮮明に、あの透きとおるような頬と[眸/ひとみ]が、
+	記憶に焼き付いていた。
+
+	頬がまだヒリヒリする。
+
+	そんなに必要か？　というほど、何度も頬をはたかれた。
+
+	美しいが、暴力的で傲慢な女だ。
+
+	だが、結果的におれは命を救われたらしい。
+
+	もう少しで首を刎ねられるところだった。
+
+	オリヴィアは本当に、ただおれに脚本を書かせたくて
+	奴隷として身請けしたのだろうか。
+
+	どうやらおれは戸惑っているみたいだ。
+
+	あまりにも色々なできごとがありすぎた。
+
+	だが――
+
+	frameoff fade
+	wait
+	bg 0 bgb04c
+	bg 0 mode sepia
+	cg 1 mode sepia
+	cg 1 ccm,4,1,3,1,1
+	rwipe w_tb 90
+	wait
+	pcm C_c02_01_089
+オリヴィア	「あなたの書く言葉はいきいきしている」
+
+	cg 1 ccm,5,1,3,3,3
+	rdraw 
+	pcm C_c02_01_090
+オリヴィア	「わたしを痺れさせて。わかったわね」\@
+	wait tag 01
+	cg 1 ccm,5,1,3,7,2
+	rdraw
+	\n
+
+	frameoff fade
+	wait
+	bg 0 mode
+	bg 0 bgb05y
+	cg 1 mode
+	cg
+	rwipe w_bt 60
+	wait
+	おれの書いたものに、あそこまでまっすぐぶつかってきて、
+	そして期待を寄せてきたのは――
+
+	オリヴィアが初めてだ。
+
+	おれは羊皮紙を握りしめた。
+
+	スペンサー宅に向かうときとは違う形のしわが、
+	羊皮紙に深く刻まれた。
+
+	se 1 end 60
+	se 2 end 60
+	bgm 0 fade 360 100 0
+	frameoff
+	wait
+	wait 60
+	bg 0 fade 360 255 0
+	cg [1-4] fade 360 255 0
+	eg [0-3] fade 360 255 0
+	eg 4 f_eye
+	eg 5 noise,a,a
+	rdraw 180
+	wait
+	wait 30
+	pl
+	bg
+	cg
+	eg
+	rdraw
+	wait
+	wait 60
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	if (#223 == 1) next c02_02 
+	next c99_01
+	if (#399 == 0) next c00_A_01
+	if (#399 == 1) next c00_B_01
+	if (#399 == 2) next c00_C_01

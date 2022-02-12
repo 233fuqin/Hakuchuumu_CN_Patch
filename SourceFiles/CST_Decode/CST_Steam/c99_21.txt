@@ -1,0 +1,50 @@
+#c99_21
+
+	#104 = 21 
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	bg 0 bg04a
+	cg 1 cal,1,1,1,1,1
+	rdraw
+	‚b‚`‚r‚d‚O’†–‹ŠÔ‚»‚Ì‚PB
+	‚b‚`‚r‚d‚O—c”NŠú‚Éi‚İ‚Ü‚·B
+
+	next c00_02

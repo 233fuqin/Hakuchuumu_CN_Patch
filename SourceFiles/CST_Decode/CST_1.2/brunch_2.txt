@@ -1,0 +1,17 @@
+#brunch_2
+
+	frameoff fade
+	wait
+	wait 30
+	pl
+	eg
+	cg
+	bg
+	rwipe w_ctr 120
+	wait
+	wait 30
+	undo
+	fselect
+	if (#215 == 0) 10 c01_04 ‚b‚`‚r‚d‚P@”g‘½–ì™z
+	if (#225 == 0) 11 c02_04 ‚b‚`‚r‚d‚Q@ƒIƒŠƒ”ƒBƒAEƒxƒŠ[
+	if (#235 == 0) 12 c03_04 ‚b‚`‚r‚d‚R@“ƒm“à‚·‚à‚à

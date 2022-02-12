@@ -1,0 +1,1095 @@
+#c03_ex1
+
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	frameoff
+	wait
+	view 0 case03
+	bgm 0 bgm3_23
+	bg 0 bgc37c
+	rwipe w_bt 60
+	wait
+	cg 1 pos @+50
+	cg 1 blend 0
+	cg 1 cdm,8,1,1,6,4
+	rdraw
+	cg 1 fade 10 0 255
+	cg 1 move 60 @-50
+	wait 60
+	cg 1 shake 120 2 -30
+	pcm D_c03_ex1_001
+すもも	「ねーねー、カーンナくーん」
+
+	cg 1 cdm,7,1,1,5,4
+	rdraw
+	pcm D_c03_ex1_002
+すもも	「あの、この前借りた、カンナくんの、カメラ、じゃなかった、
+	キャメラなんだけどさ……」
+
+カンナ	「キャメラ……」
+
+カンナ	「あぁ。この前梓姫とキャンプ女子会するって持ってったやつか。
+	そういえばどうだったの？　キャンプ」
+
+	cg 1 cdm,9,1,1,1,1
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_ex1_003
+すもも	「あ、それは、楽しかったんだけどネ」
+
+カンナ	「梓姫のチャンネルにあげるんでしょ。編集も梓姫がやってるの？」
+
+	cg 1 cdm,6,1,5,1,4
+	rdraw
+	pcm D_c03_ex1_004
+すもも	「どうなんだろ。……ちょうど今日、動画があがったらしくて」
+
+カンナ	「そうなんだ！　見てみよ」
+
+	cg 1 cdm,9,1,5,7,2
+	rdraw
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_005
+すもも	「あっ、動画見る前に、ちょっと話したかったんだけど」
+
+カンナ	「Ａｚｕｋｉチャンネル……キャンプ女子会してみた。これか。
+	うわああっ！」
+
+	cg 1 cdm,8,1,3,7,5
+	rdraw
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_006
+すもも	「どしたっ！？」
+
+カンナ	「今日あげたんでしょ！？　もう３０万再生超えてるけど！」
+
+	cg 1 cdm,7,1,5,1,2
+	rdraw
+	pcm D_c03_ex1_007
+すもも	「マジ！？」
+
+カンナ	「ほらほらっ！」
+
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	bgm 0 end 60
+	frameoff fade
+	cg
+	bg
+	rwipe w_tb 60
+	wait
+	bgm 0 bgm3_21
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	cg 2 cpm,m,1,1,1,1
+	bg 0 bgc31a
+	eg 4 evd32_%LANG_M%,a
+	rwipe w_tb 60
+	wait
+	cg 2 shake 60 2 30
+	pcm P_c03_ex1_001
+梓姫	「録れてる？」
+
+	fw 0 cds,2,1,1,1,1
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_008
+すもも	「録れてる録れてるー」
+
+	fw
+	cg 2 cpm,m,1,2,7,6
+	rdraw
+	cg 2 shake 60 2 30
+	pcm P_c03_ex1_002
+梓姫	「はーい、梓姫さんですっ！　チャンネル登録といいねボタン、
+	よろしくお願いしまーす」
+
+	fw 0 cds,1,1,3,4,2,0
+	rdraw
+	pcm D_c03_ex1_009
+すもも	「おねがいしまーす」
+
+	fw
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	eg
+	cg 2
+	cg 1 cdm,8,1,1,1,6,0
+	bg 0 bgc37c
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+カンナ	「はやくない？　これって普通、動画を見終わった人に言うんじゃないの？」
+
+	cg 1 cdm,8,1,1,1,6,0
+	rdraw
+	pcm D_c03_ex1_010
+すもも	「先手必勝なんだって、最近は」
+
+	fw
+カンナ	「……本当かな」
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	cg 1
+	cg 2 cpm,o,1,1,1,1
+	bg 0 bgc31a
+	eg 4 evd32_%LANG_M%,a
+	rwipe w_bt 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	pcm P_c03_ex1_003
+梓姫	「今日はっ、ほらっ、絶景！」
+
+	fw 0 cds,4,1,5,1,1,0
+	rdraw
+	pcm D_c03_ex1_011
+すもも	「そうでもなくなーい？　森しかなくなーい？」
+
+	fw
+	cg 2 cpm,n,1,6,1,5
+	rdraw
+	cg 2 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm P_c03_ex1_004
+梓姫	「うっさいなっ！　絶景と思えば絶景なんだよっ！
+	空気はおいしいでしょうがっ！」
+
+	fw 0 cds,4,1,6,6,6,0
+	rdraw
+	pcm D_c03_ex1_012
+すもも	「さっき虫除けスプレーしすぎて匂いとかわかんね」
+
+	fw
+	cg 2 cpm,m,1,7,1,8
+	rdraw
+	cg 2 shake 20 1 0 -30
+	pcm P_c03_ex1_005
+梓姫	「なにしにきたんだよお前はっ！　ピーチっ」
+
+	fw 0 cds,2,1,1,1,1,0
+	rdraw
+	fw 1 shake 60 4 20
+	pcm D_c03_ex1_013
+すもも	「はいはーい、カメラ担当の、あっ……キャメラ担当の、
+	桃ノ内すももでーす」
+
+	fw 0 cds,2,1,3,4,3,0
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_014
+すもも	「本業はヘアメイクアーティストで、梓姫と同じ撮影現場に
+	入ったりもしてまーす。既婚者でーす、ごめんなさーい」
+
+	fw
+	cg 2 cpm,o,1,1,3,1
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_ex1_006
+梓姫	「誰に謝ってるんだよお前は、図々しいな」
+
+	fw 0 cds,4,1,1,1,1
+	rdraw
+	fw shake 60 4 10
+	pcm D_c03_ex1_015
+すもも	「ほらほら、あたしのことはいいから進めて進めて」
+
+	fw
+	cg 2 cpm,o,1,1,1,1
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_ex1_007
+梓姫	「そうだったそうだった。という訳で今日はこのカメラ担当の――」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 0 shake 60 2 10
+	pcm D_c03_ex1_016
+すもも	「梓姫、キャメラね、キャメラ」
+
+	fw
+	cg 2 cpm,n,1,6,1,5
+	rdraw
+	cg 2 shake 20 1 0 -30
+	pcm P_c03_ex1_008
+梓姫	「どっちでもいいんだよ！　おまえら夫婦揃って面倒臭いなぁ！」
+
+	fw 0 cds,3,1,1,1,1
+	rdraw
+	pcm D_c03_ex1_017
+すもも	「今日は、女二人で山奥にキャンプしにきたんだよねー」
+
+	fw
+	cg 2 cpm,o,2,2,1,6
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_ex1_009
+梓姫	「ですです。女二人でキャンプ飯です！」
+
+	bgm 0 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg 
+	fw
+	eg 4
+	eg 5 c_black
+	rwipe w_time 60
+	wait
+	wait 60
+	bgm 0 
+	eg 4 evd32_%LANG_M%,a
+	eg 5
+	cg 2 cpm,n,1,1,1,1
+	rwipe w_time 60
+	wait
+	se 4 loop se5200_l
+	bgm 0 bgm3_02
+	fw 0 cds,2,1,9,7,5,0
+	rdraw
+	pcm D_c03_ex1_018
+すもも	「おー、火！　慣れたもんだねー」
+
+	fw
+	cg 2 cpm,o,1,2,7,6
+	rdraw
+	pcm P_c03_ex1_010
+梓姫	「あったり前でしょうが。もともとたき火がしたくてキャンプはまったからねー」
+
+	fw 0 cds,3,1,1,1,1
+	rdraw
+	pcm D_c03_ex1_019
+すもも	「あ、そうなんだ。車乗りたいからじゃなかったんだ」
+
+	fw
+	cg 2 cpm,o,1,1,1,1
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_ex1_011
+梓姫	「車はどこ運転してても楽しい。別にキャンプじゃなくても」
+
+	fw 0 cds,4,1,5,5,1,0
+	rdraw
+	pcm D_c03_ex1_020
+すもも	「ふーん」
+
+	fw
+	cg 2 cpm,m,1,1,1,3
+	rdraw
+	pcm P_c03_ex1_012
+梓姫	「ピーチ、まだ免許もってないの？」
+
+	fw 0 cds,1,1,6,1,6,0
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_021
+すもも	「もってなーい。難しそうなんだもん」
+
+	fw
+	cg 2 cpm,m,1,2,7,6
+	rdraw
+	pcm P_c03_ex1_013
+梓姫	「簡単だよ、オートマだったら踏みゃあ走るんだから」
+
+	fw 0 cds,1,1,1,5,3,0
+	rdraw
+	pcm D_c03_ex1_022
+すもも	「いやぁ、アクセルだっけ？……踏んだり、ブレーキ踏んだり？
+	あと、ハンドル回したりしなきゃいけないんでしょ？」
+
+	fw 0 cds,2,1,5,6,3
+	rdraw
+	pcm D_c03_ex1_023
+すもも	「曲がるときにカッチッ、カッチッ、ていったりさ」
+
+	fw
+	cg 2 cpm,o,1,5,1,3
+	rdraw
+	pcm P_c03_ex1_014
+梓姫	「ウィンカーな。口でいってる訳じゃないぞ」
+
+	fw 0 cds,4,1,4,5,3
+	rdraw
+	pcm D_c03_ex1_024
+すもも	「それに雨ふったらあの、うぃんうぃん動いてるやつ出すでしょ」
+
+	fw
+	cg 2 cpm,m,1,1,4,1
+	rdraw
+	pcm P_c03_ex1_015
+梓姫	「ワイパーな」
+
+	fw 0 cds,4,1,5,4,3
+	rdraw
+	pcm D_c03_ex1_025
+すもも	「無理。やること多すぎ。事故る」
+
+	fw
+	cg 2 cpm,n,1,1,1,1
+	rdraw
+	pcm P_c03_ex1_016
+梓姫	「ヘアメイクの方がやること多そうだけどな。なんか、髪くるくるまいたり、
+	味噌みたいなの付けたりしてんじゃん」
+
+	fw 0 cds,1,1,5,5,1,0
+	rdraw
+	pcm D_c03_ex1_026
+すもも	「ミソ……？……ヘアワックスな？」
+
+	fw
+	cg 2 cpm,n,1,1,1,1
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_ex1_017
+梓姫	「あ、そうそう、ワックスワックス」
+
+	fw 0 cds,3,1,1,1,1
+	rdraw
+	fw 0 shake 60 4 10
+	pcm D_c03_ex1_027
+すもも	「梓姫さー、いちおモデルじゃん？　デルモじゃん一応？」
+
+	fw
+	cg 2 cpm,o,1,2,4,3
+	rdraw
+	pcm P_c03_ex1_018
+梓姫	「お陰様で」
+
+	fw 0 cds,2,1,1,1,3
+	rdraw
+	pcm D_c03_ex1_028
+すもも	「ワックスくらいおぼえとき？　梓姫が頭にミソつけてるなんて言ったら、
+	真似する子でてくるよ？　髪にいいとか訳わかんないこと言い出して」
+
+	fw
+	cg 2 cpm,m,1,6,5,6
+	rdraw
+	pcm P_c03_ex1_019
+梓姫	「え？　味噌って髪にいいの？」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_029
+すもも	「いいわけねぇだろ！　パッサパサになるわ、たぶん！」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff fade
+	eg
+	fw
+	cg 2
+	cg 1 cdm,8,1,3,4,2,0
+	bg 0 bgc37c
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+カンナ	「……全然キャンプに関係ないこと話してるね」
+
+	cg 1 cdm,8,1,3,4,2,0
+	rdraw
+	pcm D_c03_ex1_030
+すもも	「あははー、たーしーかーにー」
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg 
+	fw
+	eg 4
+	eg 5 c_black
+	rwipe w_time 60
+	wait
+	wait 60
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	eg 4 evd32_%LANG_M%,a
+	eg 5
+	bg 0 bgc31a
+	cg 2 cpm,o,1,2,1,1
+	rwipe w_time 60
+	wait
+	pcm P_c03_ex1_020
+梓姫	「さてっ。炭に火移ったし、焼くか」
+
+	fw 0 cds,2,1,3,4,2,0
+	rdraw
+	fw 0 shake 20 1 0 -30
+	pcm D_c03_ex1_031
+すもも	「いえーい！　なにから焼くのっ！？」
+
+	fw
+	cg 2 cpm,m,1,1,4,5
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_ex1_021
+梓姫	「バナナ」
+
+	fw 0 cds,1,1,9,7,5,0
+	rdraw
+	fw 0 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_032
+すもも	「バナナ！？　いきなりバナナ！？　ていうかバナナ焼くの！？」
+
+	fw
+	cg 2 cpm,m,1,2,7,6
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_ex1_022
+梓姫	「焼きバナナうまいんだよ。知らねぇのかよ」
+
+	fw 0 cds,4,1,1,6,5
+	rdraw
+	fw 0 shake 60 4 10
+	pcm D_c03_ex1_033
+すもも	「知らん。肉とか、マシュマロとかじゃないの、キャンプって」
+
+	fw
+	cg 2 cpm,m,1,6,1,5
+	rdraw
+	pcm P_c03_ex1_023
+梓姫	「へっ、シロウトがっ。マシュマロなんて一個か二個で
+	すぐ飽きちゃうでしょうがっ」
+
+	cg 2 cpm,m,1,7,1,8
+	rdraw
+	pcm P_c03_ex1_024
+梓姫	「バナナなら何本食べても飽きないでしょうが」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 0 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_034
+すもも	「バナナこそ一本で飽きるわっ！」
+
+	fw
+	cg 2 cpm,m,1,6,1,5
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_ex1_025
+梓姫	「ワガママいうんじゃないよ！」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_035
+すもも	「わーかったよ！　百歩譲ってバナナ焼いてもいいから、
+	他のも焼いてよ」
+
+	fw
+	cg 2 cpm,o,1,1,1,1
+	rdraw
+	cg 1 shake 60 4 20
+	pcm P_c03_ex1_026
+梓姫	「無理だよ。バナナしか持ってきてないもん」
+
+	fw 0 cds,2,1,5,1,1,0
+	rdraw
+	pcm D_c03_ex1_036
+すもも	「……なんて？」
+
+	fw
+	cg 2 cpm,6,1,2,7,6
+	rdraw
+	pcm P_c03_ex1_027
+梓姫	「ほら」
+
+	fw 0 cds,3,1,9,1,5,0
+	rdraw
+	fw 0 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_037
+すもも	「サルかよおめーは！！」
+
+	fw
+	cg 2 cpm,6,1,6,1,5
+	rdraw
+	cg 2 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm P_c03_ex1_028
+梓姫	「誰がサルだっ！！」
+
+	fw 0 cds,1,1,5,1,3
+	rdraw
+	fw 0 shake 120 10 5
+	pcm D_c03_ex1_038
+すもも	「うっそでしょー！　キャンプにバナナしか持ってきてないのー！？」
+
+	fw
+	cg 2 cpm,6,1,1,1,8
+	rdraw
+	pcm P_c03_ex1_029
+梓姫	「バナナがあれば充分でしょうがっ！！　だいたいな、日本のサルは
+	芋とか食うんだよっ、バナナ生えてないんだからっ！」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 0 shake 120 10 5
+	pcm D_c03_ex1_039
+すもも	「じゃあサル以下じゃんっ！！！」
+
+	fw
+	cg 2 cpm,6,1,7,1,8
+	rdraw
+	cg 2 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm P_c03_ex1_030
+梓姫	「ちがっ！！　バカ！　お前バーカ！」
+
+	fw 0 cds,1,1,9,1,5,0
+	rdraw
+	fw 0 shake 20 1 0 -30
+	pcm D_c03_ex1_040
+すもも	「サルっ！」
+
+	fw
+	cg 2 cpm,6,3,7,5,8
+	rdraw
+	pcm P_c03_ex1_031
+梓姫	「バナナは！　日本には自生してないんだから、栽培するか輸入するかしか
+	ないんだよ！　人類の英知の結晶なんだよ、日本のバナナは！」
+
+	fw 0 cds,1,1,3,4,2,0
+	rdraw
+	fw 0 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_041
+すもも	「だはは！！　サルがバナナのこと力説してるよ！」
+
+	fw
+	cg 2 cpm,6,3,6,1,5
+	rdraw
+	pcm P_c03_ex1_032
+梓姫	「お前には一本もやらんぞ！　いいのかっ！？」
+
+	fw 0 cds,1,1,6,1,6,0
+	rdraw
+	fw 0 shake 60 4 10
+	pcm D_c03_ex1_042
+すもも	「やだやだ、一本は食べる。あたしもサルでいいから、ウキキッ」
+
+	pl 2 arc 20 0 180 0 38
+	fw
+	cg 2 cpm,6,3,7,1,8
+	rdraw
+	cg 2 shake 20 1 0 -30
+	pcm P_c03_ex1_033
+梓姫	「ウキッ！」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff fade
+	eg
+	cg 2
+	cg 1 cdm,7,1,3,4,2,0
+	bg 0 bgc37c
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+カンナ	「……楽しそうではあるね」
+
+	pcm D_c03_ex1_043
+すもも	「めっちゃ楽しかったー」
+
+	cg 1 cdm,9,1,5,2,6
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_ex1_044
+すもも	「でもキャンプにバナナだけって、やっぱ梓姫あたまおかしーよねー」
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg 
+	fw
+	eg 4 evd32_%LANG_M%,a
+	eg 5 c_black
+	rwipe w_time 60
+	wait
+	wait 60
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	eg 5
+	bg 0 bgc31a
+	cg 2 cpm,n,1,1,1,1
+	rwipe w_time 60
+	wait
+	wait 30
+	fw 0 cds,2,1,1,1,2
+	rdraw
+	pcm D_c03_ex1_045
+すもも	「うまっ！　焼きバナナうまっ！」
+
+	fw
+	cg 2 cpm,m,1,2,7,6
+	rdraw
+	pcm P_c03_ex1_034
+梓姫	「ふふんっ、そうでしょうが」
+
+	fw 0 cds,4,1,3,4,2,0
+	rdraw
+	pcm D_c03_ex1_046
+すもも	「あまーい、やわらかーい！　梓姫っ、もう一本やいてっ！」
+
+	fw
+	cg 2 cpm,o,1,2,1,6
+	rdraw
+	pcm P_c03_ex1_035
+梓姫	「調子いいなー、サル呼ばわりしたくせに」
+
+	fw 0 cds,2,1,9,7,5,0
+	rdraw
+	pcm D_c03_ex1_047
+すもも	「火使ってる分、進化してる！　すごいよ梓姫っ！」
+
+	fw
+	cg 2 cpm,m,1,6,5,7
+	rdraw
+	pcm P_c03_ex1_036
+梓姫	「馬鹿にしてんのかてめぇは！！」
+
+	fw 0 cds,3,1,1,1,1,0
+	rdraw
+	pcm D_c03_ex1_048
+すもも	「もう一本やいてー」
+
+	fw
+	cg 2 cpm,m,1,2,7,6
+	rdraw
+	pcm P_c03_ex1_037
+梓姫	「おいしいでしょうが、止まらないでしょうが」
+
+	fw 0 cds,3,1,1,1,1
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_049
+すもも	「うんうん」
+
+	fw
+	cg 2 cpm,n,1,1,1,1
+	rdraw
+	cg 2 shake 60 1 0 30
+	pcm P_c03_ex1_038
+梓姫	「バナナだけでよかったでしょうが」
+
+	fw 0 cds,1,1,6,1,6,0
+	rdraw
+	fw 0 shake 60 4 10
+	pcm D_c03_ex1_050
+すもも	「いや普通に肉食べたかった。さすがにバナナじゃ酒のめんし」
+
+	fw
+	cg 2 cpm,o,1,6,1,5
+	rdraw
+	cg 2 shake 20 1 0 -30
+	pcm P_c03_ex1_039
+梓姫	「んまぁ、なんてワガママなんでしょうこの人妻は！
+	食うなてめぇは！　バナナの神様に申し訳が立たないよ！」
+
+	fw 0 cds,1,1,3,4,2,0
+	rdraw
+	fw 0 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_051
+すもも	「だっはは！！　なんだよバナナの神様ってー！
+	いやらしー、梓姫欲求不満なのー？」
+
+	fw
+	cg 2 cpm,n,1,7,1,8
+	rdraw
+	cg 2 shake 20 1 0 -30
+	pcm P_c03_ex1_040
+梓姫	「バッカ！！！　中学生みたいな連想してんじゃねぇよ！
+	いやらしいのはそっちでしょうがっ！！」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff fade
+	eg
+	cg 2
+	cg 1 cdm,8,1,1,1,1
+	bg 0 bgc37c
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+カンナ	「二人とも変わってなくて安心するね」
+
+	pcm D_c03_ex1_052
+すもも	「梓姫と話してるとやっぱ戻っちゃうよねー」
+
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg 
+	fw
+	eg 4 evd32_%LANG_M%,a
+	eg 5 c_black
+	rwipe w_time 60
+	wait
+	wait 60
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	bgm 0 bgm3_04
+	bg 0 bgc31b
+	eg 5
+	bg 0 bgc31a
+	cg 2 cpm,n,1,1,1,1
+	rwipe w_time 60
+	wait
+	wait 30
+	fw 0 cds,2,1,1,1,1
+	rdraw
+	pcm D_c03_ex1_053
+すもも	「梓姫ー、ちょっと手疲れてきたー。カメラかわってよー」
+
+	fw
+	cg 2 cpm,m,1,1,1,3
+	rdraw
+	pcm P_c03_ex1_041
+梓姫	「はぁ？　カメラじゃなくてキャメラなんだろ」
+
+	fw 0 cds,4,1,1,1,1
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm D_c03_ex1_054
+すもも	「そうだった。キャメラかわってー」
+
+	fw
+	cg 2 cpm,m,1,4,3,1
+	rdraw
+	pcm P_c03_ex1_042
+梓姫	「ずっともってる必要ないだろ。三脚もってきてねぇのかよ」
+
+	fw 0 cds,1,1,6,1,6,0
+	rdraw
+	fw 0 shake 60 4 10
+	pcm D_c03_ex1_055
+すもも	「重いじゃん」
+
+	fw
+	cg 2 cpm,o,1,1,1,3
+	rdraw
+	cg 2 shake 60 4 20
+	pcm P_c03_ex1_043
+梓姫	「その辺においとけよ。いいよ、映ってればなんでも」
+
+	fw 0 cds,2,1,3,4,2,0
+	rdraw
+	fw 0 shake 20 1 0 -20
+	pcm D_c03_ex1_056
+すもも	「やたっ。じゃあこの岩の上に……よっと……」
+
+	fw
+	bg 0 amove1 30 @ @-112
+	cg 2 amove1 30 @ @-90
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff fade
+	eg
+	cg 2
+	cg 5 cdm,7,1,5,5,1
+	bg 4 bgc37c
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+カンナ	「え、三脚なしで……？　大丈夫だったの？」
+
+	cg 3 cdx,1,1,1,1,1 1320
+	cg 3 blur 4 4
+	cg 3 blend 0
+	cg 5 cdm,7,1,5,5,1
+	rdraw
+	pcm D_c03_ex1_057
+すもも	「……」
+
+	fw 0
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	fw
+	bg
+	cg 5
+	eg 5 c_black
+	rwipe w_tb 30
+	wait
+	wait 60
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	eg 5
+	bg 0 bgc31a @ @-112
+	eg 4 evd32_%LANG_M%,a
+	cg 2 cpm,n,1,1,1,1 @ @-90
+	rwipe w_tb 30
+	wait
+	wait 30
+	cg 3 fade 15 0 255
+	cg 3 arc 30 90 120 120 45
+	rdraw
+	pcm D_c03_ex1_058
+すもも	「これで映ってるかな……」
+
+	cg 3 fade 30 255 0
+	cg 3 arc 60 180 90 120 45
+	rdraw
+	wait 120
+	pcm D_c03_ex1_059
+すもも	「あ、いけるいける！　これであたしも映れるじゃん！
+	やほー、桃ノ内すももでーす、こんにちはー」\@
+	wait 60
+	cg 3 fade 15 0 255
+	cg 3 arc 30 90 120 120 45
+	rdraw
+	\n
+
+	cg 2 cpm,m,1,1,1,1
+	rdraw
+	pcm P_c03_ex1_044
+梓姫	「ピーチ、早くこいよ。焦げるぞ、バナナ」
+
+	pcm D_c03_ex1_060
+すもも	「あ、ほいほーい」\@
+	wait 30
+	cg 3 fade 30 255 0
+	cg 3 arc 60 180 90 120 45
+	rdraw
+	\n
+
+	pl [0-3] quake 4,0,15 4,0,-15 4,15,0 4,-15,0 4,0,7 4,0,-7 4,7,0 4,-7,0 4,0,0
+	pl 2 arc 20 0 180 0 38
+	se 0 se4022
+	pcm P_c03_ex1_045
+梓姫	「あっ！」
+
+	bgm 0 end 60
+	frameoff fade 
+	bg 0 
+	cg 
+	se 0 se4000
+	eg 2 c_black
+	rwipe w_tb 15
+	wait
+	fw 0 cds,2,1,9,7,5,0
+	rdraw
+	pcm D_c03_ex1_061
+すもも	「あっ！……やっべー……、なんか嫌な音した……」
+
+	fw 0 cps,n,1,1,1,1
+	rdraw
+	pcm P_c03_ex1_046
+梓姫	「壊れた？」
+
+	fw 0 cds,3,1,6,1,6,0
+	rdraw
+	pcm D_c03_ex1_062
+すもも	「……ぽいね。やっばいなー、カンナくんにちょー怒られる」
+
+	bgm 0 bgm3_10
+	fw 0 cps,m,1,6,5,6
+	rdraw
+	pcm P_c03_ex1_047
+梓姫	「えー！　ここまできて録れ高０かよっ！」
+
+	fw 0 cds,4,1,1,1,1
+	rdraw
+	pcm D_c03_ex1_063
+すもも	「ここまでのは録れてんじゃない？　梓姫、確認できる？」
+
+	fw 0 cps,n,1,1,1,1
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm P_c03_ex1_048
+梓姫	「うん、確認用のＰＣはあるよ」
+
+	fw 0 cds,4,1,3,4,2,0
+	rdraw
+	pcm D_c03_ex1_064
+すもも	「録れててもさ、この壊したところ、カットしといてね」
+
+	fw 0 cps,o,1,4,3,1
+	rdraw
+	fw 0 shake 60 1 0 30
+	pcm P_c03_ex1_049
+梓姫	「はいよー」
+
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	frameoff fade 
+	fw 
+	cg 
+	bg
+	eg
+	rwipe w_tb 60
+	wait
+	se 1 loop se5448
+	se 2 loop se5441
+	se 1 fade 60 0 90
+	se 2 fade 60 0 90
+	bg 0 bgc37c
+	cg 1 cdm,8,1,5,5,1,0 960
+	rwipe w_tb 60
+	wait
+	pcm D_c03_ex1_065
+すもも	「……梓姫め……、カットしといてって言ったのにー……！」
+
+カンナ	「あ、でも録れてはいたんだね」
+
+	cg 1 cdm,7,1,6,1,6,0
+	rdraw
+	cg 1 shake 60 1 0 30
+	pcm D_c03_ex1_066
+すもも	「ご、ごめんね。カンナくんのカメラ、壊しちゃって……」
+
+カンナ	「キャメラね」
+
+	pl 1 arc 30 180 360 0 7
+	cg 1 cdm,8,1,6,5,6,0
+	rdraw
+	pcm D_c03_ex1_067
+すもも	「あ、そうそう……。キャンナくんのキャメラ……」
+
+カンナ	「僕はカンナね」
+
+	pl 1 shake 40 4 3
+	cg 1 cdm,8,1,5,6,6
+	rdraw
+	pcm D_c03_ex1_068
+すもも	「あ、そうだった……」
+
+カンナ	「次は三脚持っていってね。あと、僕もバナナキャンプしてみたいな」
+
+	pl 1 arc 20 0 180 0 38
+	cg 1 cdm,7,1,3,4,2,0
+	rdraw
+	pcm D_c03_ex1_069
+すもも	「あ、美味しかったよっ、焼きバナナ！　お礼にあたしが焼いてあげる！
+	梓姫のやり方見てたし！」
+
+カンナ	「最近キャンプ行けてないもんね。
+	せっかく梓姫がハチマル返してくれたのに」
+
+カンナ	「今週末にでもいこうか」
+
+	pl 1 arc 20 0 180 0 38
+	cg 1 cdm,7,1,3,4,2,0
+	rdraw
+	cg 1 shake 20 1 0 -30
+	pcm D_c03_ex1_070
+すもも	「やったー！　カメラ壊してよかったー！」
+
+カンナ	「すもも」
+
+	cg 1 cdm,6,1,6,1,6,0
+	rdraw
+	pcm D_c03_ex1_071
+すもも	「あっ……、言いすぎました、ごめんなさい」
+
+カンナ	「キャメラね」
+
+	pl 1 shake 40 4 3
+	cg 1 cdm,8,1,9,7,5,0
+	rdraw
+	cg 1 quake 5,5,-7 5,-3,5 5,-5,0 5,5,5 5,0,0
+	pcm D_c03_ex1_072
+すもも	「そっちかーい」
+
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	bgm 0 end 240
+	frameoff fade
+	cg
+	bg
+	rwipe w_tb 120
+	wait 240

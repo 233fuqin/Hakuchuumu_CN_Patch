@@ -1,0 +1,8 @@
+#c00_ed
+
+	undo
+	if (#1000 == 0) movie ed_c00 0
+	if (#1000 == 1) movie ed_c00
+	end_of_kaisou 07
+	steam achievement ACH_011
+	next c00_end

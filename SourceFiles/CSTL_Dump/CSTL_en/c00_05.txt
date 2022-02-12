@@ -1,0 +1,1740 @@
+﻿Kaito
+...
+
+I take stock of what my senses pick up as I walk.
+
+The faint scent of oil. The high summer humidity on my skin.
+
+I can see the dust particles rise when I sit on the sofa.
+
+The environment changes in accordance with my actions, and all those little things are picked up by my senses.
+
+All of them work perfectly in tandem.
+
+This is remarkably good for a prototype.
+
+One participant alone should be no problem for it to handle.
+
+The real problem comes when we introduce the chain of interactions created by adding more participants.
+
+I can't account for so many people with the data I currently have access to.
+
+That's only natural.
+
+And I can't get the data I need without putting this prototype out there.
+
+I only have Yonagi and Izumo here, and there's a limit to how much they can do.
+Shleep
+*Chirp*
+Izumo
+Voluntary simulation shutdown signal acknowledged.
+Kaito
+Thanks.
+
+The dreamscape emulator I built from Yonagi's data is being stored as an application in both Wooleep and Izumo.
+
+The simulation no longer needs Yonagi to hold it up when I want to perform tests on my own.
+
+Increasing the statistical data samples and checking and adjusting the simulator are different tasks.
+
+It's been a month since I was assigned to Asuma's lab.
+
+I've spent the days discussing work with him and the nights collecting data in the dreamscape together with Yonagi, Izumo, and Wooleep.
+
+After two weeks, we were able to recreate a space capable of reproducing the sense of smell independent of Yonagi.
+
+It's still not very accurate though, since the way the world reacts is predicted based on algorithms that use statistics from Yonagi's dreamscape.
+
+There are still a few bugs that make the whole thing freeze and feel like you're experiencing some kind of sleep paralysis.
+
+But I'm feeling the progress.
+
+I can almost see the goal.
+Yonagi
+...
+
+Yonagi's sitting across the table, working on her novel.
+
+She's shown me the synopsis for it many times while we gathered data for the emulator.
+
+It's the story of the talented but slightly ignorant Shakespeare, and Olivia, an actress who is attracted to his talent.
+
+She showed me various scenes where Will's pigheaded and sometimes painfully unaware ways cause Olivia no end of dismay during the process of them getting to know one another and falling in love.
+
+I notice her reciting lines under her breath as her eyes glide over the pages.
+
+She must be muttering the lines of the characters to herself.
+Kaito
+Yonagi?
+Yonagi
+Mm?
+Kaito
+I'd like to ask you something.
+Yonagi
+Yes?
+Kaito
+...
+
+She looks up at me.
+Yonagi
+Mm?
+
+She stares at me curiously, tilting her head ever so slightly.
+Kaito
+I finished the rough prototype of the dreamscape emulator.
+Yonagi
+Ah, good.
+
+She nods in response, and I nod back.
+Kaito
+The way this space is formed is completely different to all prior research.
+Yonagi
+Mhm, yeah.
+Kaito
+So...
+Kaito
+I want to take it to Asuma's lab.
+Yonagi
+Huh?
+Kaito
+I want to show it to the professor. There's only so much I can do to advance the research by myself.
+Yonagi
+Oh, so it's finally time.
+
+I nod and smile.
+Kaito
+If we manage to develop it further, someday we might even be able to show it to someone other than him.
+
+She listens attentively.
+Yonagi
+I don't really know how groundbreaking what you're doing is or whatever.
+Yonagi
+But can you hide the fact that the thing you made came from my dreamscape?
+
+I answer with a firm nod.
+Kaito
+More than three hundred years ago, a man named Einstein happened upon the truth that the speed of light is a universal constant.
+Kaito
+And he did it inside of a dream.
+
+Her eyes widen in surprise.
+Kaito
+He dreamed about becoming light itself and traveling so fast he rode along a light beam, and he hypothesized that the beam would seem stationary to any observer at the same speed.
+Yonagi
+Wow, really?
+Kaito
+He was one of the rare geniuses in history that actually valued his sleep, it seems.
+Kaito
+If this research goes somewhere and becomes a big enough deal that I start getting questions, I'll answer the same.
+Kaito
+I formed the space by retrieving statistical data from my own dreams.
+Kaito
+That will suffice as an explanation for all the researchers other than the professor.
+
+She gives me a small nod and a relieved smile.
+Yonagi
+This is so you can fulfill your dream as well.
+Yonagi
+Okay, I think it's fine. I'd be lying if I said I wasn't a little scared, but you've worked so hard to become a researcher.
+Yonagi
+And if you show your prototype to Professor Asuma, you'll get closer to achieving that, right?
+Kaito
+It won't be just me. The whole city—no, all of humankind will get closer to living on the surface.
+
+She smiles fondly at me.
+Yonagi
+All right. It's okay by me.
+Kaito
+Thank you.
+Kaito
+I'll make it happen, I promise.
+Yonagi
+Mhm, I'm always rooting for you.
+Yonagi
+But you better read my novels!
+Kaito
+I'd be more than happy to do that. I love your stories.
+Yonagi
+For real?!
+
+I nod at her.
+Kaito
+Will's a little too pigheaded for my taste, though.
+Yonagi
+Ahahah!
+Kaito
+Mm?
+Yonagi
+Funny thing to hear from the person he was based on.
+Kaito
+...
+Yonagi
+Olivia would be me.
+Kaito
+You're nothing like her?
+Yonagi
+She's like what I wanna be! There's a little bit of me in her!
+Kaito
+Am I really as bad as Will?
+Yonagi
+...
+Yonagi
+Kaito?
+Kaito
+Yes?
+Yonagi
+Do you perchance remember how many years we've been living together?
+Kaito
+Of course. I remember down to the number of days.
+Yonagi
+Incredible. You're simply incredible, mhm.
+Kaito
+...
+Yonagi
+...
+Kaito
+What about it?
+Yonagi
+Oh, it's nothing.
+
+She heaves a huge sigh and turns back to her book.
+Yonagi
+Time to add a scene where Will displays such a staggering lack of self-awareness that the whole troupe face palms along with Olivia. It'll fit right in.
+Asuma
+Wow, I must say, this is incredible...
+
+I have Professor Asuma try out the simulator I put together.
+
+I copied it onto a portable terminal and brought it with me to the lab.
+Asuma
+The sense of immersion is impressive, and all the sensory feedback is covered.
+
+The professor comes out of his little excursion absolutely stunned.
+Asuma
+How in the world did you manage this? What parts of the brain does it even utilize?
+Kaito
+That's not an easy thing to explain. There's basically no real pattern to the areas of the brain that are used in any one moment.
+Asuma
+No patterns?
+Asuma
+Are you saying that the way the space is produced and the areas of the brain that are used depends on the person?
+Asuma
+Or does the perception of the brain change depending on the space itself?
+Kaito
+The only one I can confirm is the latter. Thankfully, there seems to be no difference in how the brain processes the space depending on the person. At least so far.
+Kaito
+You were able to reproduce my experience from what I built up using my own statistical data, at least.
+Asuma
+I see.
+Kaito
+But there still seems to be some individual variation.
+Asuma
+Kaito, how in the world did you make this?
+Asuma
+I can't believe you just happened to stumble into this. It seems like there's a defined idea behind it, an ideal set of parameters you're trying to reproduce...
+Asuma
+It's definitely not the same as when Einstein came up with his light speed invariance postulate.
+Kaito
+...
+
+I was internally elated that he thought of the same thing as me.
+
+But at the same time, I realized he would not be easily deceived.
+
+But I still don't know whether to tell him the truth or not.
+
+Should I tell him about the power Yonagi has kept secret to this day?
+
+I'm reluctant to tell a third party about the secret we share, to be honest.
+Kaito
+...I just have vivid dreams sometimes.
+Asuma
+Ah, like a daydream?
+
+I nod.
+Kaito
+The immersion I feel when I'm having one of those reminded me of how I felt when I entered the virtual space for the first time.
+Asuma
+I see. So you took the data your brain waves created, accumulated the reactions your brain had, and made an emulator based on that.
+Kaito
+Yeah...
+Asuma
+Heh.
+Kaito
+Mm?
+
+The professor lets out a light chuckle.
+Asuma
+No, it's nothing. I see now.
+
+He then turns to me and smiles.
+Asuma
+I know of another researcher who's just like you.
+Kaito
+Like me?
+Asuma
+A person whose actions always seem to be beyond the scope of my understanding.
+Asuma
+With the same courage to use his own body as a guinea pig in the service of science.
+Asuma
+Though it may sound cliché and pretentious, I can't find a better way to describe it other than 'genius.'
+Asuma
+You can take that as my declaration of deference to you.
+
+He says, shrugging his shoulders.
+Kaito
+The person you're talking about is the same one you mentioned before? The researcher you started the lab with?
+
+A smile playing about his face, he nods.
+Asuma
+So the blueprint you're using to make up the world in this emulator exists only in your brain. Ah, but perhaps calling it a cyanotype would be more apt. You are, after all, reproducing your mental images onto a new sheet.
+Kaito
+A cyanotype...
+Asuma
+A cyanotype of a daydream, if you will. Sounds like a flight of fancy, but here we are.
+Kaito
+...
+Asuma
+I'm really interested in what you did here. I want to hear more about it, and I'd also like to study the data.
+Asuma
+You brought it here because you'll need more subjects to experience the space in order to improve its accuracy, I assume.
+Asuma
+And because you see how it can be integrated into the laboratory's prior research.
+Asuma
+Am I correct?
+Kaito
+Yes!
+
+He read my mind.
+
+It's almost frightening how well he has my thought process figured out.
+Asuma
+I'll take care of brewing the coffee today. Tell me everything, and don't leave a thing out.
+
+While he prepares the coffee, I tell him about the information I've gathered and what I know of the emulator.
+Asuma
+I see, so you stripped out the functions of a regular emulator and made it into a device that can measure bio signals.
+Kaito
+Yes. I've been recording and integrating records of my brain waves to improve the experience.
+Kaito
+I've been at it every day for the past month.
+Asuma
+I see. So you've achieved these results in only a month, all by yourself.
+Asuma
+We could produce staggering results with this approach. Imagine optimizing the processing of sensory data based on even more data.
+Asuma
+You could produce something usable on a larger scale in months. With this kind of thing, about eighty percent of the time is spent on optimizing the final few things to perfection.
+
+I nod along as he speaks.
+Asuma
+I would gladly help if you will allow me to. If you leave this application here, you can make use of the brain waves I produce while in it.
+Kaito
+Yes, I'll make a backup. I'd be eternally grateful for the help.
+
+The professor smiles and seems to ponder something for a moment in front of the coffee machine.
+Asuma
+So the way the world reacts depends on who is in the virtual space and what they're doing in it...
+Asuma
+I see now. It signifies that our brains aren't so simple a mechanism that you can reduce all their processes down to a simple pattern.
+Asuma
+Perhaps that's good tidings for humankind.
+Kaito
+Really?
+Asuma
+I'm sure this doesn't come as a surprise to you, but most tend to favor thinking of their own mentality as something complex and deep.
+Kaito
+Oh, right.
+
+The professor comes back, putting down two steaming cups of coffee on the table.
+Asuma
+The brain has a peculiar filter-like function called the RAS. Are you familiar with it?
+Kaito
+Ah, yes.
+
+I'm familiar with the concept, at least.
+
+RAS is an acronym for the reticular activating system.
+
+There were descriptions of it in the medical books I read as a kid.
+Kaito
+It's the system that determines which events the brain registers.
+Asuma
+Yes. It means that we're not necessarily aware of everything that happens in front of us. We are aware only of what our mind deems necessary based on our past memories.
+Asuma
+Like when you are looking to get a new pair of shoes, you unconsciously find yourself fixating on other people's shoes.
+Kaito
+Our awareness is linked to our memories, and it's always shifting.
+Asuma
+Indeed. You could say that we only see what we want to see at any given time.
+
+I nod in agreement.
+Asuma
+Knowing that principle, it makes sense that processing human memory would become a variable process depending on the memories of each individual.
+Asuma
+The lens through which you view the world changes depending on your memory. Naturally, the sensory stimulation will also change.
+Asuma
+And the amount of different ways each person may view the world are staggering. Too great for any one program to encompass, perhaps.
+Asuma
+Yes. I'm sure I would have arrived at the same conclusion as you and decided to gather as much statistical data as possible.
+Asuma
+Well, perhaps if I hadn't kept trying to force my way through a dead end for years. I suppose that's what makes a genius; a difference in perspective where you saw what I couldn't.
+
+Despite the self-derision I detect in his tone, he still smiles at me like usual.
+Asuma
+You've accomplished a spectacular feat here, Kaito. You should be proud.
+Kaito
+No, I just got lucky.
+
+This isn't my achievement to lay claim to.
+
+This was all possible because of Yonagi's power.
+
+My only achievement is living with Yonagi. That's one I wouldn't be too proud to claim.
+
+Professor Asuma lifts his mug of coffee to me.
+
+I mimic the gesture, then bring it to my lips.
+
+I've become accustomed to the bitter bite of it.
+
+And that's exactly why I can detect the difference in taste now.
+
+I somehow feel like the coffee he brews has a more complex flavor than whatever I brew.
+
+It's a little strange. We use the same beans.
+Asuma
+We must move immediately.
+Kaito
+Excuse me?
+Asuma
+We have to report these results to the institute. This is momentous enough to convoke an extraordinary debriefing session.
+Kaito
+Which means...?
+Asuma
+You've been using your personal time outside the institute to do research, right?
+Kaito
+Yes, I...
+Kaito
+My goal always was to work with you, Professor. I still don't feel like I've done enough.
+
+He blinks at me, but then gives me that same affable look.
+Asuma
+Your words truly honor me. But aren't you feeling a little cramped?
+Kaito
+What do you mean?
+Asuma
+The lowsider dwellings consist of one room, don't they? Research equipment can be very bulky for such a small space.
+Kaito
+...
+
+My heart leaps at the realization of what he's getting at.
+Asuma
+You have produced results that are more than sufficient for a researcher's standard. I won't let you down.
+Asuma
+It would be only fair for the institute to allocate a budget to support your research now.
+Asuma
+What's more, you have given me the grounds on which to stand to make my point in the session. It only stands to reason that you reap the rewards for your own work.
+
+Now it's my turn to blink at him in disbelief.
+
+Obviously amused by my surprise, he smiles.
+Asuma
+We'll have a house prepared for you in the middle side. I'm sure these results will turn the heads of many in the institute. I imagine we'll have some researcher quotas to fill after this.
+Kaito
+...
+
+Live in the middle side?
+
+So fast? It's finally happening?
+Asuma
+And it'll be more convenient for you to live closer to the lab, won't it?
+Asuma
+If you have family, they can move with you. Give me a week, and I'll apply for it right away.
+Kaito
+Family...
+Asuma
+Do you have any siblings? I heard your parents passed away.
+Kaito
+No, um...
+
+He raises an eyebrow at me and waits.
+Kaito
+I don't have siblings, but I am living with someone.
+
+Suddenly, his face lights up, and his smile spreads from ear to ear.
+Asuma
+Oh, I see!
+
+Still visibly joyous at that discovery, he asks me.
+Asuma
+When's the wedding?
+Kaito
+Not yet.
+Asuma
+So it's going that way, yes?
+
+I nod in response.
+Asuma
+I see. They're be very lucky to land themselves such a good man as you.
+Kaito
+...
+
+I'd say it's the opposite, in fact.
+
+None of this would be happening if it wasn't for Yonagi.
+
+But still...
+Kaito
+The middle side...
+
+I can hardly believe I'm saying the words.
+
+Professor Asuma continues drinking his coffee, pretending not to notice me talking to myself.
+
+I can take Yonagi to the middle side.
+
+Yonagi has been nothing but a blessing for me.
+
+I don't even know how to begin to repay her for all she's done for me. It isn't a stretch to say that I am where I am today because of her.
+
+But at least now I can do something for her in return.
+
+I imagine her face when I tell her the news.
+
+Trying my hardest to keep a neutral expression despite the huge smile threatening to crack my lips, I take a big gulp of coffee.
+
+I run back home just like I did on the day I was first assigned to Professor Asuma's lab.
+
+We're going to live in the middle side.
+
+At last!
+
+We're finally going up there!
+
+Yonagi and I, together!
+
+I can't help but smile at the thought of it.
+
+We won't need to wade through this sea of stalks anymore. No more walking through the mud.
+
+We'll be able to look at all this from above.
+
+And Yonagi will be free from her labor duties as well.
+
+I've waited for this day for so long.
+
+So many nights I dreamed of the day we would finally climb out of the low side.
+Kaito
+Yonagi!
+
+The house finally comes into view through the stalks.
+
+I bound down the stairs, determination and joy fueling my steps.
+Yonagi
+Hey there!
+Kaito
+Yonagi!
+Yonagi
+Ah, someone had a good day at work today!
+
+My smile must be the brightest it's been in years.
+Kaito
+Yeah, it was good! No, it was more than good!
+Yonagi
+Mm?
+Izumo
+May I inquire about dinner? Can I begin cooking?
+Yonagi
+Ah, sure, please. Right, Kaito?
+Kaito
+Yeah, we need porridge!
+Izumo
+It is my best dish.
+
+Izumo quickly whips up dinner and sets up our bows neatly on the table.
+Yonagi
+Was the professor happy with your research?
+Kaito
+I'm gonna be a real researcher!
+Yonagi
+Huh?! So fast?!
+Yonagi
+Didn't you say it could take years?!
+Kaito
+That's what I thought, but Professor Asuma said he'd help make it happen.
+Kaito
+He saw what the dreamscape emulator could do and told me it was more than enough to get budget for the lab!
+Yonagi
+So that means...
+Kaito
+We're moving! We're gonna live in the middle side!
+Yonagi
+...
+Kaito
+And...
+
+The words get stuck in my throat.
+
+We've lived together for more than half of our lives, but the thought of taking that next step forward gives me butterflies in my stomach.
+
+I take a small breath to calm my nerves, hoping she doesn't notice.
+Kaito
+...I want to live there together with you.
+
+Yonagi blinks at me, saying nothing.
+Kaito
+The whole system is set up so families can stay together, so...
+Yonagi
+...
+Kaito
+Please, marry me. I want us to be husband and wife.
+Yonagi
+Marry...
+
+I nod enthusiastically at her.
+Yonagi
+...
+Kaito
+Yonagi?
+Yonagi
+Um, Kaito?
+
+Instead of facing me, her gaze swims about aimlessly.
+
+What's wrong?
+
+With each passing second, her reaction is getting further and further away from what I imagined.
+Yonagi
+It makes me happy to hear you say that, but I...
+
+Her eyes keep darting about as she searches for the right words.
+
+Izumo is staring intently at us.
+
+Wooleep hovers effortlessly behind of her.
+
+I'm suddenly hyper of all these normal, everyday things.
+Yonagi
+Can you give me some time to think about it?
+Kaito
+To think?
+
+She seems confused for some reason.
+
+No, scared might be the word I'm looking for.
+Kaito
+But what is there to think about? You won't have to do hard labor all day if we move, and we'll have a bigger house.
+Kaito
+We can have a better life there. What do you need to think about?
+Kaito
+Everything will be better!
+
+With each word, I feel my voice booming in the small room.
+
+The cold tendrils of a feeling I can't contain begin gripping my heart.
+Yonagi
+...
+Kaito
+Yonagi.
+
+With her head still held low, she looks at me.
+Kaito
+...Is there someone else?
+
+Her expression shifts to blank amazement, and she lets out a small chuckle.
+Yonagi
+How could there ever be?
+
+Hearing that makes me feel a small degree of relief.
+Yonagi
+You've always been the only man for me, ever since we were kids. Do you even need to ask?
+Kaito
+Then why?
+
+Her expression turns dour again.
+
+I'm at a loss at this point.
+
+Never did I expect my news to be met with this.
+
+I imagined tears of joy and a celebration.
+
+Anything but this.
+
+But she's simply standing there, looking apologetic and cowering as the confusion drives me to shout.
+
+Why is this happening?
+
+What did I do?
+Yonagi
+I can't just give an answer on the spot for something like this, can I? It's very important, right? There's something I need to make sure of before I give you my answer.
+Kaito
+Something you need to make sure of?
+
+She gives me a small nod.
+
+Then she simply hangs her head and stares down at her hands.
+Kaito
+What does that even mean?
+Kaito
+You're not making a lick of sense right now.
+Kaito
+What are you talking about? We've been together all these years; why is this the first I'm hearing about you having doubts?
+Yonagi
+It's my fault. I think I'm just weak. I let myself get too complacent by being with you.
+
+She closes her eyes as she speaks, her tone quiet yet firm.
+Yonagi
+I knew there was something I needed to face someday. But I kept trying to run away from it, put it out of my mind.
+Yonagi
+I just wanted to keep living my happy life with you. Just for a little while longer.
+Kaito
+...
+Yonagi
+I'm sorry.
+Kaito
+...I don't even know what you're apologizing for.
+Yonagi
+Sorry. I can't tell you more than that right now. All I can do is apologize.
+Kaito
+...
+
+Is the person in front of me really Yonagi?
+
+We've been together all these years.
+
+I've seen her most innermost dreams inside of the dreamscape.
+
+Which only makes this all the more mind boggling. What is even going through her head?
+Yonagi
+Just give me a little bit of time.
+Kaito
+And then you'll tell me what all of this is about?
+Yonagi
+...
+
+I puff out a huge sigh.
+
+I try to expel all of my frustration and deep disappointment with it, to no avail.
+Kaito
+...Just forget it.
+
+I drop my spoon back onto the plate.
+
+There's still some of Izumo's porridge left, but I don't think I can eat any more.
+
+I get up and sling my bag over my shoulder.
+Kaito
+I have no idea what you're talking about right now.
+Kaito
+Moving to a better home, having kids... I thought that was the life we were both working toward.
+Kaito
+What have all these years together meant to you? Nothing?
+Kaito
+What was the point of all this? Was it all bullshit?! A game?!
+Yonagi
+No... Don't say that...
+
+She murmurs, her head still lowered.
+
+Her voice is a thin, weak thread barely audible from where I stand.
+Kaito
+Then talk to me!
+Yonagi
+I'm sorry.
+
+I bring the palm of my hand to my forehead and rub at the imminent headache forming there.
+Yonagi
+Kaito...
+Kaito
+I'll stay at the lab.
+Kaito
+I'll be there from now on.
+Yonagi
+But...
+Kaito
+You know where to find me if you feel like talking.
+Kaito
+Until then, I don't think I can see you.
+Yonagi
+Kaito...
+Izumo
+Will you be absent from home during meal times?
+Kaito
+Yes.
+Izumo
+Understood.
+
+I turn my back on the table.
+
+Behind me, I hear the sound of Izumo clearing away the dishes.
+Kaito
+I thought you would be happy.
+Kaito
+Now I don't know what I was even working so hard for.
+Kaito
+...
+
+It feels like a heavy fog has settled over my mind.
+
+I still don't quite understand what happened.
+
+I can't forget the look on her face.
+
+Yonagi said she was happy to hear me propose, but everything she did and said after that showed the opposite.
+
+She just said that to not hurt my feelings.
+
+And even her concern ignites my chest with anger.
+
+Was she not satisfied with me?
+
+I managed to become a researcher in one month where others normally take years.
+
+And I wasn't even born into a family of researchers like Iruma.
+
+Against all the odds, I earned my spot as a researcher on my own merit.
+
+Any lowsider would rejoice at the idea. So many dream of being in a position like this.
+
+Down here in this dim, dirty place where even the faint sunlight is blocked off by the shadows of the middle side parks.
+
+In this unsanitary, foul, and insufferable hotbed of disease.
+
+Who lives here because they want to? No one, that's who.
+
+Then why? Why?!
+
+I cannot for the life understand what's going through Yonagi's mind.
+
+Even after living together for so long and knowing each other better than anyone else.
+
+She still hid something this important from me.
+
+She obviously didn't trust me like I did her.
+
+As the thoughts revolve around my head, it's not sadness which fills my heart, but anger.
+
+All those memories together.
+
+Her smile, her sweet voice.
+
+I'm filled with an impotent anger at myself over each of those indelible memories.
+
+Never before have I wished with such vehemence that I could forget.
+
+Perhaps those memories never meant as much to her as they did to me.
+Kaito
+...
+
+I sigh as I look up at the sky.
+
+No, this cannot continue.
+
+I'm just poisoning myself.
+
+I shake my head to rid it of these thoughts.
+
+I do it hard enough to dishevel my hair in the process.
+
+Then I exhale again.
+
+It's been a long while indeed since the last time I found myself sitting on a bench in the middle square.
+
+I used to have lunch here every day when I was doing hard labor.
+
+Now the memories of those days seem nostalgic to me.
+
+From here, I can see the middle side dwellings.
+
+Each house is magnitudes bigger than anything down in the low side.
+
+According to Professor Asuma, those houses have more than one room.
+
+I now realize that, despite doing so much cleaning and maintenance work for the middle side infrastructure, I've never seen the inside of one of those houses.
+
+I stare vacantly at the sea of lit windows in the distance, and my gaze turns upwards.
+
+Beyond the huge generation panels are the residences of the topsiders.
+Kaito
+...
+
+What if Yonagi refuses to marry me?
+
+Can I move to the middle side alone?
+
+Hard as I try, I can't imagine a life without Yonagi.
+Kaito
+Guess I've got some thumbs to twiddle, then.
+
+I stand up, dust myself off, and head back to the lab.
+
+Guess I'll sleep here tonight.
+Kaito
+...
+
+The empty lab feels completely different at night than during the daytime.
+
+I guess it's especially noticeable when I've never spent a night alone before.
+
+I sit at my desk.
+
+It takes only a second for the image of Yonagi to pop into my head.
+
+I need to occupy myself with research.
+
+I'll just keep thinking about her unless I find something to distract me.
+
+I switch on the terminal and boot up the emulator.
+Kaito
+Mm?
+
+The emulator on the lab's shared terminal is active right now.
+
+Someone is using the emulator to retrieve data.
+
+Naturally, it must be the professor.
+
+I stand up and mosey over to the back of the laboratory.
+
+But he isn't there.
+
+Perhaps he's connecting remotely from somewhere else.
+Kaito
+...
+
+Whatever the case, this shows me something.
+
+The professor is willing to spare his own time to help increase the precision of my emulator.
+
+I can't just go to sleep, though.
+
+I boot up my own local emulator program.
+
+I stay at the lab for a few days after that.
+
+I devote myself to research in an effort to put Yonagi out of my mind.
+
+My days are spent discussing theories with the professor, adjusting the emulator processing, and gathering data.
+
+We go on like this for a while.
+
+Neither the professor nor I speak of the debriefing session.
+
+But I'm already close to bursting from the impatience and stress.
+
+One day, Professor Asuma enters the lab as dawn breaks and sunlight, filtered by the ozone lens, colors the lab through the windows.
+Asuma
+Oh, good morning. You're up early.
+Kaito
+Yeah... I've had a lot of work to do outside the lab these days.
+
+My weary tone is met with his usual jovial smile.
+Asuma
+You're generating results. It doesn't matter where you get them.
+Kaito
+Thank you.
+Asuma
+Mhm.
+
+He paces over to his desk and sets his bag on top of it.
+Asuma
+You've been working a lot these days, haven't you? Have you been sleeping properly?
+Kaito
+Not so much... It doesn't sit right for me to be resting while you're hard at work gathering data.
+Asuma
+Me?
+Kaito
+I saw your connection was active late at night a few days ago.
+Asuma
+Ah.
+
+He gives me a slightly troubled smile, like a kid who's been found out.
+Kaito
+Are you connecting from home?
+Asuma
+No, there's actually a nap room in the institute. A little remnant of a perk from when I was the director, so I still have access to it.
+Asuma
+I often use it when there's something on my mind, and I ended up taking my instruments there with me. Hah, guess my jig is up.
+
+He flashes me a little amused smile and scratches at the back of his head.
+Kaito
+Can't let the youth get too ahead of the game, can you?
+Kaito
+I'll make us some coffee.
+Asuma
+Thanks.
+
+I fill the mugs with fresh hot coffee, then go to the professor's desk and leave one on top of it.
+Kaito
+Um...
+Asuma
+Yes?
+Kaito
+I wanted to talk about the move to the middle side.
+Asuma
+Of course.
+Kaito
+If I were to move first, for example, and... were to marry after that, would there be any problem for the person in question to move in with me later?
+
+The professor lifts an eyebrow and keeps his gaze steady on me.
+Kaito
+It's just that, uh, my partner... She's a little overwhelmed by the change being so sudden.
+Asuma
+I see. The worries of a woman with an overachieving man by her side.
+
+Not knowing how to respond to that, I opt for silence.
+Asuma
+The order of the equation doesn't alter the result, in this case. You'll be living alone in the middle side first, then? She would stay in the lower side?
+Kaito
+...
+
+Thankfully, the tension lessens a little when he sips on his coffee.
+Kaito
+We've been together ever since we were kids, so maybe it's a good idea to give ourselves some time on our own, I guess.
+Asuma
+You rationalize most valiantly, but not convincingly, my boy.
+
+I raise my face to look at him.
+
+I still see no malice behind that smile of his.
+
+I simply sigh and look away.
+
+I suppose there's no point trying to hide something that's painted on my face.
+Kaito
+To be honest, I don't really understand what she's so worried about.
+Asuma
+Mhm.
+Kaito
+I mean, there's no lowsider that wouldn't jump at the offer to move to the middle side.
+Asuma
+Right.
+Kaito
+But she...
+
+I recall the expression on her face back then.
+
+Her gaze wandering nervously, the dejection in her eyes.
+Kaito
+She wasn't happy about it. I don't even understand what she's thinking anymore.
+Asuma
+I see.
+Kaito
+So, yeah...
+Asuma
+What about you? You would move at the earliest opportunity?
+
+I nod in response.
+
+I would in a heartbeat.
+
+It's been my dream ever since I was a kid.
+Asuma
+Then why not continue with the moving process while keeping both houses, so that you have both options open for a while?
+
+My eyes widen in surprise.
+Kaito
+I could do that?
+Asuma
+Many midsiders own houses in the lower side. Some use them as warehouses, or to hide things they don't want their neighbors to be privy to.
+
+I frown at that last part.
+Kaito
+Hide things? Like what?
+
+He gives me a meaningful smile and continues.
+Asuma
+By and large, infidelity. The relative lack of order down there makes it easy to hide things.
+Kaito
+I didn't know about that. Not at all.
+Asuma
+Well, it's the kind of thing you learn after living here for a while. Or rather, the kind of thing you wish you didn't.
+Asuma
+Perhaps your partner would think differently once she saw a middle side house for herself.
+Asuma
+But, more importantly, this is the result of your hard-earned effort. If you want to live here, you should. It would improve your work efficiency.
+Asuma
+Try not to think too much about it. Our desires as people are endless—that's why this city was made. As soon as you become a midsider, it won't be long until you set your sights on the next goal.
+Kaito
+I see.
+Asuma
+I submitted a report of your results and an application for a researcher quota. You'll be interviewed as early as today, I wager.
+Asuma
+But what do you want? Do you want to continue with the process? There is no hurry whatsoever, and the offer won't expire. It's up to you.
+Kaito
+...
+
+I'm a little lost.
+
+The only thing I can conjure up in my mind is Yonagi and Izumo.
+
+But...
+
+This is what I've always wanted.
+Kaito
+...Yes, I'd like to keep going with it.
+
+The process was so simple that I found it almost anticlimactic.
+
+\\f-7;The professor applied for a researcher registration from the lab's account page. Then he was summoned to explain the results of the emulator and our future research plan in front of several researchers.
+
+After a conspicuous lack of interrogation on their part that I chalked up to him being the former director, the research budget and the researcher quota was approved.
+
+And so, I became an official researcher of Asuma's Lab, and a middle side citizen. A midsider.
+
+I no longer have to go through the long tunnels in the lower side leading to the power plants and factory areas.
+
+Now I can live in the place I spent my childhood cleaning as a lowsider, and do as much research as I want.
+Asuma
+You can find your way to the house?
+Kaito
+Yes.
+Asuma
+Take some time to enjoy your new place. I'll be lecturing tomorrow, so I won't be in the lab during the day.
+Asuma
+Take some time off for yourself.
+
+I nod in response and meet his gaze.
+Asuma
+Congratulations, Kaito. You're a midsider now.
+Kaito
+Thank you. I couldn't have done it without your help.
+Asuma
+No, you made it happen with your own effort and sacrifice. There's no need to be modest about it.
+Kaito
+Mhm.
+Asuma
+You should be proud. All right, I'll see you later.
+
+The house I've been assigned to is in the area right behind the institute.
+
+Researchers live near their labs, and doctors live close to their hospitals.
+
+The system is designed to allow people with remarkable skills to focus on their duties.
+
+While it still feels anything but real, I head to what will be my home from now on.
+
+The door opens automatically as I approach.
+
+It uses my biometric data to recognize me as a resident.
+
+It wouldn't open to any stranger that walks up to it.
+
+There is one large dining area with a table.
+
+Towards the back is another, separate room.
+
+It also has a spacious bath and restroom facilities.
+
+It's all so clean and beautiful.
+Kaito
+I can't believe it...
+
+Lower side housing doesn't even hold a candle to this.
+
+This looks durable and sophisticated.
+
+I find a small amount of food in the refrigerator.
+
+There's synth milk and water.
+Kaito
+This is my home now...
+
+I sit at the table and stare at the ceiling in awe.
+
+I feel the corners of my mouth rising into a smile.
+
+It's finally starting to sink in.
+
+I'm not a lowsider anymore.
+
+Everything here is clean, even the damn ceiling.
+
+Gone is the ever-present smell of fertilizer that pervaded every corner of the low side.
+
+I feel at ease.
+
+I stand up and scan over the open shelves in the living room.
+
+I notice several sheets of pills neatly set on top of them.
+
+I've never seen them before.
+
+I walk up to the shelf and pick one of them up for a closer look.
+Kaito
+...So these are the artificial genes.
+
+The crystallization of centuries of medical advancement, these little pills are out of reach of every single lowsider.
+
+These tiny things can improve and maintain one's cells.
+
+According to the print on the sheet, they're designed to improve and strengthen the cells of the digestive organs like the stomach and intestines.
+
+It appears I must take them continuously and follow the instructions on my personal medical terminal, which is linked to the biometric chip that monitors my health.
+
+I must take them for thirty days, stop for a few days, and then move on to the next sheet.
+
+Is this routine for all midsiders?
+
+...If Mom had these when she needed them, maybe she could have walked again.
+
+I didn't make it in time.
+
+But I'm still alive.
+
+One mustn't live in the past.
+
+I put the sheet of pills back and close the shelf.
+
+There's a work desk separate from the dining table.
+
+Yonagi and I could focus on our work properly here.
+Kaito
+...
+
+I'm sure Yonagi would change her tune as soon as she saw this house.
+
+It should be about time for her to finish work.
+
+I stand up and look through the living room window.
+
+I can see the workers gathering in the middle square from here.
+
+They're waiting in line to receive their rations.
+
+I'm close enough to be able to recognize the faces of everyone waiting there.
+
+Among them is Yonagi.
+
+I'll show her this house.
+
+I'm sure that'll put whatever worries she has to rest.
+
+As I go down to the square, I see Yonagi collecting her rations into a familiar pot.
+
+It's the same pot we've used for the last decade or so.
+
+Catching sight of me, she slows down.
+Kaito
+Yonagi.
+Yonagi
+Kaito...
+
+She comes to a stop a cautionary step away from me.
+
+But it somehow feels like the rift separating us is miles long.
+
+That sense of distance makes my chest ache with a dull pain.
+Kaito
+You're done with work for today, right?
+Yonagi
+Yeah, um...
+Kaito
+I want to show you something.
+Yonagi
+Huh?
+Kaito
+Come with me.
+Yonagi
+But I still have to...
+Kaito
+Just come.
+Yonagi
+...
+
+I turn around and walk back to the house, with Yonagi trailing behind me a few paces behind.
+
+There's no conversation for the duration of the walk.
+
+I look back a few times to make sure she's there, but Yonagi averts her gaze every time.
+
+Before long, we arrive at the house.
+
+As soon as we walk through the door, Yonagi stops in her tracks.
+Yonagi
+Um, where are we?
+Kaito
+This is my new house.
+Yonagi
+It's pretty spacious.
+Kaito
+Yeah. There's a study and a dining table. There's more than one bedroom, and the air is cleaner than down there.
+Kaito
+I'll be living here from now on.
+
+She looks around, nodding along as I speak.
+Yonagi
+Yeah. What about the house in the lower side?
+Kaito
+I own the property down there too. There's lots of memories with mom there. There's no need to let go of it.
+Yonagi
+I'm glad to hear that.
+Kaito
+Look at this. Just imagine living in this house.
+Kaito
+We wouldn't have to clear all our stuff away every time we want to eat.
+Kaito
+You wouldn't have to do physical labor every day. No more waiting in line for food. Just look at the fridge. We'd have all the food we need.
+Yonagi
+Kaito?
+Kaito
+Huh?
+Yonagi
+Do you dislike living in the lower side?
+
+I stare at her in disbelief.
+
+Her eyes are still downcast, and she doesn't meet my gaze head on.
+Kaito
+What do you mean? Do you think anyone's satisfied with their lives down there?
+Yonagi
+You know? I don't hate life down there that much.
+Yonagi
+I do my job every day, and I know it helps someone.
+Yonagi
+Then I get the ingredients for the day, and I have some time for myself before going to bed.
+Yonagi
+I don't care if my desk is a little cramped. It's fun to move my books and notes around all the time.
+Kaito
+You need to open your eyes!
+
+I shout at the top of my lungs and rake my fingers back through my hair to calm the raging nerves.
+
+Yonagi recoils and takes a step back.
+Kaito
+Are you listening to yourself?! That's not a job! That's slave labor they're forcing onto you!
+Kaito
+Don't you see?! Just look at this house! We're always gonna be exploited if we stay down there!
+Yonagi
+So you would switch to the side of the exploiters, then?
+
+Her calm, subdued tone is like a needle being thrust into my ear.
+
+She keeps her gaze steady on me, her expression blank as she waits for my answer.
+Kaito
+If that's what it takes to protect the people I love.
+Yonagi
+Kaito, you've got it all wrong. My marrying you or not doesn't depend on any of this. It never did.
+Yonagi
+I—
+Kaito
+Any of this?
+
+I cut her off and keep talking.
+Kaito
+You still can't even imagine us being together here?!
+Yonagi
+That's not what I'm talking about. I'd be happy just being together with you, no matter where we were. It's not what you're thinking.
+Kaito
+Stop it with the theatrics! You're seriously telling me you'd rather be in that cramped rathole?!
+Yonagi
+I really mean it. It's not what you thi—
+Kaito
+You don't even know what living in the middle side is like, that's why you—
+Yonagi
+I know what living in the damn middle side is like!
+
+After that heated answer, a heavy silence sets into the room.
+
+I can't hear any sound.
+
+The silence is so total that it's almost eerie. Perhaps the thick walls are good at keeping all other sounds out.
+Kaito
+What did you say?
+Yonagi
+I'm sorry for not saying anything. But that's why I—no, this isn't what I wanted to talk about.
+Kaito
+What did you mean by that? How do you know what life in the middle side is like? You are a—
+Yonagi
+I was ranked down to lowsider. Back when I was kid... Before we met.
+Kaito
+To the low side? What do you mean?
+Kaito
+You lived in a house like this? With whom?
+Yonagi
+With my dad, and the woman he lived with. It was just us three.
+
+I feel the corners of my mouth lifting into a confused smile.
+
+As my mind struggles to handle what it's being confronted with, what sounds like a sad, confused trickle of laughter leaves my lips.
+Kaito
+Why didn't you ever tell me? Why did you keep it to yourself this whole time?
+Kaito
+How could you just keep silent about something like that all these years? Tell me.
+Yonagi
+I'm sorry, Kaito.
+
+Her words make something snap within me.
+
+The empty apologies only serve to turn the heady tendrils of fury curling inside me into flames.
+Kaito
+You... You!
+Kaito
+You were playing with me this whole time?! Was it fun for you to look down on me while I dreamed about becoming a midsider?! Was that it?!
+Yonagi
+No!
+Kaito
+You watched my mother die when you lived in a house like this?! Was it funny to watch her suffer when you knew what it was like to have a doctor at your beck and call?!
+Yonagi
+Kaito, listen to me!
+Kaito
+Or what?! Did you use it for one of your novels?! You used our misfortune as fuel for one of your stupid tragedies?! How dare you mock her—
+Kaito
+...
+
+An impact strikes me across the face with force enough to yank my head to the side.
+
+It takes me a second to realize it was her palm that slammed against my left cheek.
+
+I take the hit and simply turn back to her.
+Yonagi
+What did you just say?
+
+Her rose-red eyes are alight with quiet indignation.
+
+She looks to be on the verge of tears.
+Yonagi
+So, that's what you really think? You think I was just laughing at you and Mom behind your backs?
+
+Tears spill from her eyes.
+
+They fall down her tensed cheeks and trail down her neck.
+
+Still dazed and struggling to follow, I simply stare.
+
+I notice the trajectory of the tears shift as the corners of her mouth curl into something that's not quite a smile.
+
+It's the face of a person at their wit's end.
+Yonagi
+I know you remember better than any of us. You remember, right? Tell me, do you remember what I was like the day Mom died?
+Yonagi
+Did it look like I was smiling to you? Was I laughing as we cried by her bed?
+Kaito
+...
+Yonagi
+ANSWER ME!
+
+Completely mentally spent, I let myself fall onto the first chair I see by the dining table.
+
+The hard wooden chair creaks under the sudden weight.
+Kaito
+...Go away.
+Yonagi
+Huh?
+Kaito
+This is my house. I earned the right to live here with my own two hands.
+
+I hang my head down, shutting her out of my sight.
+
+I don't know what expression is on her face right now, and I don't want to.
+
+To be honest, I'm scared to look.
+Kaito
+If I'm not good enough for you, I want you out of my house. Feel free to take the place down there if you like it so much.
+Kaito
+I'm done being a lowsider.
+Yonagi
+Kaito... Hey, I'm talking to Kaito, right?
+Yonagi
+What happened to you? You're not being yourself at all.
+Yonagi
+This isn't you. It's like I'm talking to a different person.
+Kaito
+I don't know.
+
+I press the heels of my hands into my eyes.
+Kaito
+I don't know anything anymore.
+
+I only feel the pressure of my own hands.
+
+A few moments later, I hear the slow thud of Yonagi's boots leaving the house.
+Kaito
+...
+
+What is this?
+
+Is this what I get after accomplishing my dream?
+
+Wasn't becoming a midsider supposed to make me happy?
+
+My whole life up to this point...
+
+I dedicated my everything to becoming a researcher.
+
+So why do I feel the most miserable I've ever felt since I lost Mom?
+
+Is there something wrong with me?
+
+Will  I find the answer to that here in the middle side?
+
+If not here, then in the top side?
+
+On the surface?
+
+The sky? Beyond?
+
+How far do I have to go?
+
+How long do I have to keep on chasing after something that's always just out of reach?
+
+The thick white walls of the big house absorb my pitiful cries, leaving me with nothing.
+
+After spending a sleepless night, I head to the lab before dawn.
+
+It was my first night in a brand new house.
+
+I had more space than ever before.
+
+The bed was bigger than I ever dreamed of having.
+
+I had everything I ever wanted.
+
+Yet I couldn't sleep a wink.
+
+Instead, Yonagi occupied all my thoughts.
+
+I'm unable to forget her expression, her pained tone, and the tears I made her shed.
+
+Am I in the wrong?
+
+I didn't even know she used to be a midsider.
+
+She never spoke of her family.
+
+It never seemed like she thought of anyone but my mom as her mother.
+
+I only knew that her father named her, and not much more.
+
+I always imagined there was something going on there, since she never spoke of him.
+
+I knew both her parents passed away, but I didn't know anything about their lives.
+
+At least one of them had to have worked in the middle side.
+
+A middle side job...
+
+Maybe as a novelist for the culture preservation center?
+
+A doctor? A researcher?
+
+The more time goes by, the more unanswered questions I have.
+
+I don't think I can surmise anything with so little info. She kept her secrets well.
+
+When morning comes around, I brew myself some coffee.
+
+But strangely enough, the bitter taste does nothing to lift the thick haze that's settled over my mind.
+
+I better try to work and distract myself.
+
+I go into the dreamscape emulator and record my brain waves.
+
+I feel like I'll lose my mind if I just sit here doing nothing.
+
+I vacantly stare at the terminal and choose one of the places from the list for the emulator to rebuild.
+Kaito
+...
+
+It's my home in the lower side, back when Mom was around.
+
+Mom's also there in the dreamscape.
+
+I recall my discussion about the RAS with the professor.
+
+Perhaps the images being conjured up by my brain are what it deems I need to see.
+
+That's fine.
+
+It doesn't matter whether this is reality or not; what does is that I need this space right now.
+
+Mom's right here, in front of my eyes.
+Kaito
+I became a midsider, Mom.
+
+She doesn't stir.
+
+She merely keeps looking out the window.
+Kaito
+I studied hard and became a researcher, and a midsider. They gave me a house in the middle side, Mom.
+
+I'm not the same boy I was when I refused to go to school.
+
+The coward that couldn't talk back to Shachi.
+
+This is the man I wanted Mom to see, so she could be proud of her son.
+
+And yet...
+
+She doesn't turn around to face me. She never will.
+Kaito
+...
+
+I am alive.
+
+Yonagi and I are alive.
+
+We can't keep living in our memories of the past.
+
+There's nothing I love more than feeling near to Mom, like I do right now.
+
+This is important to me.
+
+But we can't live here, can we, Yonagi?
+
+Why can't you understand that?
+
+We're not the only ones being exploited.
+
+I just worked my ass off to get through a door that was open to all.
+
+Why can't you be happy with what I've achieved for us?
+
+Mom keeps on looking out the window.
+Kaito
+...
+
+The decisive difference between this and Yonagi's dreamscape...
+
+Is the fact that I could easily communicate with Mom in her dreamscape. Our joint mental images embodied her, made her more than any one of us could conjure on their own.
+
+The emulator can't do that.
+
+In her dreamscape, Yonagi's the creator, and she can embody whatever she sets her mind to; but there's no such central figure at the heart of this emulator.
+
+If any one individual ego takes over and shapes the image of this world, it all falls to chaos.
+
+But what if multiple participants were to envision the same image at the same time?
+
+Would it be able to embody something in this space? Would there be a need?
+
+I'm not trying to recreate the actual surface perfectly.
+
+The only thing it needs to do...
+
+...is provide a respite for the people. A place where everyone can calmly await their awakening.
+
+Ensuring their comfort must be prioritized over whatever reality is supposed to be.
+
+Mom's pale shadow is here right now because the master data of this space consists of me and Yonagi.
+
+When the amount of data surpasses us and the simulation becomes large enough to simulate the surface, the image we worked so hard to envision will no longer be realized.
+
+If a small number of intense images were embodied through strong emotions of people, it would become like paranormal phenomena popping in and out of existence.
+
+But what if it was an image that many longed for? An idol people used to support themselves?
+
+Could such an existence be embodied in this space?
+
+When many participants enter this space and it starts fulfilling its role, adjusting the parameters of this aspect of it would be almost impossible.
+
+This function of the simulation would make God manifest, so to speak.
+
+When many participants share the same image, that target would be embodied in this space.
+
+In reality, the brain usually performs a process in which it compares a predicted map created from past memories with actual sensory signals.
+
+Perhaps there will be a need to upload data from the participant's brains to some extent.
+
+But as long as the participants can project their own perceived image of the world to contrast it with the base we made, the God manifestation phenomenon can occur.
+
+All I can do right now is improve the accuracy of the emulator.
+
+I continue my work in silence.
+
+By the time the sun begins to set, I assume that the professor won't be showing up.
+
+He said he would be teaching the children today.
+
+I'm sure he's still imparting all those lessons he once gave to me and Yonagi.
+
+There may be a kid among those classes who grows up dreaming about becoming part of his lab, like I did.
+
+I stop by the square on my way home.
+
+The ration line is gone by now.
+
+Yonagi's probably back home in the lower side.
+
+I sit on a nearby bench and stay there for a while, staring at the faces of the people passing by.
+
+It's so strange.
+
+All of the lowsiders gathering here and there...
+
+They all look happier than I've ever been since I became a midsider.
+
+I watch as they end their day of labor.
+
+The hustle and bustle of the middle square sounds to me like it's coming from a whole other world; a world I'm insulated from.
+
+They all hold their silver bowls with such care.
+
+Must be their rations.
+
+I'm sure I have about as much food as them, if not more, in my fridge.
+
+Did Yonagi go back home carrying her rations in the old pot again?
+
+Will Izumo make her porridge today?
+
+I bring a hand to my cheek and touch it idly.
+
+It's the same one Yonagi slapped.
+
+As I touch it, a question pops into my mind.
+
+Why am I dragging my feet? Why is it so hard to go back home?
+
+I don't have to take that awful elevator anymore.
+
+I don't have to wait in line for food anymore.
+
+And I don't have to go perform maintenance in the power generation or factory areas like the rest of the adults.
+
+I just sit there, watching the lowsiders go about their lives.
+
+That's not my place anymore.
+
+I chose not to be one of them.
+
+The house I abandoned Yonagi for is right there. All mine.
+
+...Time to go back.
+
+It's no use sulking here.
+
+I blow out a sigh and get to my feet.
+
+I come back to an empty house.
+
+It's really quiet in here.
+
+I sit at the table.
+
+I don't even have an appetite.
+
+At least, I'm not hungry enough to cook for myself.
+
+I'd rather keep working in the lab if this is what's waiting for me back home.
+
+I worked less efficiently when I was in the lower side.
+
+The commute home was horrible, for example.
+
+I had to move my tools anytime we needed the table for dinner.
+
+I thought I could spend more time researching if I didn't have any of those things eating into my time.
+
+How's that working out for you now, Kaito?
+
+Man, my body feels like a piece of lead. Heavier than it ever did after any of my commutes.
+
+There are so many things I want to think about and solve, but I can't seem to force myself to move.
+
+Is Yonagi having dinner alone, I wonder?
+
+I suppose the day that Yonagi and I start a life together here...
+
+Perhaps there's no such thing anymore...

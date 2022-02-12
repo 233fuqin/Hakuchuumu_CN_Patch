@@ -1,0 +1,1203 @@
+#c02_01_01
+
+	if (#222 == 1) #223 = 1
+	#221 = 1
+	#103 = 2 
+	#101 = 1 
+	if (#223 == 1) #102 = 1 
+	#104 = 0 
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	frameoff
+	wait
+	view 0 case02
+	bgm 0 bgm2_06
+	bg 0 
+	se 1 loop se5454
+	se 2 loop se5449
+	se 3 loop se5445
+	se 4 loop se9013
+	se 1 fade 90 0 70
+	se 2 fade 90 0 100
+	se 3 fade 90 0 20
+	se 4 fade 90 0 60
+	se 6 loop se9014
+	se 6 fade 60 0 50
+	rdraw
+	pcm K_c02_01_001
+ロブ＠？？	「デンマークの城にはな、幽霊が出るんだ。
+	ただの幽霊じゃねぇぜ、王の幽霊だよ」
+
+	rdraw
+	pcm K_c02_01_002
+ロブ＠？？	「この霊がよ、毎晩息子の枕元に立つ訳よ！」
+
+	rdraw
+	pcm K_c02_01_003
+ロブ＠？？	「それでとうとう息子は狂っちまってな……」
+
+	rdraw
+	pcm K_c02_01_004
+ロブ＠？？	「王の座を投げ出して、自分の叔父に譲っちまったらしいのよ。
+	父親から引き継いだせっかくの王座を！」
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	cg
+	eg 5 c_white
+	rwipe w_crl 60
+	wait
+	wait 60
+	eg 5
+	bg 0 bgb01x
+	rwipe w_crl 60
+	wait
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	se 4 end 60
+	se 1 loop se5473
+	se 2 loop se5457
+	se 3 loop se5445
+	se 1 fade 60 0 100
+	se 2 fade 60 0 20
+	se 3 fade 60 0 30
+	bgm 0 bgm2_12
+	eg 2 evc01b,b,a,a,a,a,a
+	eg 3 evc01c,a,a,c
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm K_c02_01_005
+ロブ＠常連１	「これ、デンマークで本当に聞いてきた噂話！
+	どうだウィル、おもしれーだろ！」
+
+	dic_reg 1 2002
+	dic_check_update
+	dic_reset_apend
+	eg 2 evc01b,a,b,c,b
+	rdraw
+ウィル	「……またいつものそれかよ。
+	ウワサならなんでもアリじゃねぇか」
+
+	eg 4 evc01d,a,b,c
+	eg 2 evc01b,c,b,c,b
+	rdraw
+	pcm L_c02_01_001
+エド＠常連２	「それに、死後も彷徨うほど執念深かった先代王に比べて、
+	息子が頼りなさ過ぎませんかね」
+
+	eg 3 evc01c,a,b,c
+	rdraw
+	pcm K_c02_01_006
+ロブ＠常連１	「いや、親子ってそんなもんじゃん。
+	親父が飲んだくれだと息子がしっかりするみたいな……」
+
+	eg 3 evc01c,a,a,e
+	rdraw
+	pcm K_c02_01_007
+ロブ＠常連１	「ほらちょうどお前たちみたいに」
+
+	wait
+	fw 0 spline 10,@,@-30 10,@,@
+	fw 0 cis,1,1,6,4,3
+	rdraw
+	pcm I_c02_01_001
+父親	「誰が飲んだくれだ！」
+
+	fw 0
+	カウンターの一番奥に座っていた父親が吠えた。
+
+	fw 0 shake 30 4 0 7 
+	fw 0 cis,1,1,6,6,2
+	rdraw
+	pcm I_c02_01_002
+父親	「ゲホッ！　ゲホッ！」
+
+	fw 0
+	そして咳き込んだ。
+
+	eg 3 evc01c,a,a,d
+	rdraw
+	pcm K_c02_01_008
+ロブ＠常連１	「無理しなさんな、ご老体」
+
+	fw 0 cis,1,1,4,3,2
+	rdraw
+	pcm I_c02_01_003
+父親	「ウィル、パパむせちゃった。
+	酒くれ、エール」
+
+	dic_reg 1 2021
+	dic_check_update
+	dic_reset_apend
+	fw 
+	eg 2 evc01b,a,d,b,c
+	rdraw
+ウィル	「誰が呑ませるか！　水でも飲んどけ！」
+
+	fw 0 cis,1,1,5,5,2
+	rdraw
+	pcm I_c02_01_004
+父親	「この店は水がまずいんだよ。なぁエド」
+
+	fw 
+	eg 2 evc01b,c,d,a,c
+	rdraw
+ウィル	「てめぇの店だろ！」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_002
+エド	「ふふっ……」
+
+	eg 3 evc01c,a,a,d
+	eg 2 evc01b,c,d,a,c
+	rdraw
+	pcm K_c02_01_009
+ロブ	「馬鹿な親子だ」
+
+	fw 0 shake 30 4 7
+	fw 0 cis,1,1,5,4,3
+	rdraw
+	pcm I_c02_01_005
+父親	「なんだと！？　おいウィル、ロブを殴れ。俺の分まで、思いっきり。
+	殴れ！　さぁ！」
+
+	fw 0 
+	eg 2 evc01b,a,d,a,d
+	rdraw
+ウィル	「いや一応客だから……」
+
+	エドのカップが空になっていたのでそこにエールを継ぎ足した。
+
+	eg 4 evc01d,a,a,b
+	eg 2 evc01b,b,d,a,d
+	rdraw
+	エドが微笑みを浮かべた。
+
+	pcm L_c02_01_003
+エド	「うーん……さっきのロブの話……飲みの席で盛り上がるには今一歩……」
+
+	eg 2 evc01b,a,a,c,a
+	rdraw
+ウィル	「じゃあさ、この前ロブが言ってたオランダのお家騒動とからめれば
+	いいんじゃないのか」
+
+	eg 3 evc01c,a,d,c
+	rdraw
+	pcm K_c02_01_010
+ロブ	「……オランダ？」
+
+	eg 4 evc01d,a,b,c
+	rdraw
+	pcm L_c02_01_004
+エド	「ん……？」
+
+	ロブもエドも首をかしげていた。
+
+	eg 2 evc01b,b,e,a,d
+	rdraw
+ウィル	「ほら、お妃さんが王の弟と浮気してさ、二人で結託して
+	王を殺しちまったって話」
+
+	eg 3 evc01c,a,d,c
+	rdraw
+	pcm K_c02_01_011
+ロブ	「……あったっけ、そんな話」
+
+	eg 2 evc01b,a,e,a,c
+	rdraw
+ウィル	「あったよ！　忘れたのかよ」
+
+	fw 0 shake 30 4 0 -15
+	fw 0 cis,1,1,6,4,3
+	rdraw
+	pcm I_c02_01_006
+父親	「殴れ！　殴っちまえ！」
+
+	fw 
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「親父そのくだり終わってるから静かにしててくれ」
+
+	fw 0 amove3 30 @ @+30
+	fw 0 cis,1,1,3,2,2
+	rdraw
+	pcm I_c02_01_007
+父親	「……」
+
+	fw 
+	親父がうつむいた。
+
+	eg 3 evc01c,a,b,c
+	rdraw
+	ロブがガハハと笑った。
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_005
+エド	「事実ならまだしも、ロブの話はいつも街の噂話ですからねぇ」
+
+	eg 3 evc01c,a,b,e
+	rdraw
+	pcm K_c02_01_012
+ロブ	「いつの話だよ、それ」
+
+	ロブがこちらに身を乗り出しながら言った。
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「……二年前じゃないかな。雨が降ってた日」
+
+	eg 3 evc01c,a,a,e
+	eg 2 evc01b,b,d,a,a
+	rdraw
+	pcm K_c02_01_013
+ロブ	「ウィル、あのな、二年前の飲みの席の話なんて覚えてる訳ないだろうが！」
+
+	fw 0 shake 30 1 0 -15
+	fw 0 cis,1,1,6,2,3
+	rdraw
+	pcm I_c02_01_008
+父親	「そうだ！　こんな親不孝ものは殴っちまえ！」
+
+	fw 0
+	eg 3 evc01c,a,b,d
+	rdraw
+	pcm K_c02_01_014
+ロブ	「旦那、それはあんたの目が見えてるときに自分で散々やっただろ」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「そのとおりだ。おかげでものが忘れられない欠陥品になっちまったよ」
+
+	eg 4 evc01d,a,b,c
+	rdraw
+	pcm L_c02_01_006
+エド	「でもスゴい能力ですよ。もっと他のことに使った方がいい。
+	ロブのウワサを覚えるんじゃなくて」
+
+	eg 3 evc01c,a,b,d
+	rdraw
+	pcm K_c02_01_015
+ロブ	「そうだよ、レシピ覚えるとか」
+
+	eg 2 evc01b,c,d,b,b
+	rdraw
+ウィル	「うるせぇな！」
+
+	eg 4 evc01d,a,b,c
+	rdraw
+	pcm L_c02_01_007
+エド	「……それで？　そのオランダの話と今回のデンマークの話を
+	どうからめるんですか」
+
+	eg 2 evc01b,a,e,a,a
+	rdraw
+ウィル	「つまり、その王は死に際に妻に裏切られたことを知る訳よ」
+
+	fw 0 shake 30 4 7
+	fw 0 cis,1,1,5,2,3
+	rdraw
+	pcm I_c02_01_009
+父親	「最悪な死に方だな！　許せねぇ！」
+
+	fw 
+	eg 2 evc01b,b,e,a,a
+	rdraw
+ウィル	「でも弟とお妃はウマいこと王座に就いちまう訳だ」
+
+	fw 0 shake 30 6 0 -15
+	fw 0 cis,1,1,6,4,3
+	rdraw
+	pcm I_c02_01_010
+父親	「ひとでなし！　天罰があたるぞ！
+	それでもお前は俺の息子か！　恥ずかしい！」
+
+	fw 
+	eg 3 evc01c,a,c,d
+	eg 2 evc01b,c,e,a,a
+	rdraw
+	pcm K_c02_01_016
+ロブ	「旦那、ウィルの話じゃねぇから、ちょっと黙っててくんな」
+
+	fw 0 cis,1,1,4,3,3
+	rdraw
+	pcm I_c02_01_011
+父親	「……」
+
+	fw 
+	eg 2 evc01b,a,e,a,a
+	rdraw
+ウィル	「そんなある日、なにも知らない王の息子のもとに、
+	父親の亡霊が現れる」
+
+	eg 2 evc01b,a,e,a,a
+	rdraw
+ウィル	「そして息子は、父親の亡霊から、実の母への復讐を託される……。
+	って繋がる訳」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_008
+エド	「面白いですね」
+
+	fw 0 cis,1,1,5,1,3
+	rdraw
+	pcm I_c02_01_012
+父親	「それでどうするんだよ、その王子は！」
+
+	fw 
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「……知らん」
+
+	wait
+	fw 0 spline 10,@,@-22 10,@,@
+	fw 0 cis,1,1,6,4,3
+	rdraw
+	pcm I_c02_01_013
+父親	「なんでだよ！」
+
+	fw 
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「今考えたんだもん」
+
+	eg 4 evc01d,a,a,c
+	eg 2 evc01b,c,d,a,a
+	rdraw
+	pcm L_c02_01_009
+エド	「不貞を働いた上に夫を殺した実の母への復讐か……。
+	血なまぐさくなりそうですね」
+
+	eg 3 evc01c,a,d,d
+	rdraw
+	pcm K_c02_01_017
+ロブ	「なに、今の世情にあってるってもんだよ。
+	エドならよく知ってる……だろ？」
+
+	eg 4 evc01d,a,a,b
+	rdraw
+	pcm L_c02_01_010
+エド	「……そうですね」
+
+	eg 2 evc01b,b,d,a,a
+	rdraw
+ウィル	「あぁそうか、エドは劇場で働いてるんだっけ」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_011
+エド	「はい。人気の作品には必ず血みどろのシーンがありますよ」
+
+	eg 3 evc01c,a,b,d
+	rdraw
+	pcm K_c02_01_018
+ロブ	「流行なのか、作家のクセなのか」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_012
+エド	「両方でしょうね。でも連日超満員ですよ。
+	スコーンも飛ぶように売れる」
+
+	dic_reg 1 2016
+	dic_check_update
+	dic_reset_apend
+	eg 3 evc01c,a,b,e
+	rdraw
+	pcm K_c02_01_019
+ロブ	「さすがはテンブリッジ一の人気劇場だな」
+
+	dic_reg 1 2001
+	dic_check_update
+	dic_reset_apend
+	eg 4 evc01d,a,a,b
+	rdraw
+	pcm L_c02_01_013
+エド	「でも、ウィルもきっといいものが書けますよ。
+	もしかしたらリリー座のお抱え作家にも勝てるかも」
+
+	dic_reg 1 2003
+	dic_check_update
+	dic_reset_apend
+	eg 3 evc01c,a,b,d
+	rdraw
+	pcm K_c02_01_020
+ロブ	「よし！　じゃあおれももっと面白い話を山ほど仕入れてきてやるよ！」
+
+	eg 2 evc01b,a,d,a,a
+	rdraw
+ウィル	「いや余計な物仕入れてないで本業に集中しろよ」
+
+	eg 3 evc01c,a,c,d
+	rdraw
+	pcm K_c02_01_021
+ロブ	「なんだと、このやろ、もう卸さねぇぞ！
+	うちから仕入れたのそのまま看板メニューにしてるくせに！」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「盛り付けにこだわってるんだって」
+
+	eg 3 evc01c,a,c,e
+	rdraw
+	pcm K_c02_01_022
+ロブ	「切って乗せてるだけじゃねぇか！　あー卸さない、もう卸さないね、決めた」
+
+	eg 4 evc01d,a,a,a
+	rdraw
+	pcm L_c02_01_014
+エド	「この店からニシンの塩漬けがなくなったらジャガイモしか残らないですね」
+
+	dic_reg 1 2005
+	dic_check_update
+	dic_reset_apend
+	dic_reg 1 2006
+	dic_check_update
+	dic_reset_apend
+	eg 2 evc01b,a,d,b,a
+	rdraw
+ウィル	「なに、スープもある」
+
+	eg 3 evc01c,a,d,e
+	rdraw
+	pcm K_c02_01_023
+ロブ	「スープで酒が飲めるか！　腹タプタプになるわ！
+	なんで温かい食いモンがスープしかないんだよ！」
+
+	eg 2 evc01b,c,d,b,a
+	rdraw
+ウィル	「それしか作れねんだもん」
+
+	eg 3 evc01c,a,c,d
+	rdraw
+	pcm K_c02_01_024
+ロブ	「何年やってるんだよ、向上心を持て！　お前の店だろうが！」
+
+	eg 2 evc01b,c,d,a,a
+	rdraw
+ウィル	「店主は親父だ」
+
+	fw 0 cis,1,1,2,2,1
+	rdraw
+	pcm I_c02_01_014
+父親	「もう飾りだけどな」
+
+	fw 0
+	eg 3 evc01c,a,c,d
+	rdraw
+	pcm K_c02_01_025
+ロブ	「飾りならもう少し大人しくしてろよ旦那」
+
+	eg 2 evc01b,c,a,a,a
+	rdraw
+ウィル	「うんうん」
+
+	fw 0 shake 50 4 22
+	fw 0 cis,1,1,6,2,3
+	rdraw
+	pcm I_c02_01_015
+父親	「静かにして欲しければ酒を飲ませろ！」
+
+	fw 
+	eg 2 evc01b,c,b,a,a
+	rdraw
+ウィル	「脅迫かよ」
+
+	eg 3 evc01c,a,b,e
+	rdraw
+	pcm K_c02_01_026
+ロブ	「なんにしても華がない、華がないんだよこの店は。
+	なぁ、客としてそう思うだろ」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_015
+エド	「でも、ウィルは美青年ですからね。
+	見ていて不快にはならないですよ」
+
+	eg 3 evc01c,a,b,d
+	rdraw
+	pcm K_c02_01_027
+ロブ	「……ようウィル、お前女装でもしたらどうだ。
+	たしかに顔はきれいじゃないの」
+
+	eg 4 evc01d,a,a,c
+	rdraw
+	pcm L_c02_01_016
+エド	「声も高いですしね」
+
+	fw 0 shake 50 1 0 30
+	fw 0 cis,1,1,5,2,3
+	rdraw
+	pcm I_c02_01_016
+父親	「そうだよ、なんでお前息子なんだよ。
+	お前が娘だったらよかったんだよ」
+
+	fw 
+	eg 2 evc01b,a,c,a,a
+	rdraw
+ウィル	「無茶苦茶言ってくれるな」
+
+	eg 3 evc01c,a,b,d
+	eg 2 evc01b,b,c,a,a
+	rdraw
+	pcm K_c02_01_028
+ロブ	「よし、今度スペンサー一座から衣装もらってきてやる！
+	背丈もお前と同じくらいだ」
+
+	eg 3 evc01c,a,a,c
+	rdraw
+	pcm K_c02_01_029
+ロブ	「スペンサーのとこは全然客入ってないから、すぐ衣装くれるよ、たぶん！」
+
+	dic_reg 1 2012
+	dic_check_update
+	dic_reset_apend
+	eg 2 evc01b,a,b,c,c
+	rdraw
+ウィル	「イヤだよ！　おまえらがもっと店に貢献すれば女雇えるだろうが！
+	飲め！　食え！　バカ！　バーカバーカ！」
+
+	eg 3 evc01c,a,a,c
+	eg 2 evc01b,c,b,c,c
+	rdraw
+	pcm K_c02_01_030
+ロブ	「おい旦那、客にバカとか言ってる。
+	しつけがなってないんじゃないのか」
+
+	fw 0 cis,1,1,7,3,3
+	rdraw
+	pcm I_c02_01_017
+父親	「殴ってイイヨ」
+
+	fw 
+	eg 2 evc01b,a,d,c,c
+	rdraw
+ウィル	「てめぇは暴力をカジュアルに考えすぎなんだよ！」
+
+	eg 4 evc01d,a,a,b
+	eg 2 evc01b,c,d,c,c
+	rdraw
+	pcm L_c02_01_017
+エド	「まぁこの自由な空気も、店主らしくていいじゃないですか」
+
+	eg 3 evc01c,a,b,c
+	rdraw
+	pcm K_c02_01_031
+ロブ	「よぅし、そこまで言うならこの店に貢献してやろうじゃねぇか！
+	ウィル！　コップを持て！　先に倒れたほうの負けだ！」
+
+	eg 2 evc01b,a,e,c,c
+	rdraw
+ウィル	「のぞむところ！」
+
+	fw 0 shake 20 1 0 -30
+	fw 0 cis,1,1,6,2,3
+	rdraw
+	pcm I_c02_01_018
+父親	「あ、イイナァ！　パパも飲みたいよぅ！」
+
+	fw
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	se 3 end 60
+	frameoff fade
+	wait
+	wait 30
+	cg
+	eg 5 c_black
+	rwipe w_time 60
+	wait
+	wait 30
+	bgm 0 bgm2_03
+	se 1 loop se5473
+	se 2 loop se5452
+	se 3 loop se5445
+	se 1 fade 60 0 40
+	se 2 fade 60 0 20
+	se 3 fade 60 0 50
+	eg 2
+	eg 3
+	eg 4
+	bg 0 bgb01c
+	eg 5
+	rwipe w_time 30
+	wait
+	馴染みの客たちで賑わう店内。
+
+	カウンターに立つのがおれ一人になってからもう何年経っただろうか。
+
+	気さくな馴染み客のお陰で、苦手な接客にも大分慣れた。
+
+	大盛況の店ではないから一人でも充分まわせる。
+
+	そのために店のメニューも大分絞り込んである。
+
+	常連からの文句も店の花だ。
+
+	今日も一日が終わった。
+
+	親父は定位置となっているカウンターの一番奥の席で
+	机に突っ伏していた。
+
+	cg 1 ckm,1,1,1,1,1
+	rdraw
+	pcm K_c02_01_032
+ロブ	「――おい、ウィル」
+
+	看板をしまっていると、店に最後まで残っていた常連客のロブに声をかけられた。
+
+	ロブが最後まで居座るときの用件はいつも決まっている。
+
+ウィル	「なんだよ。看板だぞ、もう」
+
+	cg 1 shake 30 4 7
+	cg 1 ckm,1,1,3,1,1
+	rdraw
+	pcm K_c02_01_033
+ロブ	「――いやいや。またあれを頼みたいのよ」
+
+ウィル	「……またかよ。そんなに人手不足なのか。テンブリッジだぞ、ここ」
+
+	cg 1 ckm,1,1,3,3,1
+	rdraw
+	pcm K_c02_01_034
+ロブ	「そりゃ書きたがる奴なんて掃いて捨てるほどいるよ。
+	でも観客が喜ぶものを書ける奴は数えるほどしかいねぇ」
+
+ウィル	「へぇ」
+
+	cg 1 ckm,1,1,3,1,1
+	rdraw
+	pcm K_c02_01_035
+ロブ	「喜劇でも悲劇でもいいからよ」
+
+ウィル	「書くのはいいけどさ、ろくに仕込み時間もとれなくなるわけさ。
+	わかる？　いいのか、ずっと芋とスープで」
+
+	cg 1 ckm,1,1,3,3,1
+	rdraw
+	pcm K_c02_01_036
+ロブ	「いいよいいよ、仕込もうが仕込まなかろうが、どうせ素人料理だろ」
+
+ウィル	「失礼な！」
+
+	cg 1 ckm,1,1,3,4,2
+	rdraw
+	pcm K_c02_01_037
+ロブ	「どうせだったら才能あるほうに時間つかえよ」
+
+ウィル	「ねぇよ才能なんて」
+
+	cg 1 shake 30 4 7
+	cg 1 ckm,1,1,3,1,2
+	rdraw
+	pcm K_c02_01_038
+ロブ	「いやいや、少なくとも料理よりはセンスあんだからよ」
+
+	cg 1 ckm,1,1,3,3,2
+	rdraw
+	pcm K_c02_01_039
+ロブ	「謝礼も前回のに上乗せするように言っとくよ、な？
+	いいだろ？」
+
+ウィル	「……」
+
+	bg 0 
+	cg 
+	pl 0 scale 150% 150%
+	bg 0 bgb01c
+	cg 2 cil,1,1,1,5,4
+	rwipe w_lr 30
+	wait
+	視線を店の奥に向ける。
+
+	カウンターでうとうとしている親父の姿が目に入った。
+
+	bg 0 
+	cg 
+	pl 0 scale 100% 100%
+	bg 0 bgb01c
+	cg 1 ckm,1,1,1,1,1
+	rwipe w_rl 30
+	wait
+ウィル	「……着手金もくれ。今夜から書くよ」
+
+	cg 1 shake 20 1 0 -30
+	cg 1 ckm,1,1,3,3,1
+	rdraw
+	pcm K_c02_01_040
+ロブ	「よっしゃ！　やったぜ！
+	……でな、来週には稽古に入りたいんだと」
+
+ウィル	「……２日しかねぇじゃねぇか！」
+
+	pl 1 shake 14 3 0 3
+	cg 1 ckm,1,1,3,3,3
+	rdraw
+	pcm K_c02_01_041
+ロブ	「ははは」
+
+ウィル	「ははは、じゃねぇんだよ！
+	この前より短いじゃねぇかよ！」
+
+	cg 1 ckm,1,1,3,1,2
+	rdraw
+	pcm K_c02_01_042
+ロブ	「だってほら、今日の話のアレ、
+	デンマーク王の亡霊のやつ、アレでいいじゃん」
+
+	cg 1 shake 50 1 0 22
+	cg 1 ckm,1,1,3,3,2
+	rdraw
+	pcm K_c02_01_043
+ロブ	「そのアイデア、形になるって、うん。
+	続き気になるもん」
+
+ウィル	「悲劇は二日じゃ無理だって」
+
+	cg 1 ckm,1,1,3,1,2
+	rdraw
+	pcm K_c02_01_044
+ロブ	「喜劇にしてくれてもいいよ？」
+
+ウィル	「父親を殺した実の母親への復讐劇をどうやって喜劇にしろってんだよ」
+
+	cg 1 ckm,1,1,3,2,1
+	rdraw
+	pcm K_c02_01_045
+ロブ	「ウィルよ……限界ってのはよ、越えるためにあるんだと
+	俺は思うんだよ」
+
+ウィル	「物理的な限度ってもんがあるだろうが！
+	店を閉める訳にはいかないんだからな」
+
+	cg 1 shake 30 1 0 15
+	cg 1 ckm,1,1,4,3,1
+	rdraw
+	pcm K_c02_01_047
+ロブ	「大丈夫だよ、いけるって、寝なければ！」
+
+ウィル	「それがたらふく酒飲ませやがったやつの言うことか！」
+
+	cg 1 shake 30 4 0 -15
+	cg 1 ckm,1,1,4,3,1
+	rdraw
+	pcm K_c02_01_048
+ロブ	「ほい、着手金！　とりあえず半金！
+	じゃ！　よろしくな！」
+
+ウィル	「あ！　おい、こら！」\@
+	wait 30
+	se 0 se2025
+	pl 1 fade 30 255 0
+	pl 1 amove1 15 @-45
+	\n
+
+ウィル	「二日だぁ……？」
+
+	後頭部をかきながら右手を開く。
+
+	se 0 se4028
+	握らされた硬貨が小さな金属音をたてた。
+
+	しばらく三枚の硬貨を見つめてから、それを机におく。
+
+ウィル	「書くしかない、か……」
+
+	視線を親父に移し、丸まった背中を叩く。
+
+ウィル	「おつかれさん。上で寝てていいから」
+
+	pl 0 scale 125% 125%
+	pl 1 fade 30 0 255
+	pl 1 pos 960 540
+	cg 1 cil,1,1,2,2,1
+	rdraw
+	pcm I_c02_01_019
+父親	「ん……あぁ、ウトウトしていた。すまんな」
+
+	pl 0 scale 100% 100%
+	cg 1 cim,1,1,2,2,1
+	rdraw
+	立てかけてあった白杖を手渡してから父の手をとり、
+	二階に続く階段に向かう。
+
+ウィル	「ロブが長居したからな。明日の仕込みはおれがやっとく」
+
+	cg 1 cim,1,1,4,2,4
+	rdraw
+	pcm I_c02_01_020
+父親	「また脚本を頼まれたのか」
+
+ウィル	「まぁな」
+
+	cg 1 shake 50 1 0 22
+	cg 1 cim,1,1,5,2,2
+	rdraw
+	pcm I_c02_01_021
+父親	「やはり才能は遺伝してしまうんだな、すまん」
+
+ウィル	「いやお前一文字も書いたことないだろ」
+
+	cg 1 cim,1,1,5,6,1
+	rdraw
+	pcm I_c02_01_022
+父親	「いつか書いてもいいかなって思ってた。いや、今でも思ってる」
+
+ウィル	「そのいつかはずっとこないから安心しろ」
+
+	cg 1 shake 30 1 0 -22
+	cg 1 cim,1,1,5,4,3
+	rdraw
+	pcm I_c02_01_023
+父親	「けっ！　ちょっと書けるからって！」
+
+ウィル	「たしかにテンブリッジの劇団に脚本が書けるなんて光栄だよ。
+	好きでやってるんだ。店に迷惑はかけないよ」
+
+	cg 1 shake 30 2 15
+	cg 1 cim,1,1,5,5,4
+	rdraw
+	pcm I_c02_01_024
+父親	「……いや、もうお前の店だ、好きにしろよ」
+
+ウィル	「店主はあんただろ」
+
+	cg 1 cim,1,1,3,2,1
+	rdraw
+	pcm I_c02_01_025
+父親	「ただののんだくれだよ、盲目のな」
+
+	frameoff fade
+	wait
+	wait 30
+	cg
+	bg 0 bgb01c
+	pl 0 scale 120% 120%
+	pl 0 pos @+60 @+0
+	pl 0 m2move 3000 @-120
+	rdraw 30
+	se 0 se2010
+	父がとおる導線にはなにもおかない。
+
+	父にとっては勝手知ったる店だ。
+
+	閉店後、荒れた席を定位置に戻してやれば、
+	杖を使って父は器用に歩く。
+
+	慣れるまでは大変だったが、今となっては人間の適応力に驚かされる。
+
+	fw 1 cis,1,1,1,1,1
+	rdraw
+	pcm I_c02_01_026
+父親	「先に寝るよ」
+
+	fw
+ウィル	「あぁ、おやすみ」
+
+	fw 1 cis,1,1,3,2,4
+	rdraw
+	pcm I_c02_01_027
+父親	「おやすみ。あんま無理すんなよ」
+
+	fw
+	se 0 loop se1083
+	父がゆっくりと階段をあがっていく。
+
+	se 0 end 120
+	pl
+	se 0 se4028
+	rdraw
+ウィル	「……」
+
+	今日の売上げを机に広げる。
+
+	今月も赤字か。
+
+	さっきロブにもらった着手金をそこに足しても
+	まだ足りない。
+
+	この金もすべて、明日の開店前の支払いでなくなる。
+
+	ため息をついて前髪をかきあげた。
+
+	女装したくらいで客足が伸びるなら本当にそうしたいくらいだ。
+
+	これじゃあ、父親に真っ当な食事もさせてやれない。
+
+	誰もいなくなった酒場で、おれはもう一度ため息をついた。
+
+	frameoff
+	eg 5 f_cine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	――いや、浸っている場合じゃない。
+
+	稼がないことには生きていけない。
+
+	立ち上がり、カウンターに立って、残り物で
+	父親の朝食と自分の夜食を作りながら、頭の中で脚本のことを考えた。
+
+	時間はない。
+
+	既に書いたストックか、あるいは書きかけのものをまとめるか。
+
+	どちらかしかない。
+
+	カウンターに立ちながら聞いた話を思い返す。
+
+	frameoff
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg  
+	eg 
+	fg 
+	eg 5 f_kaisou
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	frameoff
+	wait
+	view 0 case02
+	bg 0 mode sepia
+	bg 0 bgb01x
+	eg 2 mode sepia
+	eg 3 mode sepia
+	eg 4 mode sepia
+	eg 2 evc01b,b,a,a,a,a,a
+	eg 3 evc01c,a,a,c
+	eg 4 evc01d,a,a,c
+	rdraw 60
+	この場所には色々なところから、色々な人間がやってくる。
+
+	おれにとっては図書館のような場所だ。
+
+	過去に聞いて、驚いた話。
+
+	呆れた話、泣けた話。
+
+	色々な話を思い返す。
+
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg  
+	eg 
+	fg 
+	eg 5
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	bg 0 bgb01c
+	eg
+	rdraw 60
+	父の朝食を鍋にいれておき、皿に乗せた自分の夜食を手に持つ。
+
+	bg 0 bgb01d
+	rdraw 30
+	酒場の照明を吹き消し、おれは二階に続く階段をのぼった。
+
+	frameoff
+	wait
+	wait 30
+	pl
+	cg
+	eg 5 c_black
+	rwipe w_tb 60
+	wait
+	wait 0
+	eg 5
+	bg 0 bgb03c
+	rwipe w_tb 60
+	wait
+	bgm 0 end 60
+	se 1 loop se5474
+	se 2 loop se5445
+	se 1 fade 60 0 80
+	se 2 fade 60 0 40
+	bgm 0 bgm2_17
+ウィル	「……デンマーク王、か……」
+
+	机に向かい、羽ペンをぼんやりと見つめる。
+
+	今日、ロブが話していた内容を考えた。
+
+	亡霊、暗殺劇、親殺し――
+
+ウィル	「……まとまらないよな……」
+
+	面白い話になる予感はある。
+
+	だが、絶対に二日ではまとまらない。
+
+	se 0 se4041
+	本棚から羊皮紙を取り出し、書きかけのものをいくつか手にとる。
+
+	選り好みはしていられない。
+
+	金がないんだ、書くしかない。
+
+ウィル	「……二日で稽古入り……」
+
+	金がなければ時間もない。
+
+	まずはなにを書くかを決めてしまわないといけない。
+
+	いくつか書きかけの原稿を読み直すと、
+	その話を聞いたときの光景が脳裏に浮かび上がってきた。
+
+	英仏戦争、三人の姫の内紛、古代ローマの政治劇――
+
+	テンブリッジは近隣諸国まで足を伸ばしている
+	商人のハブにもなっている。
+
+	土地の特性に恵まれていると、改めて感じた。
+
+	その中の一つに目がとまった。
+
+	se 0 se4220
+ウィル	「あぁ……あったなこんな話。これも……」
+
+	記憶を辿る。
+
+ウィル	「……ロブだな。いっつもウワサ話ばっかしてんだなあいつはホントに」
+
+	frameoff
+	wait
+	wait 30
+	pl
+	cg
+	eg 5 c_black
+	rwipe w_bt 60
+	wait
+	wait 0
+	eg 5
+	bg 0 bgb90a
+	rwipe w_bt 60
+	wait
+	二人の男、二人の女。
+
+	こんがらがる恋模様。
+
+	たしか、ロブがイタリアで聞いてきた話だ。
+
+ウィル	「これなら、いけるかもしれないな……」
+
+	コンセプトはキャッチーで、話の展開は明快。
+
+	みんながあらすじから期待するコメディのシーンも作りやすい。
+
+ウィル	「これにするか」
+
+	おれは机に向かい、ペンを手に取った。
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait
+	wait 30
+	bgm 0 end 100
+	cg
+	pl
+	eg
+	bg
+	rwipe w_tb 100
+	wait
+	wait 100
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c02_01_02

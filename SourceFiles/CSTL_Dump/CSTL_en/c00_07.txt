@@ -1,0 +1,2350 @@
+﻿Kaito
+...
+
+The hologram smiles at me gently.
+Kaito
+Yonagi and I...
+Kaito (Hologram)
+Yeah, we married. Though it took quite a while.
+Kaito
+A memory disorder, huh?
+
+A man who can't forget anything, and a woman who would some day lose her memory.
+
+Kind of ironic we ended up married.
+Kaito (Hologram)
+Those were the happiest days of my life.
+Kaito (Hologram)
+We decided to make the most of every day, and that's what we did. Day by day, sharing our happiness together.
+Kaito (Hologram)
+Even now, those days shine bright in my memory.
+Kaito
+...
+
+I nod in response.
+
+I believe I understand.
+
+My memories are coming back.
+
+Memories of newlywed life with Yonagi come back to me, as vivid and clear as the day they happened.
+
+We had already been living together for years, so nothing really changed.
+
+But we swore not to waste a single day together.
+Kaito (Hologram)
+That's when I... When I became aware of my duty.
+Kaito (Hologram)
+To make migration to the virtual space a reality.
+Kaito (Hologram)
+I believed it would save Yonagi.
+Kaito (Hologram)
+I believed that, back then...
+Kaito
+I've remained dedicated to research and development of the virtual space since my days at Asuma Lab.
+Kaito
+It will serve as a temporary measure to conserve resources until life on the surface can be achieved; a respite until a fundamental solution to the problem is invented.
+Kaito
+You may not be aware of this, since you are all middle side citizens, so I won't mince words.
+Kaito
+Life is brutal for the people on the low side. I still live in the area, so I know.
+
+Faint murmurs spread throughout the classroom.
+Kaito
+The day will come when humans stand once more under the sun and feel the wind upon our faces. When we're there standing on firm ground and looking up at the sky...
+Kaito
+This simulated space will no longer be necessary.
+Kaito
+I also believe that this will help prepare the general public for the migration and eventual resettling on the surface.
+Kaito
+Some favor achieving this through environmental changes, like expanding the ozone lens. Others favor a physiological approach, changing our own biology.
+Kaito
+I believe that either of these solutions would take at least three decades of research to come to fruition.
+Kaito
+On the other hand, creating the virtual space would take just three years.
+Kaito
+With the Kaito Lab handling the program's architectural algorithms, and Asuma Lab developing the stasis facilities for our physical bodies...
+Kaito
+...over ninety percent of the population would be able to migrate to the virtual space in just three years. The solution is available to anyone who can dream.
+Kaito
+In other words, anyone with consciousness.
+Kaito
+There are very few health conditions that could pose a problem to entry. All sensory information associated with normal, everyday life is directly sent to the user's brain.
+Kaito
+Everyone here is free to take a trial run of the virtual space today. We will induce REM sleep and enable you to move about freely in an environment prepared for the occasion.
+Kaito
+Go to the Kaito Lab on the second floor if you want to try it.
+
+I can feel the audience's excitement growing as I speak.
+
+They're reaching the limits of their attention span.
+Kaito
+Finally, I'd like to remark that the separation of the Kaito Lab from the Asuma Lab was done in service of the plan's overall efficiency.
+Kaito
+I assure you that there is no animosity between teacher and pupil, despite what rumors might suggest.
+
+I hear a few chuckles from the audience.
+Kaito
+Both labs are fully committed to research and development of the virtual space until such time as the migration plan is realized.
+Kaito
+That's the extent of the trust both laboratories are putting on this plan.
+Kaito
+That's all for now. A question and answer session will be held after the demonstration.
+Kaito
+Thank you all for your time and presence here today.
+Yonagi
+Hey there, Professor!
+Iruma
+You rocked it back there!
+Kaito
+Ah, thanks.
+Yonagi
+You were looking pretty cool, tiger!
+Iruma
+I didn't expect anything less than stellar, of course!
+
+I manage a smile back at them.
+Asuma
+Truly an awe-inspiring display. However, three years is a rather optimistic deadline, if you ask me.
+Kaito
+The people will prefer a bold three-year plan that gets postponed to five to a timid ten-year plan that gets done in eight.
+Asuma
+But a bold three-year plan that gets done in three would be preferable, right?
+Kaito
+Indeed.
+
+I let out a small laugh.
+
+And so, the first research presentation since the founding of Kaito Lab comes to a satisfactory conclusion.
+
+I hear I'm the youngest lab director in the institute's history.
+
+It's true that I've worked hard every day since joining Asuma Lab. I can take rightful pride in the work that I've done.
+
+But luck was still the biggest factor in my success.
+
+The once promising Asuma Lab had been stagnating at the time that I joined them.
+
+It meant that my achievements stood out more than they would have otherwise.
+
+Yonagi was also a huge factor in my success.
+
+After we married, we decided to tell professor Asuma about her power.
+
+She said she wanted to be a part of my research.
+
+Her words had given me the courage to pursue what I believed in.
+
+They lit a fire under my discussions with the professor.
+
+She gave us a true vision of the virtual space we were shooting for.
+
+Once the three of us started tackling the development of the dreamscape emulator together, things picked up steam.
+
+\\f-9;And before I knew it, the lab was too small for all of us. We made the decision to separate and let Asuma Lab focus on developing the hardware, while the newly established Kaito Lab would be in charge of building up the software.
+
+That's when I called on Iruma. He came just as he promised, becoming my right-hand man and chief of research.
+
+\\f-7;We found that the efficiency of the data collection process increased when Yonagi was building the virtual spaces, and we also learned that the state of the dreamscape changed depending on her mental state.
+
+I'd come to think that her dreamscapes were built on something like a feeling of empathy towards those she brings into it.
+
+So the concept of my research became “an empathic virtual world.”
+
+I used that concept as my true north, and it came to the rescue several times when I hit a snag.
+
+The purpose of the current build is to reproduce the ambiguity of the human brain.
+
+Up to three people can share the same space now.
+
+Suffice to say, we still have a long road ahead of us.
+
+But we're moving forward, and every day feels fulfilling.
+Asuma
+I must say, that was the most inspiring research presentation in recent memory. I see we've been needing the passion that only the youngest ever lab director can muster.
+Kaito
+You're gonna make me blush if you keep calling me that, Institute Director.
+Asuma
+Ah, I see what you mean, heh. All right.
+
+My emphasis on his newly regained title gets a chuckle out of him.
+
+After a few years relegated to the institute's bottom rung, he's now back to his position as its director.
+Asuma
+Are you taking off from standard business today?
+Kaito
+Yeah, everyone was up all night preparing for this.
+Iruma
+We'll probably be back tomorrow though.
+Kaito
+Yeah.
+
+Professor Asuma nods at us.
+Asuma
+So the trials to support larger groups come next, yes?
+Kaito
+Yeah. The emulator still struggles with three, so our next task is gathering lots observational data from larger numbers of people.
+Asuma
+Are you feeling up to it, Yonagi?
+Yonagi
+Yep, I'm fit as a fiddle. I'm actually more worried about Kaito. He barely gets a wink of sleep these days!
+Kaito
+I sleep. It's just that I do it while no one's looking.
+Yonagi
+Sounds pretty suspect to me.
+Asuma
+How about taking the day to relax? No man should make their wife worry like that.
+Iruma
+Yeah! We're definitely not making that three year deadline if you work yourself to death!
+Yonagi
+You heard them!
+Kaito
+Mm, I suppose you're right.
+Asuma
+Let us discuss our future plans tomorrow. Could you drop by my office in the morning?
+Kaito
+All right.
+Asuma
+But please take today to celebrate your accomplishment.
+Yonagi
+Ah! Wait! Can I ask you two to do something for me?
+Yonagi
+Um, would you mind if we take a picture together?
+Asuma
+A picture?
+Iruma
+Oh! Sounds like fun! Let's do it!
+Yonagi
+It's a big day for my husband, so I want something to remember it by!
+
+Her words bring an awkward smile to my face.
+Yonagi
+Or are you in a hurry, Professor?
+Asuma
+Perish the thought. It would be my honor.
+
+Yonagi produces a familiar polaroid camera from her bag.
+Kaito
+You want to do it today?
+Yonagi
+Yeah, seems like our only chance.
+Asuma
+Ah, that brings back memories!
+
+The professor's gaze is fixated on the camera she's holding.
+Asuma
+That's the same one Shiona used, yes?
+Yonagi
+Yes. I'm taking pictures with it, the same way I think my father would have.
+Asuma
+That's good.
+Iruma
+It's a special occasion, so let's put you two in the middle of the shot! Hey, can someone lend me a hand?
+
+One of our colleagues at Kaito Lab comes over and takes the camera from Yonagi.
+Iruma
+Come on now, Mister Awkward! Move in closer to your wife!
+Iruma
+You too, Professor! C'mon!
+Yonagi
+This is great! Press the shutter button, please!
+Yonagi
+Goodie!
+Kaito
+Thank you.
+
+The researcher promptly hands the picture spat out by the camera and the camera itself back to Yonagi.
+Asuma
+I trust you know how much of a rarity that polaroid camera is.
+Yonagi
+Don't I know it! I can't get my hands on film, so I only use it in special occasions.
+Iruma
+Really? Are you sure you wanted me in the picture, then?
+Yonagi
+Of course! You and Professor Asuma are all Kaito talks about at home.
+Iruma
+Oh? Now that's made my day! No, maybe my lunch!
+Yonagi
+Only lunch?
+Asuma
+Your lab has a good energy, Kaito. I see promise here.
+Kaito
+It's all thanks to you, Professor.
+
+The two of us look over the bustling lab.
+
+This was originally his lab.
+
+We shared a lot of time here, just the two of us, discussing and running experiments.
+
+And now it's positively crowded.
+
+I wonder if he's as moved as I am by the sight.
+Asuma
+Well then, I'll be taking my leave. Take care, Yonagi.
+Yonagi
+Yes, thank you!
+Kaito
+Can I leave you in charge for a bit?
+Iruma
+Yeah, there's not much to do today. We'll make sure things are back in shape for business as usual tomorrow.
+Iruma
+Go and take the day off. You need the rest, for real.
+Yonagi
+You tell him! He really worries me sometimes.
+Kaito
+Okay, I got the message. See you all tomorrow.
+
+The researchers turn to me and nod or wave me off.
+Kaito
+Let's go, Yonagi.
+Yonagi
+Yeah! See you all tomorrow!
+
+After parting with the professor in front of the institute, he heads for the researcher residential area, while we board the elevator to the low side.
+
+Even now, we walk the same dirt roads.
+
+The same path between the corn fields to get back home.
+
+We get off the central elevator and walk side by side, hands locked together.
+Yonagi
+Director Kaito, of Kaito Lab.
+Kaito
+Don't start, please.
+Yonagi
+Ahahah! You're just amazing! You're climbing up the ranks so fast.
+Kaito
+It's only thanks to you.
+Yonagi
+Mm?
+Kaito
+Ever since you started actively helping with the research, the progress has been staggering.
+Yonagi
+I mean, you did accept me. Despite everything.
+Kaito
+Mhm.
+
+Yonagi takes one of my hands in both of hers and holds it tight.
+Yonagi
+Seeing you working so hard, I started feeling like I wanted to make a difference too.
+Yonagi
+Whatever I did, I wanted to do it with you. And your research is sort of like a continuation of my father's anyway...
+
+Yonagi then pulls out the picture from earlier and flaps it a few times in the air before taking a look.
+
+It depicts the four of us with broad smiles on our faces.
+Yonagi
+It just felt like a natural development for me, I guess.
+Kaito
+Thanks for that.
+Yonagi
+But the biggest reason is still that it lets me be with you for a few more hours during the day.
+Kaito
+...
+
+No matter how many years we've been married, she's still able to make me blush.
+
+My feelings for her have remained as strong as ever.
+
+The more memories we make together, the more I grow to love everything about her.
+
+But I still have trouble saying it out loud.
+
+I'm always so impressed by how easily she expresses her feelings.
+Yonagi
+I still kind of miss working up a good sweat with physical work, though.
+Kaito
+But you're still working to help the city.
+Kaito
+And you're doing something only you can do. I think it's very noble.
+Yonagi
+Yeah, I guess you're right.
+
+We walk for a while, hearing the crunch of the soil beneath our shoes.
+Kaito
+...You sure about that picture, though?
+Yonagi
+Mm?
+Kaito
+It was the last, wasn't it?
+
+She looks up at me, visibly confused.
+Yonagi
+How did you know?
+Kaito
+The encyclopedia entry for polaroid cameras says that most of the film for them came in sets of eight.
+Kaito
+And there's seven pictures in your room, so...
+
+Yonagi gives me an exasperated smile.
+Yonagi
+Man, that memory of yours really is unparalleled.
+Kaito
+It's not all roses though.
+Yonagi
+But I can't keep much from you, can I? You take one look at something and never forget!
+Yonagi
+You'd totally realize if I started cheating or something.
+Kaito
+Yeah, I would totally see through that.
+Yonagi
+Ahahah! Not that I ever would!
+Kaito
+I know.
+
+She stares at the picture for a while.
+Yonagi
+I thought today would be a good time for it.
+Kaito
+Mhm.
+Yonagi
+I figured if we were going to take one with those two who mean so much to us, it had to be today.
+Yonagi
+It's a really happy day for me too, you know?
+Yonagi
+So the camera's done its part, and now it can rest. That's fine.
+Kaito
+I see.
+Yonagi
+Yeah! I think it was great to use the last picture on such a happy moment.
+
+She beams up at me as she speaks.
+
+I return the smile in kind.
+
+And so, we head back home to where Izumo is waiting.
+Yonagi
+We're back!
+Kaito
+Hello there.
+Izumo
+Welcome home.
+Yonagi
+Kaito's presentation went super well! Right?
+Kaito
+Yeah, I managed not to screw it up.
+Izumo
+That's good news.
+Yonagi
+But all that work's left me famished!
+Izumo
+Shall I prepare dinner early?
+Kaito
+No, first we run the tests. Yonagi, sit down.
+Yonagi
+Huh? But it's your big day! Can't we skip it?
+Kaito
+That's irrelevant. Izumo, if you will.
+Izumo
+Understood.
+Izumo
+Display activated. Please tell how many boxes you see.
+Yonagi
+Mmh... Uh... Nine.
+Izumo
+I shall display the next image. Please tell me how many boxes you see.
+Yonagi
+Ngh... Mm... Nine again.
+Kaito
+...
+
+After learning about her possible condition, I took a deep, hard look at papers relating to cognitive impairment.
+
+But despite reading all the literature from around the year 2100, when technology on the surface was at its most advanced, I came across no definitive cure for her condition.
+
+Early signs of the illness frequently presented themselves in small, everyday things.
+
+An inability to tell time.
+
+An inability to read calendars.
+
+Forgetting the layout of one's own home.
+
+These symptoms often appeared prior to any detectable changes in a person's biology.
+
+And there was no precedent for using artificial cells to treat neurological diseases.
+
+Neuroscientists managed to determine that one of the causes of cognitive impairment is the accumulation of waste matter called beta-amyloid.
+
+Most people suffering from dementia are older, but it's possible to develop it at a younger age.
+
+In such people, the cause is likely to be genetic mutations.
+
+The tests Yonagi had done before we married were to determine whether she carried this mutation.
+
+Those tests came back positive.
+
+Yonagi had the gene.
+
+But knowing that didn't help us. There was no treatment for it.
+
+Methods had been tested, but none of them perfected.
+
+Not even artificial gene therapy.
+
+The study of human anatomy stagnated before scientists even got close to figuring out why beta-amyloid accumulates in the brain.
+
+To track her progression, I ended up creating a program to measure basic memory, language, and arithmetic skills, which I installed in Izumo.
+
+I've been studying her results every day since.
+
+We've prepared ourselves for her results to start worsening one day.
+
+We live day by day, always prepared for bad news.
+
+I watch her bio data readings as she takes the test.
+
+She's a picture of health.
+Izumo
+It's finished.
+Kaito
+Mhm.
+Izumo
+I will transmit the results now.
+Kaito
+Thank you. Now we can have dinner.
+Yonagi
+Oh, finally!
+Yonagi
+How many do you think attended today? It was standing room only after a point.
+Kaito
+That's because I opened the presentation up to junior researchers. I wanted as many people as possible to see it.
+Yonagi
+Maybe some of those kids will be inspired to join your lab!
+Yonagi
+I think a lot of them must be looking at you the way you used to look at Professor Asuma.
+Kaito
+That would be nice.
+
+Our everyday life together hasn't changed.
+
+We sit together at our small table, enjoying Izumo's porridge.
+
+These are the moments of our day that we treasure the most.
+
+But some things have changed, of course.
+
+We no longer need Izumo and Wooleep to collect data from her dreamscape.
+
+Our labs in the institute have developed have their own interfaces that are backwards compatible with the data previously gathered by Wooleep.
+
+We also developed a touch-based relay with increased transmission capacity.
+
+Izumo and Wooleep are back to just being our family.
+
+I was also able to give Izumo a full initialization.
+
+An android's OS security can't be breached in standard ways, but the place where the OS was developed is housed in the institute.
+
+It's a facility staffed only by topsiders, but Professor Asuma was able to request the initialization be done after his reinstatement as director of the institute.
+
+We had the option to restore her lost functionalities, but we declined.
+
+We didn't want to imply that she was broken as she was, and porridge was the only dish we really wanted her to make.
+Kaito
+Thanks, Izumo.
+Izumo
+Yes.
+
+She quickly clears the plates away and takes them to the sink for washing.
+
+After dinner, Yonagi stares at me across the dining table.
+Kaito
+...?
+Yonagi
+How about... we go up tonight?
+Kaito
+...Oh, okay.
+
+And one other thing has changed.
+Yonagi
+Izumo, we're gonna go take a walk, okay?
+Izumo
+Understood. I should wait for your return tomorrow night, yes?
+
+Yonagi and I share glances.
+Kaito
+Yeah, thanks.
+Yonagi
+Mhm.
+
+We started going on our nighttime "walks" together after getting married.
+
+We go to one place in particular, actually.
+
+The house in the middle side.
+
+I got it when I became a researcher. Now it's good for when I want to really focus on something, and for when I want to spend some alone time with my wife.
+
+I no longer resent midsiders like I did when I was younger.
+
+We still spend most of our time on the low side, but we use the middle side house when we need it.
+
+I actually enjoy the feeling of distancing ourselves from the city's social stratification.
+
+As soon as we walk through the door, Yonagi wraps her arms around my neck and gives me a deep, fiery kiss.
+
+I run my hands down her curves and hold onto her hips.
+
+Her tongue finds its way into my mouth and twines with mine.
+
+For a while we stay locked like that, relishing in each other's embrace.
+Yonagi
+How about we take a shower?
+Kaito
+Good idea.
+
+Quirking an impish smile, Yonagi slowly heads for the bathroom, undressing as she goes.
+
+I follow right after.
+
+She slips off the last of her clothing, as natural as can be.
+
+I follow her lead and step in after her.
+
+After making love, I gently stroke Yonagi's hair as she rests against my body.
+
+Her warm sighs brush against my chest.
+
+The more we come together, the more confident and assertive she grows.
+
+Her moans have grown loud and feverish, and she's gotten interested in trying more and more positions.
+
+I guess it's that innate, boundless curiosity of hers.
+
+I've memorized her every expression, sound, and sensation.
+
+I enjoy playing all those moments back in my mind.
+Yonagi
+Kernel of corn for your thoughts?
+Kaito
+Mm...
+Yonagi
+Thinking about today's presentation?
+Kaito
+No, actually...
+Yonagi
+Mm?
+Kaito
+I was thinking about you.
+Yonagi
+Oh, really?
+Kaito
+About how you've been getting wilder in bed as of late.
+Yonagi
+Ahahah! You're thinking about that now? We just did it, remember?
+Kaito
+Exactly.
+Yonagi
+Well? Are we feeling frisky again?
+Kaito
+I think I can rein myself in.
+Yonagi
+Aw, you're such a tease!
+
+Yonagi looks up at me, a satisfied smile on her face.
+
+She then nuzzles her soft cheek against my chest.
+Yonagi
+So when you and the professor finish your virtual space and all...
+Kaito
+Mhm.
+Yonagi
+You think it will make everyone in this town happy?
+Kaito
+It will, I'm sure.
+Yonagi
+Mhm, right. That's why you're working so hard.
+Yonagi
+Let's keep fighting the good fight.
+
+We stay like that for a good while, staring out the LCD panel that's visible out of the window.
+Yonagi
+Stay with me after I fall asleep, okay?
+Kaito
+Mm?
+Yonagi
+You usually just get up to go to work.
+Kaito
+...
+Yonagi
+You thought I wasn't gonna realize sooner or later? You push yourself too hard!
+Yonagi
+Have a good night's sleep and we can give it our all tomorrow. What do you say?
+Kaito
+You win.
+
+Satisfied with my answer, Yonagi rests her head on my chest and closes her eyes.
+
+My gaze goes back out the window as I stroke her hair.
+
+Hearing her calm breathing, a thought surfaces in my head.
+
+Does dementia advance while she sleeps?
+
+The effects of sleep on the brain are largely unknown.
+
+If we managed to finish the virtual space before her condition appears, she may be able to lead a full, healthy life in there.
+
+As far as I know, no one has ever developed dementia while in a coma.
+
+The question is, will I finish the virtual space before she loses her sense of self?
+
+I don't have any time to waste.
+
+After I make sure Yonagi's sleeping soundly, I quietly roll out of bed and turn on the terminal at my desk.
+
+I keep working well until dawn. Then I take a little nap, wake up with Yonagi, and we walk to the lab together.
+
+Ever since she started participating in my research, we've been able to walk to and from work together every day.
+
+The group of researchers Iruma recruited are all reliable people.
+
+His work at Kanou Lab, a huge place where researchers from all over the institute tend to gather, brought him a wealth of connections.
+
+The power structure of the institute is shifting too.
+
+Professor Asuma is back on as director, and the labs receiving the most attention are definitely ours.
+
+It definitely feels satisfying to see the tables turn.
+
+But I've no time to start getting complacent. There's work to do.
+Kaito
+Go to the lab without me, Yonagi. The professor asked me to drop by first thing.
+Yonagi
+Yeah, I remember. You're going to his office, then?
+
+I nod in response.
+Yonagi
+I'll go get work started with the others.
+
+Another sign of the shifting power balance is that more people greet me in the halls now.
+
+I couldn't tell you who most of them are or what lab they belong to.
+
+Still, I return every greeting as I head to the institute director’s office on the top floor.
+Asuma
+Yes?
+Kaito
+It's me, Kaito.
+Asuma
+Ah, come in.
+Asuma
+Good morning.
+Kaito
+Good morning, Director.
+
+He gives me an awkward smile.
+Asuma
+I thought we reached an agreement to stop calling each other by our titles yesterday.
+Kaito
+The grandeur of the office compelled me, I suppose.
+
+The professor stands up and motions for me to sit on the sofa.
+Asuma
+I understand. I don't spend much time here myself. There's not much in the way of materials or equipment here, and I'm still a researcher first and foremost.
+Asuma
+This is just a little extra busywork.
+Kaito
+The director is the face of the institute. There is no one more suitable for the job than you.
+Asuma
+There's that youngest-ever lab director, with the spotless track record and fine word of mouth. I certainly pushed for him over me.
+Kaito
+Don't start with that. It's too much for me.
+Asuma
+As it's too much for me. Though I'll fill the role to the best of my ability for as long as I'm stuck with it.
+
+Asuma Lab is developing the hardware for the migration to the virtual space.
+
+Unlike my lab, where the research mainly involves a lot of high-performance computers crunching numbers, his lab has to handle large-scale manufacturing.
+
+We'll need to mass produce two million life support systems in the end.
+
+Even developing the prototype will require some serious facilities.
+Asuma
+Consolidation of redundant labs and archiving of obsolete research has left this floor almost empty.
+Kaito
+Things are moving so fast it's almost hard to believe.
+
+I remember when I was first assigned to his lab.
+
+This floor was devoted to research on new drugs to combat the effects of UV rays.
+
+But among all the avenues explored during that time, only a few were worth continued research.
+
+But at least there were a few.
+Asuma
+They played their part. They gave the people something to hope for, if only for a time.
+Asuma
+It's not inherently dissimilar to what we're striving for now.
+Kaito
+That's true.
+
+He's right. The promise of increasing UV resistance through medicine did give the underground people hope.
+Asuma
+The plan is to use this floor to develop the life support unit prototypes.
+Kaito
+So we're finally kicking things off.
+Asuma
+We're leaning towards capsule-type enclosures. It is the most efficient design choice for nutritional supplementation and disposal of waste.
+Kaito
+Yeah, better focus on functionality.
+Asuma
+How are things on your end?
+Kaito
+We're improving the accuracy of the emulator and the parallel processing when there's multiple connections running at the same time.
+Asuma
+So the same, then. I'd like to double the current pace, at least. Do you have enough people?
+
+I chuckle and shake my head.
+Kaito
+Not even close. I'm hoping some people will ask to transfer to my lab after yesterday's presentation.
+Asuma
+Staffing problems tend to be frustrating, yes.
+Kaito
+There's something I'd like your input on.
+Asuma
+Mm?
+Kaito
+I want to get a support android for the lab.
+Asuma
+No objections from me. Let's get it arranged.
+Kaito
+Ah, I'd like to have our personal one help.
+
+A knowing smile crosses his face.
+Asuma
+The android you're living with, yes?
+
+I give him a brief nod.
+Kaito
+I didn't acquire her through legal means, see, so I was hoping adding her to my lab would be an opportunity to get her registered...
+
+Professor Asuma grins at me.
+Asuma
+I see. You've gone from a little boy who didn't know what a motor was to a man who can even fix an android.
+Asuma
+It's a testament to the power of a good educational system.
+Kaito
+Anyway, since I can't tell people how I got her, we can't take her out except at night.
+Kaito
+But Yonagi and I both have a personal attachment to her.
+Asuma
+Not a problem. Send me her serial number later. I'll register her as a support individual for your lab.
+Kaito
+Thank you.
+Asuma
+The end justifies the means, as they say. Our top priority is to build a virtual space fit for mass migration. An enterprise such as ours needs open minds and resolute hearts to do what must be done.
+Kaito
+Do what must be done, mm...
+Asuma
+We've no time to dawdle. Three years go by in but a blink. We must start the migration tests before that.
+Asuma
+You should consider delegating what you can to other labs too.
+Kaito
+Don't they have their own fields to worry about?
+Asuma
+I can shift things around however you need. That's the reason I accepted this post.
+
+I smile at him uneasily.
+Asuma
+Did you not explain it yesterday? A fundamental solution will take at least thirty years, whereas ours will only take three.
+Asuma
+A one-year delay would represent a three-percent increase for them, but a thirty-three-percent increase for us.
+Asuma
+Once our own research is complete, that mere three percent can easily be made up via careful allocation of resources to the most feasible surface migration solution.
+Kaito
+Makes sense.
+Asuma
+On the flip side...It means a lot of sleepless nights for us in the future.
+Kaito
+All for a good cause.
+Asuma
+He smiles fondly as he reminisces.
+
+He smiles fondly and reminiscences about a few years back.
+Asuma
+I believe this will be my last chance to make this dream a reality. Let's make it happen, my friend.
+Kaito
+I'll put my heart and soul into it.
+Asuma
+Glad to hear it. Okay then.
+Asuma
+How about we start breaking your research down into fields? I'd like to decide which part of it we'll entrust to which labs.
+Kaito
+Right.
+
+By the time we decide who to delegate the analysis work to, it's already evening.
+
+\\f-4;The process involves taking the data from the dreamscape, matching recorded neurological reactions with corresponding events in the virtual space, and lining that up with previously gathered data to see what connections can be drawn between the two.
+
+We'll divide that process into as many small steps as possible and ask labs working in related fields to take on the load.
+
+If this goes according to his plan, Kaito Lab will be able to concentrate solely on recording Yonagi's data.
+
+That means we can focus on the part of the research only we can do, such as increasing the diversity of the dreamscape, and exploring ways to increase the number of concurrent participants.
+
+I know there will be institute politics to contend with, but the professor will take care of everything on that front.
+
+I don't think I could do what he does.
+
+The amount of influence and power he acquired after coming back from obscurity and into the director's chair is staggering.
+
+I feel proud that it was my research that helped him get back there.
+
+My business with him done, I run back to the lab.
+
+I had planned to be back by the afternoon, but the talks went on for too long.
+Yonagi
+There you are! Kept me waiting, huh?
+Kaito
+Sorry, the talks with the professor dragged on a little.
+Yonagi
+I figured so.
+
+I open the door to what's now known as the Kaito Lab.
+
+It's where the Asuma Lab used to be.
+
+It's still hard for me to shake that old association.
+Iruma
+We're ready here, Kaito. We've gotten ahead on all the emulator work.
+Kaito
+Good, let's get started. Yonagi, if you will.
+Yonagi
+Sure thing!
+Kaito
+Bring up the latest error ratios for the emulator.
+Iruma
+Coming up.
+
+I look at the numbers on the screen.
+
+It's the error ratio for each of the participants in the emulator and the origins of each error.
+Kaito
+We're still on the double digits with three people. Mm... Definitely not good enough for practical use.
+Iruma
+The attenuation rates have been decreasing lately, so perhaps we should add more batch processors.
+Kaito
+Let's have the emulator keep reinforcing the three-subject data. Use the model city three, event list 3200 to 3500.
+Iruma
+On it.
+Kaito
+Meanwhile, we'll have the dreamscape test communication between four subjects. Run event list 0001 to 0030.
+Iruma
+Gotcha.
+Kaito
+Let's see it on the monitor.
+
+The LCD screen shows an image of a beautiful cityscape.
+Iruma
+The sight is so breathtaking. I don't think I'll ever get tired of it.
+
+We're currently engaged in two major lines of work: improving the existing emulator's accuracy and gathering brainwave data from the people participating in Yonagi's dreamscape.
+
+Perhaps the job of improving the emulator will be left to another lab in the future.
+
+But the process of accumulating the master data from Yonagi's dreamscape that we'll feed into the emulator can only be done here.
+
+The only ones that know about the truth are me, the professor, and certain trustworthy members of Kaito Lab including Iruma.
+
+We've built a relationship of trust with them over the years.
+
+My initial belief that if we could collect data from three or more participants we'd be able to extrapolate that to any number of people sadly missed the mark.
+
+There has to be a threshold of how many people have to be together before the mind recognizes them as an amorphous “group,” and we'll just have to keep gathering master data until we reach that number.
+
+A thesis published back when humanity lived on the surface put that number as seven.
+
+The human brain recognizes each person as an individual entity up to seven people. Anything beyond that, the brain begins to process as a group.
+
+So the threshold for the brain to process people efficiently lies between seven and eight.
+
+I believe that if we could increase the number of people from whom we're obtaining reciprocal communication data to seven, the error ratio would drop dramatically.
+
+The only issue...
+
+Is whether Yonagi's mind can handle having that many people in her dreamscape at the same time.
+Kaito
+...
+
+Beads of sweat have started surfacing on her forehead.
+
+I turn my eyes to the monitor displaying her vitals.
+
+Her heart rate has increased sharply.
+
+As has her body temperature.
+
+Iruma turns my way.
+
+I nod at him.
+Kaito
+That's enough for now.
+Yonagi
+...
+Kaito
+Are you okay?
+Yonagi
+Yeah... All fine.
+Kaito
+Let's rest a bit.
+Yonagi
+But we're not done getting data for the day, are we?
+Kaito
+We're increasing the number of people in the dreamscape, so your body may not be used to the load. It's fine to take our time.
+Yonagi
+Mhm...
+
+I turn back to my colleagues.
+Kaito
+Sorry, I want to let her rest early today.
+Kaito
+Keep working on increasing the emulator's accuracy.
+Iruma
+You got it.
+Kaito
+The professor and I discussed it, and we'll probably be leaving that work to another lab from now on.
+Kaito
+I want you to break down what the work entails and make a manual for them to use.
+
+I instruct Iruma to take over for me, then Yonagi and I leave the lab.
+Yonagi
+Sorry, I know we don't have much time.
+Kaito
+No. the whole plan is possible only because of you, and it'd fall to pieces without you. There's no need to push yourself.
+Yonagi
+Mhm.
+Kaito
+I talked with the professor, and we'll get help from the other labs. I also asked him to let us bring Izumo over.
+Yonagi
+Ah! You finally asked him? What did he say?!
+
+I nod in response and answer.
+Kaito
+We'll be able to come together starting tomorrow.
+Yonagi
+Yes! It'll be so much more fun with her around! I just know she must be feeling sad stuck house sitting every day!
+
+My colleagues in the lab know about Yonagi’s power and Izumo.
+
+They know most about our lives, really.
+
+The only thing we haven’t mentioned is the possibility of her memory condition.
+
+Yonagi asked that no one but me and Professor Asuma should know.
+Yonagi
+Running the experiments with Izumo reminds me of back when you built the first emulator back home.
+Kaito
+Yeah... Back then it was only the three of us dreaming together.
+Yonagi
+And now the whole city is counting on your research.
+
+I nod again.
+Kaito
+It’s rewarding and intimidating in equal measure.
+Yonagi
+It's okay. I know you can do it.
+
+She gently takes my hand.
+Yonagi
+We’re back!
+Izumo
+Welcome.
+Kaito
+Izumo, run the test, please.
+Izumo
+Yes. This way, Yonagi.
+Yonagi
+Coming!
+
+As usual, her results don't deviate much from the average.
+
+The difficulty of the test is set so that not even a completely healthy person can get a perfect score.
+
+In fact, she tends to be happy about setting records when she feels well, but they tend to drop when she's tired from work.
+
+It also depends on how focused she is on the test.
+
+As long as there’s not a huge deviation from the average, there’s no problem.
+
+Her father...
+
+Shiona married a fellow researcher he met at Asuma Lab, and Yonagi was born from that union.
+
+That means he must have been experimenting on himself before passing down his genes to Yonagi.
+
+We don't know if the case of Alzheimer's he developed was a side effect of experiments, or if he also inherited it from his parents.
+
+We have no way of finding out now.
+
+Yonagi and I have spoken about it at length.
+
+She decided that, regardless, she wanted to do what she could
+
+to see the virtual space project realized.
+
+I respected her decision, of course.
+
+My duty to her is to bring the project to fruition as soon as possible while and keeping an eye on her health and supporting her however she needs.
+Kaito
+Izumo, I'd like you to work with us starting tomorrow.
+Izumo
+With you? At the institute?
+Kaito
+Yeah. From today onward, you'll be officially registered as an android issued to Kaito Lab.
+Kaito
+You have nothing to hide from our colleagues, but when you're around anyone else, try to avoid talking about anything but our research.
+Izumo
+Understood.
+Yonagi
+I can’t wait for the three of us to walk together tomorrow! Let’s work hard, Izumo!
+Izumo
+Yes.
+Izumo
+What about Wooleep?
+Kaito
+Huh?
+Izumo
+Will he be relegated to house sitting alone?
+Kaito
+...
+
+All of Wooleep's auxiliary functions are also available in the lab.
+
+In the strictest sense, there would be no need to bring him along...
+Izumo
+My processing efficiency increases twenty-two percent with Wooleep.
+Kaito
+I see.
+Yonagi
+You’d feel better having him around?
+Izumo
+Mm...
+
+Yonagi stares into Izumo’s eyes for a moment, then turns to me.
+Yonagi
+I think she wants to take Wooleep too.
+Kaito
+Figures.
+Kaito
+All right. Sounds like we're taking Wooleep too.
+Izumo
+I’m glad to hear that.
+Shleep
+*Chirp*
+Kaito
+Good morning.
+Iruma
+Hey there, Cap! Good morning to you too, Yonagi.
+Yonagi
+Morning!
+Kaito
+Can I have everyone's attention? I want to introduce you to the newest official member of our lab. Her name is Izumo.
+Izumo
+I’m thrilled to be here.
+Iruma
+Oh, so that's her?
+
+I answer with a nod.
+Iruma
+Whoa, she’s incredible. She doesn’t look broken at all.
+Izumo
+I am not broken.
+Iruma
+Ah, I’m so sorry! I didn’t mean anything bad by it. Nada personal!
+Izumo
+Mm?
+Kaito
+And the little guy floating behind her is Wooleep. I made him to be her auxiliary terminal. Yonagi designed him, actually.
+Iruma
+Huh?! You made this?! You can do hardware too?!
+Kaito
+Only if it’s simple stuff, I guess.
+Iruma
+I kneel in front of your mastery.
+Yonagi
+Though he couldn’t draw to save his life.
+Kaito
+I think it's more a matter of taste than of skill.
+Yonagi
+How blessed you are to have such a gracious wife that would let you harbor such delusions.
+Kaito
+He was originally made to assist in the transmission of Yonagi's dreamscape and boost Izumo's calculation power.
+Kaito
+At the time her dreamscape was more like, well, a dream for us, so...
+Iruma
+Ah, I get it now. So it's a woolly sheep that aids sleep, therefore Wooleep.
+Izumo
+He, not it.
+Iruma
+Huh?
+Izumo
+He is not an it, he is a boy.
+Iruma
+Ah, you gave it a pronoun, eh?
+Izumo
+As per its creator’s wishes.
+Iruma
+I see. I’ll keep that in mind.
+Shleep
+*Chirp*
+Kaito
+I'll connect Izumo to the lab terminals, so you can use her as a voice input interface as well.
+Izumo
+Again, thrilled to be here.
+Iruma
+A pleasure to meet you, Izumin.
+Izumo
+Izumin.
+Yonagi
+What is that?
+Iruma
+Just a nickname. Sounds crazy cute!
+Izumo
+Crazy? Do I appear insane?
+Iruma
+No, no, no! Don’t focus on the loco part! I just said you’re really cute! Adorable!
+Izumo
+Is that so?
+Iruma
+May I keep calling you Izumin?
+Izumo
+If it pleases you.
+Yonagi
+Ahahah! Aren’t we off to a good start, Izumin?
+Izumo
+Mm?
+Kaito
+Introduce yourselves when you have time. It can be through words, or you can send your data if you like.
+Iruma
+Copy that!
+Iruma
+Also, we figured out how to divvy up the data collection to other labs and wrote up the manuals, but what now? Do we know where they're going already?
+Kaito
+Yeah, the director already informed me of their specialties. I believe it's mostly decided.
+Iruma
+But we should probably send someone over, at least on the first day, to walk them through it.
+Kaito
+Right...
+
+I have a look over the researchers in the lab.
+
+The resources of the vacated labs are currently going unused.
+
+I'd like to get them running alongside us as soon as possible.
+Kaito
+I want everyone here to focus on getting the support labs up to speed, except those needed for testing simultaneous connection to the dreamscape.
+Kaito
+Since Izumo can handle the role of operator herself...
+
+I designate Iruma and another female researcher for connection duties.
+Iruma
+Okay.
+Kaito
+Aim to make the external labs able to work independently by the end of the day, or by tomorrow at the latest.
+Kaito
+From now on, our lab will be at the center of this whole project. We'll probably be forced to spend more time answering questions, but let's grin and bear it in the interests of efficiency.
+Iruma
+All clear.
+Kaito
+Izumo, the process is the same as you're used to. Except you'll use this device instead of Wooleep as the relay, and you'll be connecting four people including Yonagi simultaneously.
+Izumo
+Understood.
+Kaito
+The sessions will last forty-five minutes per set.  If you notice a change in her temperature or her heart rate, stop the experiment immediately.
+Izumo
+Yes.
+Yonagi
+Having Izumo here makes me feel at ease.
+Kaito
+Let’s continue with the event list from where we left off yesterday.
+Izumo
+Yonagi’s heart rate has risen far above the average.
+
+The connection drops in the middle of the basic communication event list.
+
+I look at Yonagi.
+
+She's already sweating again.
+
+And I notice a slightly reddish shade in her cheeks.
+Kaito
+Yonagi?
+Yonagi
+Sorry about that. But did I last a little longer than yesterday?
+Kaito
+Izumo, time elapsed?
+Izumo
+Twenty-eight minutes and forty-three seconds.
+Yonagi
+Goodie!
+Iruma
+It was less than twenty yesterday, so she’s making progress.
+Kaito
+How are you feeling?
+Yonagi
+Mm, having more people really does exhaust me, but it’s not that bad.
+Yonagi
+It kind of feels nice, like when you've had a good workout.
+Kaito
+I see.
+Yonagi
+Let me rest and then we can give it another try. I think I can manage today.
+Kaito
+...Okay. Let’s continue after a recess.
+Kaito
+Yonagi, I need to stop by the professor's office before going home. Go on and have dinner without me.
+Yonagi
+Ah, okay.
+Kaito
+You have some time, Iruma? I’d like you to come too.
+Iruma
+Ah, we’re talking with Mr. Asuma? Sure, I’ll tag along.
+Kaito
+See you back home, Izumo.
+Izumo
+Yes.
+Iruma
+You wanna talk about Yonagi, right?
+
+I give him a swift nod.
+Kaito
+The way things are going at present...
+Kaito
+We'll never complete the virtual space.
+Asuma
+Mm, I see.
+
+We give the professor a brief rundown of the situation at the lab.
+Kaito
+The exhaustion Yonagi displays after increasing the simultaneous connection to four people is simply too much.
+Kaito
+But theoretically, in order to properly emulate the dreamscape, we need to get data on a simultaneous seven-person connection.
+Kaito
+If we can get the master data for a seven-person connection, we should be able to process any number of people after that as a group.
+Asuma
+When there's eight or more people, the brain perceives them as a group and processes them in a more mutable way, yes?
+Kaito
+That’s right.
+Iruma
+We verified this with experiments in reality, so it's very possible that our simultaneous connection threshold is seven people too.
+
+I nod as well.
+
+I put Iruma in charge of running and reporting those experiments.
+Kaito
+Three people isn’t so exhausting for her, but when we get to four, well... I don’t want to imagine what would happen if we tried five, let alone seven.
+Kaito
+The burden on her could be increasing exponentially.
+Asuma
+I see.
+Asuma
+So the reason you’re seeking my council would be...
+
+The professor slowly looks between us from his director chair.
+Asuma
+You want my guidance as to how to find a solution, yes?
+
+The way he looks at me gives me pause. There is a pressure in her gaze I don’t think I’ve ever felt before.
+Kaito
+...Yes.
+Asuma
+All right.
+Asuma
+Incidentally, is this fatigue you mentioned something Yonagi is aware of?
+Kaito
+Her temperature and heart rate increase, but she says she likes how it feels.
+Kaito
+Like the high after a good workout.
+Asuma
+I see. So the fatigue during the formation and maintenance of the dreamscape is essentially psychogenic in nature.
+
+I nod in response.
+Asuma
+Kaito, is your android recording her biometric data?
+Kaito
+Yes. She’s always monitoring both of us.
+Asuma
+Okay. Send over that data.
+Asuma
+If we compare the differences between the effortless three-person tests and the strenuous four-person tests, we could pinpoint the cause behind the unconscious burden she feels.
+Asuma
+So this is with three people, and this with four... Any patterns in the stimulated parts of her brain?
+Kaito
+As usual, not really.
+Iruma
+It varies depending on the action list being performed, and the person.
+Asuma
+Mm, makes sense.
+Asuma
+Also, how do you induce the REM sleep?
+Kaito
+We’re using the same method you used. Sixty milligrams through oral ingestion. The ingredients of the formula are the same.
+
+He nods along as I speak, his eyes studying the brain waves displayed on his terminal.
+Asuma
+Comparing the brain waves from the two states, I can see that they're both a mix of θ and β waves.
+Kaito
+I see...
+Iruma
+Mm? Eh? Which means?
+Kaito
+θ waves are the brain wave frequency produced by the brain during light sleep. β waves occur when the mind is alert and engaged.
+Asuma
+The ratio of θ waves when there's four people is considerably lower than when there's three, and she produces far fewer δ waves as well.
+Asuma
+In short, her sleep is too shallow. Her brain isn't relaxed enough to withstand the load of four simultaneous connections.
+
+Iruma looks at me, his head tilted in confusion.
+Kaito
+δ waves are the ones observed in the brain when the subject falls into a deep sleep.
+Iruma
+I see... So that means she’s too tense to sleep well when there’s four people? Is it like insomnia?
+Kaito
+It's theorized that the body creates dreams as a way to protect its restful state.
+Kaito
+They act as a cushion to keep the body from reacting even when the auditory or olfactory senses are stimulated.
+Kaito
+Since her dreamscape is very similar to a real dream...
+Iruma
+...Bringing outsiders into it makes the sleep shallower. Got it.
+Asuma
+Perhaps her mood also influences it to a certain extent.
+Kaito
+...
+Asuma
+Given the differences between the three- and four-person trials, it's clear that the probable cause is the β waves. Simply put, too much tension. However, we don't know what's happening in her brain either.
+Iruma
+Tension, huh?
+Asuma
+There is one drastic solution that comes to mind.
+Asuma
+Connect to her when the δ waves are the main component to prevent the β waves from interfering with the process.
+Asuma
+Looking at this, it's easy to imagine that the ratio of β waves will increase rapidly when you increase to the five- or six-person stage.
+Asuma
+You may want to see if the effect is reduced if you perform the simultaneous connection while she's in a δ wave state.
+Kaito
+But wouldn't that mean...
+Asuma
+Creating a dreamscape in a non-REM sleep state, yes. If this approach works, it may completely solve the simultaneous connections issue.
+Kaito
+Mm...
+
+Non-REM is a period of deep sleep during which, it's believed, people generally don't dream.
+
+In that state, Yonagi might not even have her own sense of self.
+Kaito
+I understand what you mean. If she has no sense of self, it would let her skip the tension from consciously managing that many people.
+Asuma
+It could. It’s just a possibility, at most.
+Iruma
+But is that okay? I feel like it could just take an even bigger toll on her.
+Kaito
+...
+Asuma
+People go into non-REM sleep every night. It's not as if we'd be knocking her out against her will.
+Asuma
+The development of oral medications was a hot topic for a long time, so there's plenty of drugs that can produce non-REM sleep without straining the body.
+Asuma
+However.
+Asuma
+The question is how you plan to explain this to her, Kaito.
+Kaito
+...I believe that seeing what's happening in her dreamscape helps her feel more at ease.
+Asuma
+But we also have reason to believe that it's what's making her so tense.
+Iruma
+...Right.
+Asuma
+That's why you need to be the one to explain it to her.
+Asuma
+She's not going to let just anyone have full control of her body while she's unconscious.
+Asuma
+I believe the only person she would trust with any degree of peace of mind in that situation would be you.
+Kaito
+...
+Asuma
+I leave the judgment on how to proceed to you.
+Kaito
+...I'll see what she thinks first.
+Asuma
+Mhm. If she doesn't feel comfortable, come back and we'll discuss alternatives.
+Kaito
+Thank you.
+
+The usual placid smile returns to his face.
+Asuma
+How's the collaboration with the other labs coming along? Nicely, I hope?
+Kaito
+Ah, yes. Iruma led the process of selecting the data we could outsource, and today we've got members of our lab paying visits to orient them on the process.
+Asuma
+It sounds like efficiency is about to go up.
+Asuma
+We started the production of prototypes for the life support systems. There's some kinks to work out when it comes to durability and costs, but we're definitely on our way to providing a healthy and sterile environment.
+
+He brings up an image of a capsule that looks like a white cocoon.
+Asuma
+They're designed to generate electricity through human metabolites while filtering and and purifying waste water for recirculation. It might be better if we don't explain how it works to the participants in detail.
+
+I smile awkwardly.
+Asuma
+It's not a perpetual motion system, but we'll recycle the participants' bio-energy as much as possible. We should be able to improve on its efficiency from here on out as well.
+Asuma
+The necessity of adopting a grain-based diet since the move underground has led to remarkable developments in the field of biotechnology.
+Asuma
+We shall make use of that to accomplish the purpose of this institute.
+Asuma
+We are taking the advancements our forebears pioneered to make our lives down here possible and using them to propel us to our next great advancement, the migration into virtual space.
+Asuma
+What scientist can't see the poetry in that?
+Kaito
+...Yeah.
+
+He's right. Even my research is built on the foundation laid by Professor Aruma and Yonagi's father.
+
+We can't just give up.
+Iruma
+You hardware guys get the obvious poetry, at least.
+Iruma
+All we do is gather data all day long.
+Asuma
+But it's your lab's work that forms the core of the entire project.
+Asuma
+All I'm doing is solving the problems that rise up around it.
+Kaito
+And I believe that’s as invaluable. Not anyone could do the work you do.
+Iruma
+Yeah, and we can always come to you for advice.
+
+Iruma and I nod at each other.
+Kaito
+You’ll always be the best professor I ever had.
+
+He smiles quietly at that.
+Asuma
+You honor me. The true trials come now. Let’s see this through together.
+Kaito
+Yes!
+
+The rest or our time together is spent with the professor explaining his ideas for how to improve the prototype manufacturing process, and elucidating on the labs we'll be delegating to.
+
+By the time we make it out of the institute, it's already dark.
+Iruma
+Hey, what are you gonna do?
+Kaito
+About?
+Iruma
+About Yonagi.
+Kaito
+Mm...
+Iruma
+It's true that the professor's proposal would be one way to keep the work going.
+Iruma
+But it's not necessarily reducing the burden on Yonagi, is it? We would just be anesthetizing her so she doesn't feel it.
+Kaito
+Well, he is right that we all experience non-rem sleep every night.
+Iruma
+But inducing it artificially isn't like natural sleep. It's possible we'll have to keep increasing the dosage, too.
+Kaito
+I know that, but...
+Kaito
+We can't do this without master data from Yonagi.
+Kaito
+Besides, it's not as if we need to get her connecting hundreds of people at once. We only need to get to those seven.
+
+Iruma narrows his eyes at me.
+Kaito
+The professor was right that this isn't our research alone anymore. It now has more stakeholders than any project in the institute's history.
+Iruma
+Well, yeah. I know, but...
+Iruma
+Yonagi's just doing this to help with your research, isn't she?
+Kaito
+...She's looking at the bigger picture, actually.
+Kaito
+And...
+
+We don't have any time to waste.
+Kaito
+She wants to see the project succeed too. That's why I just need to tell her and see how she feels.
+Iruma
+Mhm. Well, if you're the one doing it, I doubt she'll mince words.
+Iruma
+See you tomorrow.
+Kaito
+Yeah, sorry for making you tag along.
+Iruma
+Oh no, no! I have the time of my life when I’m with you, buddy!
+Yonagi
+Welcome back!
+Kaito
+Hello, girls.
+
+I open the door, and I’m greeted by Yonagi and Izumo.
+Izumo
+Welcome back.
+Kaito
+Mhm.
+
+Our evening passes in its usual peaceful way.
+
+Izumo makes me her porridge and Yonagi watches me eat it.
+
+She's holding one of the novels she's writing.
+Kaito
+More revisions today?
+Yonagi
+Yeah. I’m sure I’ll keep writing. As long as I have feeling to put to paper, that is.
+
+Her voice is soft.
+
+I nod back at her.
+Izumo
+May I take the plate?
+Kaito
+Yeah, thanks. It was delicious.
+
+Izumo takes my empty dish and proceeds to wash it in the sink.
+
+I find myself watching her from behind.
+
+This peaceful life...
+
+It cannot last forever.
+
+We know very well that it's like fine sand, slowly escaping our grasp.
+
+Yes, that’s why...
+
+That's exactly why we swore to discuss everything, and argue about it if we need to. We don't want to waste a second on misunderstandings.
+Kaito
+Yonagi.
+Yonagi
+Yes?
+Kaito
+...I spoke with the professor.
+
+She nods silently.
+
+Then she closes her notebook and moves it to a corner of the table.
+Kaito
+If we keep going with our the current method, we'll never complete the virtual space. That's why I went to ask for his advice today.
+Yonagi
+Mhm.
+Kaito
+Right now we can barely maintain four simultaneous connections. We may be able to obtain the data we need for that number if you get acclimated to it.
+Kaito
+But you'll never make it to seven people.
+Kaito
+That much is clear.
+
+Yonagi nods along as I speak.
+Kaito
+The solution that he suggested is...
+Kaito
+To put you in a deeper sleep when building the dreamscape.
+Yonagi
+Deeper?
+Kaito
+You know there’s shallow and deep states of sleep, right? I think you can feel it when you sleep normally.
+Yonagi
+Yeah, kind of, I guess?
+Kaito
+Right now you’re creating a dreamscape while in a state of shallow sleep. That’s why you can remember the experiments that happen in it.
+Yonagi
+Yeah, I remember them as clearly as a normal dream.
+Kaito
+That's why the burden is getting heavier for you. In the end, your reactions to the participants' data input is what makes the dreamscape.
+Kaito
+In a sense, you're consciously trying to sync up with the brain waves of all involved. You're trying empathize with everyone.
+Yonagi
+Empathize, huh? You may be right. When I'm in there, I can tell what people are thinking more than usual.
+Kaito
+That could explain why the load is so heavy on you.
+Yonagi
+So you’re saying that if you took the data while I was in a deeper sleep, it would work better?
+
+I nod in response.
+Yonagi
+I wonder how my dreamscape would look then.
+Kaito
+I don't know. Maybe it would be manifestations of your memories, or maybe it would be an incomprehensible mess.
+Yonagi
+And everyone would go in there, and keep taking data like always, right?
+Kaito
+That seems to be the only way at this point. Though we could come up with something else if we think about it more.
+Kaito
+But...
+Yonagi
+We don't have infinite time at our disposal.
+Kaito
+...Right.
+
+Yonagi nods gravely, letting my words sink in.
+Yonagi
+It does sound scary, to be honest.
+Yonagi
+I mean, just having people in my head without my supervision.
+
+Yonagi stares vacantly for a while at the wood grain in the table.
+Yonagi
+What do you want me to do?
+Kaito
+There's one thing on my mind.
+
+Yonagi waits for me to go on, her eyes locked on me.
+Kaito
+If we could move to the virtual space before you develop your memory disorder...
+Kaito
+Maybe you could live a full life in there.
+Yonagi
+What do you mean?
+Kaito
+This will be humanity's first time inhabiting a virtual space. A world where everyone is having vivid dreams all the time.
+Kaito
+Can humans develop dementia while dreaming?
+Kaito
+We don't know the answer to that yet.
+Kaito
+The thought of growing old together in the virtual space we've worked so hard for all these years...
+Kaito
+That would be... the greatest happiness I could imagine.
+
+Yonagi smiles and gives me a small nod.
+Yonagi
+Yes, you’re right.
+Kaito
+That’s why I don’t want to regret things later. I don’t want to just wait for the day you start forgetting. I want to try whatever I can.
+Yonagi
+So you want to try the method the professor came up with, right?
+
+I nod.
+Yonagi
+Okay. Let’s try it out.
+Yonagi
+Even if I'm unconscious, you'll be there, right?
+Kaito
+Of course.
+Yonagi
+Then I’m okay with it.
+Kaito
+...Thank you. I'm sorry for making you shoulder the burden alone every time.
+Yonagi
+You're not. I know you struggle with the weight of this more than anyone.
+Yonagi
+It's that passion of yours that's led everyone in the lab to follow you as well.
+Yonagi
+let’s try it. I believe you can make it happen.
+Kaito
+...
+Yonagi
+Okay?
+Kaito
+...Yeah.
+Kaito
+I’ll make it happen.
+
+The next day, about half of the lab personnel we sent out return.
+
+They make it sound like there's wide variance in the abilities of the labs we'll be using.
+Kaito
+Starting today, we'll be changing the mechanism we use to build Yonagi's dreamscape. The burden on her body has increased since we started connecting with four people.
+Kaito
+This could be improved by switching Yonagi from a half-awake state to an unconscious one. We're gonna try that today.
+Kaito
+Yonagi herself might not manifest in the dreamscape under these conditions. We'll send in four people simultaneously today.
+Kaito
+The whole project is riding on whether we can obtain master data from the original dreamscape with seven people at the same time.
+Kaito
+The longer we spend on this stage, the greater the burden on her will be, so I ask you to keep that in mind as you work.
+
+Iruma nods, followed by the rest of the researchers.
+Izumo
+Let us begin.
+
+Just like the professor said, we have several types of drugs capable of producing non-rem sleep for any period of time.
+
+I choose the one with the most data from clinical trials.
+
+It's a trustworthy drug with no instances of adverse effects in any of these trials.
+Yonagi
+Okay. Kaito, Izumo, I'm in your hands now.
+Kaito
+I’m right here.
+
+Yonagi smiles at Izumo and me before drinking the pill with some water.
+
+It doesn’t take long for her to fall asleep.
+
+She’s sleeping soundly.
+
+On the outside, she looks the same as she usually does.
+
+But the monitor is indeed displaying mainly δ waves.
+Kaito
+Okay, let’s get in. Izumo, begin the connection process.
+Izumo
+Now beginning intercommunication between the participants and Yonagi.
+
+The rest of us take the REM sleep-inducing pills and enter her dreamscape.
+Kaito
+Whoa...
+Iruma
+It’s pure white.
+Kaito
+Izumo, are you monitoring this?
+Izumo
+I am.
+Kaito
+It’s all white, and there’s nothing here. How much of the dreamscape is formed? I can’t make anything out.
+Izumo
+The extent of the dreamscape is immeasurable.
+Kaito
+What?
+Izumo
+There are no boundaries. The space is virtually endless.
+Kaito
+Wha—
+Iruma
+But we can still walk in here, right?
+
+Iruma takes a cautious fist step, then starts walking around.
+Kaito
+Can you map something onto this, Izumo?
+Izumo
+I can. What would you like me to project?
+Kaito
+Mm...
+Kaito
+The 2016 educational institu—
+Kaito
+...Whoa, that was fast.
+Izumo
+I have not projected it yet.
+Kaito
+What?
+Izumo
+The dreamscape Yonagi's projecting just changed.
+Kaito
+What does that mean?
+Izumo
+Unknown. No input has been sent from our end.
+Kaito
+...
+
+The space updated itself to reflect the order I gave to Izumo?
+Izumo
+Also, I am receiving duplicate voice data from the participants.
+Kaito
+What do you mean?
+Izumo
+The data I receive directly from Yonagi contains the voice data of the participants.
+Kaito
+...
+
+Our current layout involves the relay taking in the data from Yonagi's dreamscape, then writing in the action signals from the participants and transmitting the whole to all involved.
+
+If those action signals are going out duplicated, it means...
+Kaito
+Does this mean we could speak in her dreamscape without going through the relay?
+Izumo
+It is possible.
+Kaito
+Izumo, cancel the relay's intervention in the dreamscape and connect the participants to Yonagi directly.
+Izumo
+Relay processing has been canceled.
+Kaito
+...
+Iruma
+Did something happen?
+Kaito
+We’re speaking, yes?
+Iruma
+Huh? Sure, your lips move, and words come out.
+Kaito
+Let’s try moving around.
+Kaito
+...It’s just normal.
+Iruma
+It sure feels like it.
+Iruma
+So what now? Do we go through the action list?
+Kaito
+Mm...
+
+If the burden on Yonagi becomes too high, Izumo will stop it.
+
+I nod in response to the gathered researchers.
+Kaito
+Yeah,we need to take this chance to get the data we need on four simultaneous connections.
+Iruma
+All right.
+
+We follow the list as Izumo dictates it. We'll easily be able to get all the data we need.
+Kaito
+Okay, let’s move on to the next list. Now we...
+Kaito
+...
+Iruma
+......
+Kaito
+...
+
+It takes me a moment to realize that I lost my voice.
+
+Not just me, but all the participants are exchanging surprised looks, their mouths hanging open.
+
+I try to scream, but nothing comes out.
+Kaito
+...
+
+Did something happen?
+
+Is Yonagi okay?
+
+Yonagi...
+Kaito
+Ngh...
+
+As I come to, I realize I'm out of the dreamscape.
+
+We're in the lab's simulation room.
+
+As I jump out of the capsule chair, I'm met with Izumo's steady gaze.
+Kaito
+Did something happen, Izumo? Did the burden on Yonagi increase?
+Izumo
+No. She entered REM sleep.
+
+I check out her brain wave display.
+
+The δ waves seen during deep sleep have become a mixture of θ and β waves.
+Kaito
+I see. So she’s waking up.
+Iruma
+Why did we lose our voices in there?
+Kaito
+Yonagi’s dreamscape is first and foremost a world where Yonagi can project the things she envision into people’s brains.
+Kaito
+In order for us to participate at all in that space, we need to upload information about ourselves to the dreamscape, but obviously we're not telepaths.
+Iruma
+Probably.
+Kaito
+That's why I made Wooleep. He could take in the images Yonagi projected as well as the participants' intended actions, then integrate them all and relay them to everyone involved.
+Kaito
+You usually can's speak if you enter her dreamscape directly. Like we did just now.
+Iruma
+I see, so we've been making progress with workarounds.
+Kaito
+I wonder, though.
+Kaito
+Why could we speak today?
+Iruma
+Want to go and see what the professor thinks about it?
+Kaito
+Yeah, I suppose.
+Yonagi
+Uh... Ngh...
+
+I hear a sleepy groan and rush over to Yonagi.
+Kaito
+Are you okay, Yonagi?
+Yonagi
+Kai...to?
+
+She still seems a little groggy.
+Kaito
+Izumo, what’s her condition?
+Izumo
+Blood pressure and blood sugar slightly low. Standard when waking up.
+
+I heave a sigh of relief once more.
+Yonagi
+Huh? We’re in the lab.
+Kaito
+Yeah. The experiment is over.
+Yonagi
+Oh, right, yeah. We were trying a new method, right.
+Kaito
+Yeah. I think it went well. You were really brave, thank you.
+Yonagi
+Really?
+
+I give her a resolute nod.
+Yonagi
+I’m glad to hear that.
+
+Like yesterday, the three of us gather around the director's table and report today's results.
+Kaito
+The four-person connection went well, and Yonagi didn't exhaust herself, so that problem has been solved. However...
+
+The professor and Iruma watch me carefully.
+Kaito
+The fact we could act in her dreamscape by connecting directly was extremely unusual. I've never seen that happen before.
+Kaito
+Though we got the results we wanted, I want to get to the bottom of what’s happening now.
+Asuma
+I believe the answer is relatively obvious.
+Kaito
+Huh?
+Iruma
+Oh?
+Asuma
+In simplified terms, you entered her dream during a non-REM sleep, correct?
+
+Me and Iruma nod.
+Asuma
+Perhaps in such a state, Yonagi's brain becomes unable to determine which sensory inputs belong to her, and which come in from the outside.
+Kaito
+I see... So she was mistaking the sensory input of the participants for her own and integrating them into the dreamscape.
+Asuma
+I believe we can intuitively understand how the brain is prone to make such mistakes.
+Iruma
+Why is that?
+Asuma
+Let's say, for example, that I appear in one of your dreams and start hurling insults. Who did those insults come from, and who are they aimed at?
+Iruma
+Well...
+Asuma
+Would you think it's something that the real me said to you?
+Iruma
+No, it would be something I came up with myself. It’s my dream, after all.
+Asuma
+That's right. Fundamentally speaking, the dreamer is responsible for their dreams.
+Asuma
+The brain knows that.
+Asuma
+During the period when Yonagi had no sense of self, her brain may have been mistaking all sensory input as coming from her.
+Asuma
+That was then reflected back at you through Yonagi's innate ability to create images in the dreamscape.
+Kaito
+...
+Asuma
+Kaito, do you understand what that means?
+
+I slowly nod in response.
+Kaito
+It means...
+
+The thing the professor and Yonagi’s father could never achieve. A space that can emulate all senses, and where all participants can act as they wish.
+Kaito
+The virtual space we’ve been chasing... It’s complete.
+Asuma
+That’s right.
+
+If her sense of self is what's responsible for separating her own sensory input from external input...
+Kaito
+Does that mean that Yonagi could become the virtual space itself?
+Asuma
+If we dispossess her of her sense of self, yes.
+Iruma
+Professor! That’s impossible!
+Asuma
+Yes, there are countless problems with that approach, ethical and otherwise. But even more importantly...
+Asuma
+It sounds like when you imagined the shape you wanted to give to the dreamscape, it happened immediately, correct?
+
+I nod.
+Asuma
+Why did you have the authority to shape it?
+Kaito
+I...
+
+Why, indeed.
+Asuma
+For argument's sake, let's suppose we take the inhumane approach of turning Yonagi herself into the virtual space.
+Asuma
+The biggest risk is that there'd be someone's will shaping the world humanity migrates to.
+
+The will of the world itself. In this case, naturally, Yonagi's will.
+
+A completely unaware subconscious mind. It might assign value to the sensory inputs it's receiving.
+Kaito
+...You mean it was her will to give me authority in that space?
+Asuma
+It's the only conclusion available.
+Asuma
+The space we create cannot be one where the participants' wills are assigned unequal levels of importance.
+Asuma
+It would be, in effect, a dictatorship.
+Asuma
+So we shouldn't even entertain the idea of the inhumane approach.
+
+After saying his part, the professor smiles, picks up his mug and raises it to his lips.
+Asuma
+Is Yonagi feeling okay?
+Kaito
+Yes, for now at least. She seemed a little dazed after waking up, but she was okay right after.
+
+The professor nods.
+Asuma
+I assume we can conclude that the obstacle to obtaining data from seven simultaneous connections is gone.
+Kaito
+Yeah, I think so.
+
+I reach for my own mug and have good sip of the still warm coffee.
+Asuma
+We began testing the prototypes on our end. We'll start by putting a researcher into deep sleep for a week.
+Asuma
+If this goes well, we'll just focus on improving energy efficiency as much as we can before going into mass production.
+Kaito
+That’s great news!
+Asuma
+Manufacturing hardware takes a long time. It has to be transported to the actual site and go through operational testing.
+Iruma
+Now that you mention it, where are we planning to store that many capsules?
+Asuma
+Behind the solar panels between the top and middle side.
+Asuma
+That space was originally reserved for topsiders who want to wait for surface migration in cold sleep.
+Asuma
+It's the perfect location.
+
+My eyes widen in surprise. This is the first I'm hearing of this.
+
+A set of solar panels encircling a vertical shaft with a diameter of 1600 meters. I'd assumed they were just there to supplement our electricity supply.
+Kaito
+Do all topsiders do that?
+Asuma
+I'd say about half of our elderly population is there. The other half live out their lives in the city.
+Iruma
+Half, wow... They miss the sun that much?
+Kaito
+I suppose I can see where they’re coming from.
+
+I look out the window.
+
+From the window of the director's office on the top floor of the research building, we can see one end of a huge solar panel.
+
+Even at night, the panels shimmer ever so slightly in the lights of the city.
+
+To think that place would be full of people sleeping, waiting patiently to resume life on the surface... it seems this city still has many secrets.
+Asuma
+Next month, we'll do a test run of a mass production line.
+Asuma
+I want to move to testing of the first stage prototype within a month. We need to get those small-scale tests started or we'll never make it.
+Kaito
+...
+Iruma
+Three years go by in a flash, huh?
+Kaito
+Yeah, time just flies by.
+Yonagi
+Welcome back, honey!
+Kaito
+Ah, Yonagi.
+
+I’m met with Yonagi’s smile as I open the door.
+
+Feeling my tension loosen a little, I smile back at her.
+Kaito
+How are you feeling?
+Yonagi
+I’m fit as a fiddle! It felt like I took a huge power nap.
+
+I nod, feeling a little relieved.
+Kaito
+Izumo, did you run the rest?
+Izumo
+Yes. I will display the results now.
+
+The test results appear on the terminal on the table.
+Kaito
+A little above average, huh? Standard, then.
+Yonagi
+I did great today!
+
+She looks at me, her eyes shining.
+Kaito
+I'm glad. I was really worried.
+Yonagi
+Izumo told me a bit about it. The experiment in the dreamscape went well, right?
+Kaito
+Yeah. If we keep going at this pace, the Kaito Lab's main job will be over in no time.
+Yonagi
+Cool!
+Kaito
+And it's all thanks to you. Thank you for being so brave. Everyone appreciates it.
+Yonagi
+Yeah.
+Izumo
+Have you had dinner yet?
+Kaito
+Nah.
+Izumo
+I will prepare it.
+
+When we're resting after dinner, I notice Yonagi staring at me from across the table.
+Kaito
+Yes?
+
+She just keeps on smiling at me.
+Kaito
+Mm?
+
+After a silent moment, she gently rests her hand on top of mine.
+Yonagi
+Hey... Do you think we could go and visit the other house tonight?
+Kaito
+...
+
+She gives me a bashful look.
+
+I respond with a small nod.
+Kaito
+Sure, let’s go.
+
+As soon as we arrive at the house, she throws herself at me before we can even shower off.
+
+I manage to hold back her incensed passion for long enough to get us both to our room, and we fall together onto the bed.
+
+Yonagi keeps calling my name when we're together.
+
+I respond in kind and call her name again and again.
+
+She's in control the whole time.
+
+As soon as we finish, she collapses on top of me and trusts herself to my arms.
+Kaito
+...
+
+The lights of the middle square seep through the window.
+
+A beautiful moon is projected in one of the monitors.
+
+If we were on the surface, the moonlight could illuminate our room completely.
+Yonagi
+Kaito?
+Kaito
+Yes?
+
+She remains silent for a moment.
+
+Eventually, her voice trickles out in an almost imperceptible murmur.
+Yonagi
+...Can you forget what I’m about to say? If I ask you to forget, would you do it?
+Kaito
+...
+
+I turn my gaze to her.
+
+With her face buried into my chest, I can’t see her expression.
+Yonagi
+I just need to say this... I want to get it off my chest or I'm gonna explode.
+Yonagi
+Can I?
+Kaito
+Yes. Tell me.
+Yonagi
+...
+
+She breathes slowly, still hiding her face.
+
+I simply feel her warm breath brush against my skin.
+Yonagi
+...Can we stop the experiments?
+Kaito
+...
+Yonagi
+I want to stop going to the lab. I just want you, Izumo, and Wooleep...
+Yonagi
+Couldn’t we just... live our lives in peace?
+
+I...
+
+I’m stunned speechless.
+
+I can feel her trembling on top of me.
+
+Her tears wet my skin.
+
+I've seen her cry like this before.
+
+She cried like this when we slept together for the first time, in the small bed in our low side house.
+Yonagi
+Can’t we just weed out the parks, or repair broken pipes like the old days?
+Yonagi
+Then we could get our rations, and I could hold them in our pot as we walked through the fields together on our way home.
+
+Her voice begins to quiver.
+Yonagi
+Then Izumo would grab whatever food we got and turn it into porridge, and we could giggle as we watch her cook...
+Yonagi
+...Can’t we go back to those days?
+
+The silence stretches on. I keep stroking her hair as she shivers in my arms.
+
+It's only when I'm about to say something that she speaks up.
+Yonagi
+I’m sorry.
+
+She says the words hoarsely and clings to me.
+
+She holds me so tightly.
+
+She holds her breath for what feels like hours.
+Kaito
+Yonagi.
+Yonagi
+I’m sorry!
+
+She sounds like herself again as she looks up at me.
+
+Her eyes are red from crying even as she smiles.
+Yonagi
+I just had to get that off my chest. I just wanted you to hear me say it.
+Yonagi
+Actually, I'd say it was more like I finally realized something.
+Kaito
+...Were you scared today?
+
+She nods, her smile not diminished one bit.
+Yonagi
+Just a little bit.
+Yonagi
+Actually, I’d say it was more like I understood something.
+Kaito
+What was it?
+Yonagi
+You know, with Dad, there were days when he forgot everything, and days when he acted like his usual self... and he flipped back and forth for a while.
+Yonagi
+I was so ready to go through the same thing, preparing myself for more and more times when I wasn't myself...
+Yonagi
+But after all day without remembering or knowing what was happening... I realized that's how it must feel.
+Yonagi
+I realized that's how it feels to be unaware and having to try and keep going along with everyone else just to look normal.
+Yonagi
+I just realized...
+Yonagi
+That’s what’s waiting for me in the future.
+Kaito
+...
+
+I hold her even tighter than before.
+
+I don't want a millimeter of daylight between us.
+Yonagi
+But it’s already decided, isn’t it?
+Yonagi
+That we'll do everything we can to help the people of the city.
+Yonagi
+That's what we decided, after all.
+
+Yonagi nods to herself.
+Yonagi
+So just forget what I said.
+Yonagi
+I’m sorry for being weird.
+Kaito
+Yonagi, we can stop.
+Yonagi
+We won’t stop.
+Kaito
+...
+
+Her tone is as firm as steel as she remains in my arms.
+Yonagi
+But... thanks.

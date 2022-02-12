@@ -1,0 +1,83 @@
+#c99_01_a_02
+
+	se 1 loop se5448
+	se 2 loop se5462
+	se 1 fade 60 0 100
+	se 2 fade 60 0 60
+	frameoff
+	wait
+	wait 30
+	cg
+	pl
+	bg
+	eg 0 eva09,a,a,a,a
+	rwipe w_rl 60
+	wait
+	出雲が案内してくれた部屋には、子供用のおもちゃやボードゲームが並んでいた。
+
+	その真ん中で、世凪が――
+
+	bgm 0 bgm0_19
+海斗	「えほん……？」
+
+	fw 0 cus,1,1,2,1,1
+	rdraw
+	pcm U_c00_C_01_086
+出雲	「みたいですね」
+
+	fw
+	僕はゆっくり世凪に歩み寄った。
+
+	世凪が僕を見上げた。
+
+	eg 0 eva09,1,2,2,1
+	rdraw
+海斗	「絵本を読んでいるのか」
+
+	eg 0 eva09,1,3,2,1
+	rdraw
+	pcm A_c00_C_01_013
+世凪	「……そう」
+
+海斗	「面白い？」
+
+	eg 0 eva09,1,1,2,1
+	rdraw
+	世凪がうなずく。
+
+	fw 0 cvs,1,1,1
+	rdraw
+	pcm V_leap_D_02
+リープくん	「――――」
+
+	fw
+	eg 0 eva09,a,a,a,a
+	rdraw
+	世凪は絵本に視線を戻して、ページをめくった。
+
+海斗	「どんなお話なんだ」
+
+	eg 0 eva09,a,b,a,a
+	rdraw
+	pcm A_c00_C_01_014
+世凪	「……」
+
+海斗	「……あれ」
+
+	fw 0 cus,1,1,2,4,1
+	rdraw
+	pcm U_c00_C_01_087
+出雲	「絵本に集中しているみたいですね」
+
+	fw
+海斗	「……子供みたいだな」
+
+	fw 0 cvs,1,1,1
+	rdraw
+	pcm V_leap_A_03
+リープくん	「――――」
+
+	fw
+海斗	「……」
+
+	next c99_01_x_02

@@ -1,0 +1,292 @@
+#c01_03_08
+
+	#103 = 1 
+	#101 = 20 
+	if (#213 == 20) #102 = 1 
+	#104 = 0 
+	frameoff
+	wait
+	view 0 case01
+	se 1 loop se5441
+	se 2 loop se5442
+	se 1 fade 60 0 100
+	se 2 fade 60 0 80
+	se 0 se2009_o
+	wait 50
+	se 6 loop se9014
+	se 6 fade 60 0 50
+	bgm 0 bgm1_04
+	se 0 
+	bg 0 bga07_a
+	rwipe w_bt 100
+	wait
+	rdraw 50
+	リビングのドアが開く音がして、私は目を覚ました。
+
+	ソファーで寝てしまっていたようだ。
+
+	ソファーテーブルには印刷した原稿が散らばっていた。
+
+	土曜日に大まかな改稿は終えて、
+	細かいところを直している途中だった。
+
+	私を起こしたのは、妻がドアを開いた音だった。
+
+	cg 1 pos @+75
+	cg 1 blend 0
+	cg 1 cem,1,1,1,1,1
+	rdraw
+	cg 1 fade 10 0 255
+	cg 1 move 40 @-75
+	wait 60
+有島	「あぁ、おかえり」
+
+	cg 1 cem,1,1,4,1,1
+	cg 1 shake 40 1 0 10
+	rdraw
+	pcm E_c01_03_001
+祥子	「うん」
+
+	cg 1 cem,1,1,1,6,1
+	rdraw
+	妻はソファーテーブルの私の原稿を一瞥した。
+
+	cg 1 cem,1,1,1,5,1
+	rdraw
+	pcm E_c01_03_002
+祥子	「できたの？」
+
+有島	「あぁ。一応、書ききりはした」
+
+	cg 1 cem,1,1,4,6,1
+	rdraw
+	pcm E_c01_03_003
+祥子	「そう」
+
+	妻はしばらく原稿を見つめた。
+
+	cg 1 cem,1,1,4,1,1
+	rdraw
+	pcm E_c01_03_004
+祥子	「あなたの書きたいものを書いたんでしょ？」
+
+	私は考えた。
+
+有島	「まぁ、そうなのかな……。今、書くべきだと思ったこととも――」
+
+	bgm 0 end
+	cg 1 cem,1,1,1,2,1
+	rdraw
+	pcm E_c01_03_005
+祥子	「人に読ませるのはやめておいたほうがいいんじゃない」
+
+	私の言葉に被せるように、妻が言った。
+
+	私は座ったまま妻を見あげた。
+
+	bgm 0 bgm1_10
+	cg 1 cem,1,1,4,4,1
+	rdraw
+	pcm E_c01_03_006
+祥子	「できはしらないけど」
+
+	cg 1 cem,1,1,4,2,4
+	rdraw
+	pcm E_c01_03_007
+祥子	「書きたいものを書いて面白いなら、あなた教師なんてやってないでしょう」
+
+	しばらく考えて、私はうなずいた。
+
+	cg 1 cem,1,1,4,4,1
+	rdraw
+	pcm E_c01_03_008
+祥子	「でも、書けてよかったわね、お疲れ様」
+
+有島	「……」
+
+	cg 1 cem,1,1,4,2,1
+	rdraw
+	pcm E_c01_03_009
+祥子	「おやすみなさい」\@
+	wait 60
+	pl 1 fade 30 255 0
+	pl 1 amove1 30 @-30
+	\n
+
+	se 0 se2009_c
+有島	「……おやすみ」
+
+	cg 
+	pl
+	rdraw
+	私がつぶやいたとき、妻はもう扉を閉めていた。
+
+	暴言だとは思わなかった。
+
+	水を差されたとも思わない。
+
+	むしろ私は、妙に納得してしまっていた。
+
+	――妻の、言うとおりだった。
+
+	bg 0 bga07_a
+	pl 0 scale 120% 120%
+	pl 0 pos @+60 @-45
+	rdraw 50
+	pl 0 m2move 3000 @-120
+	私は散らばったコピー用紙を見つめた。
+
+	この物語になにか価値があるだろうか。
+
+	いい年にもなって、一人で舞い上がっていたのかもしれない。
+
+	こんな原稿で、なにが変わる。
+
+	なにも変わりはしない。
+
+	作家を目指していたとき、私は書きたいものをずっと書いていた。
+
+	そして現に私はこうして、結局なにも変わらない日常を生きている。
+
+	そんな私の書いた文章が、誰かを変えられる訳がない。
+
+	百枚を超えた原稿を、私は見つめた。
+
+	こんなものを、凛に渡してなんになるんだ。
+
+	そう思って、原稿を丸めようしたとき――
+
+	bgm 0 end 60
+	se 1 end 60
+	se 2 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg  
+	eg 
+	fg 
+	eg 5 f_kaisou
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	pl
+	eg 1 mode sepia
+	eg 1 bga01b
+	fw 0 mode sepia
+	fw 0 cbs,1,1,6,1,2
+	rdraw
+	pcm B_c01_01_055
+凛	「先生の書くもの、読んでみたいけど」
+
+	fw 0
+	rdraw
+	frameoff fade 30
+	wait 100
+	eg 1
+	bg 0 mode sepia
+	bg 0 bga04a
+	cg 1 mode sepia
+	cg 1 cbl,3,1,7,1,1
+	rdraw 100
+	pcm B_c01_03_028
+凛	「いつ読ませてもらえるんですか？」
+
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg  
+	eg 
+	fg 
+	eg 5
+	rwipe w_kaisou 120
+	wait
+	wait 30
+	se 1 loop se5441
+	se 2 loop se5449
+	se 1 fade 60 0 100
+	se 2 fade 60 0 40
+	手が止まってしまった。
+
+	私は目を閉じた。
+
+	折れてはだめだ。
+
+	軸をぶらしてはいけない。
+
+	妻になんと言われようと――
+
+	他の誰になんと言われようと――
+
+	凛は、凛だけは、私の文章を読みたいと言ってくれた。
+
+	今の私の文章を読みたいと言ってくれた。
+
+	bg 0 bga07_a
+	rwipe w_bt 100
+	wait
+	rdraw 100
+	目を開き、私は原稿を見つめた。
+
+	この原稿をとおして、私は自分の中の秋房像と向きあえた。
+
+	凛にとっても、なにかのきっかけになれば、
+	私が書いた意味が生まれる。
+
+	読む価値がないと思うなら捨ててもらえばいい。
+
+	それでいいじゃないか。
+
+	凛に渡して、凛の好きにしてもらおう。
+
+	私はちらばっていた原稿をまとめて、部屋に戻った。
+
+	se 1 end 60
+	se 2 end 60
+	frameoff fade
+	wait 30
+	bg 0 
+	rwipe w_day 200
+	wait
+	frameoff fade 
+	wait
+	initialize_header
+	view 0 default
+	particle stop
+	particle2 stop
+	particle3 stop
+	fesds
+	bgm
+	se
+	bg stop
+	cg stop
+	fg stop
+	eg stop
+	fw stop
+	pl stop
+	particle stop
+	place
+	wait
+	bg
+	cg
+	fg
+	eg
+	fw
+	pl
+	wait
+	bg tone
+	cg tone
+	fg tone
+	eg tone
+	bg attr_def 401 402 403 404 405
+	cg attr_def 401 402 403 404 405
+	fg attr_def 401 402 403 404 405
+	eg attr_def 401 402 403 404 405
+	pl attr_def 401 402 403 404 405
+	wait
+	wait
+	drawdef
+	wipedef
+	wait
+	next c01_03_09

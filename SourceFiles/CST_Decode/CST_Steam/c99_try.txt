@@ -1,0 +1,8 @@
+#c99_try
+
+	#103 = 0 
+	#101 = 0 
+	undo
+	movie
+	if (#399 == 2) next c99_try_02
+	next c99_try_01

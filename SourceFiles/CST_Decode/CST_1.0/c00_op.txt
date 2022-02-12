@@ -1,0 +1,6 @@
+#c00_op
+
+	undo
+	movie op_c00
+	end_of_kaisou 40
+	next c00_op_x

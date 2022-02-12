@@ -1,0 +1,6 @@
+#c03_op
+
+	undo
+	movie op_c03
+	end_of_kaisou 43
+	next c03_03_03

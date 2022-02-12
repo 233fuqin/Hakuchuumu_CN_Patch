@@ -1,0 +1,6 @@
+#c00_ed
+
+	undo
+	movie ed_c00
+	end_of_kaisou 47
+	next c00_end

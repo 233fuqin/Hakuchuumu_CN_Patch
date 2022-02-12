@@ -1,0 +1,76 @@
+#c99_c_03
+
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave2 60
+	wait
+	wait 30
+	eg 5 f_heroine
+	rwipe w_cine 40 1
+	wait 30
+	view 0 cinema
+	wait
+	wait 1
+	eg 2 mode sepia
+	eg [1,2] scale 150% 150%
+	eg [1,2] pos -150 0
+	eg 2 blur 30 30
+	eg 1 blur 20 20
+	eg 2 eva12,a,b
+	eg 1 eva12,a,b
+	eg 4 f_dream
+	rwipe w_drm 120
+	wait
+	pcm A_c00_01_277a
+世凪	「……海斗ならね」
+
+	eg 2 m2fade 600 255 0
+	pcm A_c00_01_278a
+世凪	「きっといつか、もっとすごいもの、作れるよ」
+
+	pcm A_c00_01_283a
+世凪	「だから、泣き止んで。海斗」
+
+	pcm A_c00_02_233a
+世凪	「……あのね、わたしね、海斗のことが、好きなの」
+
+	se 0
+	frameoff off
+	wait
+	wait 30
+	eg 5
+	rwipe w_cine 40 1
+	wait 30
+	view 0 default
+	wait
+	wait 1
+	se 0 end 60
+	se 1 end 60
+	se 2 end 60
+	bgm 0 end 60
+	frameoff
+	wait
+	wait 30
+	bg  
+	cg 
+	eg 
+	fg 
+	rwipe w_wave1 60
+	wait
+	wait 1
+	eg 2 stop
+	eg 1 mode
+	pl
+	eg [0-4]
+	\n
+
+	next c99_c_x

@@ -1,0 +1,7 @@
+#c03_ed
+
+	undo
+	movie ed_c03
+	steam achievement ACH_009
+	end_of_kaisou 06
+	next c03_ed_x

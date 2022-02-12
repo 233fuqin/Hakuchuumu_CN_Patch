@@ -1,0 +1,6 @@
+#brunch_B_13
+
+	rand 299 1 3
+	if (#299 == 1) next c01_01
+	if (#299 == 3) next c03_01
+	if (#299 == 2) next brunch_B_13

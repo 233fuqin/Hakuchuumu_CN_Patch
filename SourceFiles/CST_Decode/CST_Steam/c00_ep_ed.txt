@@ -1,0 +1,6 @@
+#c00_ep_ed
+
+	undo
+	movie ed_c00_ep
+	end_of_kaisou 08
+	next c00_ep_ed_x

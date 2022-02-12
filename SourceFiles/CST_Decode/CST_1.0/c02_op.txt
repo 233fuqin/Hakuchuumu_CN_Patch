@@ -1,0 +1,6 @@
+#c02_op
+
+	undo
+	movie op_c02
+	end_of_kaisou 42
+	next c02_01_03b
