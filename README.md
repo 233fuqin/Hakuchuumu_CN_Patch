@@ -1,11 +1,8 @@
 # 简介
 本补丁移植官中文本及UI图片至日文版（ver.1.2）  
 仅测试通过性（正常全程游玩），未测试文本逻辑及BUG  
-
 如需反馈BUG或更新文本请在此页面提Pull requests或Issues 
-
 由于官中没有HS翻译，HS部分仍然为日文[HS文本](https://github.com/Dir-A/Hakuchuumu_CN_Patch/tree/main/SourceFiles/Convert_CN/hs)  
-
 Prologue章节会在第一次运行游戏时自动进入，如果你错过了，  
 可通过删除游戏目录下的save文件夹并重新打开游戏进入。  
 
