@@ -1,3 +1,4 @@
+![kdyp](https://github.com/Dir-A/Hakuchuumu_CN_Patch/blob/main/kdyp.jpg)
 # 简介
 本补丁移植官中文本及UI图片至日文版（ver.1.2）  
 仅测试通过性（正常全程游玩），未测试文本逻辑及BUG  
