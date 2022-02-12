@@ -21,6 +21,7 @@ Prologue章节会在第一次运行游戏时自动进入，如果你错过了，
 # 参考
 脚本解析参考自以下项目  
 [lneditor](https://github.com/regomne/lneditor)  
+[chinesize](https://github.com/regomne/chinesize)  
 [CatSceneEditor](https://github.com/marcussacana/CatSceneEditor)  
 [TriggersTools.CatSystem2](https://github.com/trigger-segfault/TriggersTools.CatSystem2)  
-[chinesize](https://github.com/regomne/chinesize)
+
