@@ -21,3 +21,9 @@ Prologue章节会在第一次运行游戏时自动进入，如果你错过了，
 本项目所有资源数据均免费提供下载与使用，且不进行盈利  
 本项目仅供交流学习，请在下载后的24小时内自行删除  
 
+# 参考
+脚本解析参考自以下项目  
+[lneditor](https://github.com/regomne/lneditor)  
+[CatSceneEditor](https://github.com/marcussacana/CatSceneEditor)  
+[TriggersTools.CatSystem2](https://github.com/trigger-segfault/TriggersTools.CatSystem2)  
+[chinesize](https://github.com/regomne/chinesize)
